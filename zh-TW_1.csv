@@ -269,7 +269,7 @@ Camera Up,,Camera Up,鏡頭向上
 Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,鏡頭模式如 FPS（第一人稱射擊遊戲）一樣運作。
 Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,鏡頭模式如自上而下的 2D 遊戲一樣運作。
 Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,鏡頭模式如 FPS（第一人稱射擊遊戲）的旁觀者鏡頭一樣運作。
-Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,鏡頭模式類似大型多人線上遊戲的聚焦點。
+Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,鏡頭模式類似 MMO（大型多人線上遊戲）的聚焦點。
 Camera mode that orbits a point.,,Camera mode that orbits a point.,鏡頭模式將聚焦一處。
 Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,鏡頭 0 將取代使用手部位置，覆蓋桌上所有人的空格位置。移動您的鏡頭至您想要作為預設鏡頭的位置並按下＜Ctrl + 0＞。這是所有使用者的新空格位置。
 Cancel,,Cancel,取消
