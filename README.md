@@ -17,6 +17,7 @@
 
 [Steam 工作坊連結](https://steamcommunity.com/sharedfiles/filedetails/?id=3578945113)
 
+---
 
 # Tabletop Simulator - Traditional Chinese (Taiwan) Translation Mod
 
