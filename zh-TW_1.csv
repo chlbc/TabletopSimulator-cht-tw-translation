@@ -1,0 +1,2029 @@
+Key,Desc,Default,Chinese (Traditional)
+_Title,繁體中文（台灣）,,
+_Author,CHLBC,,
+(?) or (-) will bring up a menu with all the controls. Open and close this menu to proceed. Optionally you can press (Esc) then click 'Help Menu'.,,"<?> or </> will bring up a menu with all the controls.
+Open and close this menu to proceed.
+Optionally you can press <Esc> then click 'Help Menu'.","＜？＞或＜/＞將彈出選單與所有的控制項。
+開啟和關閉該選單進行。
+您也可以選擇按＜Esc＞然後單擊「幫助選單」。"
+(A) on an object to bring it up.,,<A> on an object to bring it up.,在物件上按下＜A＞拿取。
+(Back) will bring up a menu with all the controls. Open and close the menu by hitting (Back) Twice.,,"<Back> will bring up a menu with all the controls.
+Open and close the menu by hitting <Back> Twice.","＜Back＞將開啟可操控全域的選單。
+請連按＜Back＞兩次以開啟及關閉選單。"
+(Click) Reset,,(Click) Reset,（點擊）重設
+(Click) Zoom,,(Click) Zoom,（點擊）縮放
+(Left Click) and hold your mouse on the deck.,,<Left Click> and hold your mouse on the deck.,點擊＜滑鼠左鍵＞並長按牌堆。
+(Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,點擊＜滑鼠左鍵＞並快速從牌堆中拖取。
+(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,（可選）額外的 AssetBundle 可用於多物件間的同享效果並避免重複的記憶體使用。非常適合音效及粒子效果。
+(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,（可選）背景圖可以留為空白。
+(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulate,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,,
+(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,（可選）自訂模型將預設生成一個盒型碰撞體。只會因效能消耗而需要多於一個精確碰撞體時啟用。支援小於 255 三角面多網格的組合碰撞體（僅限凸狀）。
+(Optional) Game Types:,,(Optional) Game Types:,（可選）遊戲類型：
+(Optional) Number of Players:,,(Optional) Number of Players:,（可選）玩家人數
+"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied co","(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,
+"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",（可選）只在有網格碰撞體時使用。非凸碰撞僅適用於鎖定的物件，但允許孔洞碰撞體（例如：中國跳棋棋盤）。如果您需要在移動物件上使用非凸碰撞，請在碰撞體上使用多個網格並停用此設定。
+"(Optional) Upload the diffuse-image texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here.",（可選）上傳模型的漫反射或圖片紋理至網頁代管，然後將連結在此處複製貼上。
+"(Optional) Upload the normal-bump texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here.",（可選）上傳模型的一般或凹凸貼圖至網頁代管，然後將連結在此處複製貼上。
+"(Optional) Upload your image to a web host, then copy paste the direct link here.",,"(Optional) Upload your image to a web host, then copy paste the direct link here.",（可選）上傳圖片至網頁代管，然後將連結在此處複製貼上。
+(Optional) Workshop Thumbnail URL:,,(Optional) Workshop Thumbnail Url:,（可選）工作坊縮圖連結：
+(Right Bumper) and hold your pointer on the deck.,,<Right Bumper> and hold your pointer on the deck.,按下＜RB＞並將游標置於牌堆上。
+(Right Bumper) and quickly drag away from the deck.,,<Right Bumper> and quickly drag away from the deck.,按下＜RB＞並快速從牌堆中拖取。
+(Right Click) on an object to bring it up.,,<Right Click> on an object to bring it up.,在物件上點擊＜滑鼠右鍵＞以開啟選單。
+(Root Folder),,<Root Folder>,<根目錄>
+({0}) and hold your hand on the deck.,,<{0}> and hold your hand on the deck.,＜{0}＞並在牌堆上長按。
+({0}) and quickly drag away from the deck.,,<{0}> and quickly drag away from the deck.,＜{0}＞並快速從牌堆中拖取。
+10 digit number found in the URL of your mod on the Workshop,,10 digit number found in the URL of your mod on the Workshop,工作坊模組網址連結中的 10 位數字
+1ST PERSON CAMERA,,1St Person Camera,第一人稱視角
+1st Person,,1st Person,第一人稱
+2D,,2D,2D
+"2D Art, UI, DLCs & PR",,"2D art, UI, DLCs",2D 繪畫、介面、DLC
+2D Pointer,,2D Pointer,2D 游標
+2D or 3D,,2D or 3D,2D 或 3D
+2d3dlong,,"When in 2D measurements will be flattened onto the horizontal plane.  
+
+When in 3D height will be incorporated into the measurement.","2D 中測量水平面上兩點的直線距離。
+
+3D 中測量立體空間的直線距離。"
+3D,,3D,3D
+3D Pointer,,3D Pointer,3D 游標
+3D Prop Art,,3D Prop Art,3D 道具美術
+3RD-TOP DOWN CAMERA,,3RD/Top Down Camera,第三人稱／俯視視角
+3rd Person,,3rd Person,第三人稱
+ADD AUDIO,,ADD AUDIO,新增音訊
+ADVANCED,,Advanced,進階
+ALL SERVERS,,All Servers,所有伺服器
+ALL TAGS,,All Tags,所有標籤
+ALT Zoom and Hidden Areas do not work on it.,,ALT Zoom and Hidden Areas do not work on it.,Alt 鍵縮放及隱藏區對此不可用。
+APPLY,,Apply,套用
+Abstract Games,,Abstract Games,抽象策略遊戲
+Action,,Action,動作
+Active Tags Displayed Here!,,Active Tags Displayed Here!,啟用在這裡顯示標籤！
+Add Custom Tag:,,Add Custom Tag:,新增自訂標籤：
+Add New,,Add New,新增
+Add Tag:,,Add Tag:,新增標籤：
+Add a tag to the selected components.,,Add a tag to the selected components.,新增標籤至已選取的配件。
+Additive Load,,Additive Load,額外載入
+Adds soft shadows to the scene for a greater sense of depth. Costly performance.,,Adds soft shadows to the scene for a greater sense of depth. Costly performance.,在場景中增加柔和陰影以增加景深效果。極其消耗效能。
+Admin,,Admin,管理者
+Advanced Mode,,Advanced Mode,進階模式
+Advanced Options,,Advanced Options,進階選項
+Align Zoomed Object,,Align Zoomed Object,對準縮放的物件
+All,,All,全部
+All Commands,,All Commands,所有指令
+All actions will be executed on all highlighted objects.,,All actions will be executed on all highlighted objects.,將在所有已標示的物件上執行所有動作。
+Allow Swapping,,Allow Swapping,允許交換
+Allows player to be able to change their color-seat.,,Allows player to be able to change their color/seat.,允許玩家更改他們的顏色／座位。
+Allows players to be able to create or destroy hidden areas or randomize zones.,,Allows players to be able to create or destroy hidden areas or randomize zones.,允許玩家新增或刪除隱藏區或隨機區。
+Allows players to be able to draw with the paint tool on the table.,,Allows players to be able to draw with the paint tool on the table.,允許玩家在桌面上使用繪畫工具塗鴉繪畫。
+Allows players to be able to draw.,,Allows players to be able to draw.,允許玩家繪畫。
+"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).",,"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).",允許玩家使用數位物品（MP3 播放器、計數器、鐘錶等）。
+"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).",,"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).",允許玩家使用數位物品（掌上型電腦、MP3 播放器、計數器等）。
+Allows players to be able to interact with the music player.,,Allows players to be able to interact with the music player.,允許玩家使用音樂播放器。
+Allows players to be able to interact with the tablets.,,Allows players to be able to interact with the tablets.,允許玩家使用掌上型電腦。
+Allows players to be able to nudge objects.,,Allows players to be able to nudge objects.,允許玩家輕推物件。
+Allows players to be able to peek under objects.,,Allows players to be able to peek under objects.,允許玩家偷看物件下方。
+Allows players to be able to save objects.,,Allows players to be able to save objects.,允許玩家儲存物件。
+Allows players to be able to use the decal tool.,,Allows players to be able to use the decal tool.,允許玩家使用印花工具。
+Allows players to be able to use the line tool. This includes the to ping location.,,Allows players to be able to use the line tool. This includes the to ping location.,允許玩家使用直線工具。此工具包括標記位置的功能。
+Allows players to combine objects together with the combine tool.,,Allows players to combine objects together with the combine tool.,允許玩家使用組合工具連結物件。
+Allows players to create or destroy joints.,,Allows players to create or destroy joints.,允許玩家新增或刪除節點。
+Allows players to edit the notebook or text on screen.,,Allows players to edit the notebook or text on screen.,允許玩家編輯筆記或螢幕上的文字。
+Allows players to flick objects.,,Allows players to flick objects.,允許玩家輕彈物件。
+Allows players to flip the table.,,Allows players to flip the table.,允許玩家翻桌。
+Allows players to increase or decrease the size of objects.,,Allows players to increase or decrease the size of objects.,允許玩家放大或縮小物件的尺寸。
+Allows players to join or leave teams.,,Allows players to join or leave teams.,允許玩家加入或離開小組。
+Allows players to lock and unlock objects in place.,,Allows players to lock and unlock objects in place.,允許玩家鎖定或解鎖物件。
+"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)",,"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)",允許玩家執行右鍵選單中的動作（名稱、發牌、搜尋等等。）
+Alpha,,Alpha,Alpha
+Alt,,Alt,Alt
+Alt-Zoom Always On,,Alt-Zoom Always On,保持開啟 Alt 鍵縮放
+Alt-Zoom Follows Pointer,,Alt-Zoom Follows Pointer,跟隨游標進行 Alt 鍵縮放
+Alternate Direction,,Alternate Direction,交替方向
+"Alternatively, you can also hold an object & press your middle mouse button.",,"Alternatively, you can also hold an object & press your middle mouse button.",或者，您可以拿取物件並點擊＜滑鼠中鍵＞。
+"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",,"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",或者，您可以拿取物件並使用＜滑鼠滾輪＞。
+"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.",,"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.",或者，您可以拿取物件，按下＜+＞並使用＜滑鼠滾輪＞更改大小比例。
+"Alternatively, you can press the chat icon on the bottom left to text chat.",,"Alternatively, you can press the chat icon on the bottom left to text chat.",或者，您可以點擊底部文字聊天左側的聊天室圖示。
+Always On,,Always On,保持開啟
+"Always display the on-screen keyboard,",,"Always display the on-screen keyboard,",保持顯示虛擬鍵盤，
+Amaranth,,Amaranth,Amaranth
+Ambient,,Ambient,環境光
+Ambient Intensity,,Ambient Intensity,環境光強度
+An advanced feature for scripting. Can be used to return all objects in this zone.,,An advanced feature for scripting. Can be used to return all objects in this zone.,腳本的進階選項。可以用於將此區域的所有物件放回。
+Anchor,,Anchor,錨點
+Anchored,,Anchored,錨定桌面
+And all our Kickstarter Supporters! Thank you very much!,,And all our Kickstarter Supporters! Thank you very much!,以及感謝我們所有的 Kickstarter 支持者！非常感謝你們！
+Angular Drag,,Angular Drag,旋轉阻力
+Animals,,Animals,動物
+Animations,,Animations,動畫
+Anisotropic Filtering,,Anisotropic Filtering,各向異性過濾
+Anyone can join with an optional password.,,Anyone can join with an optional password.,任何人都可以使用密碼加入。
+Are you looking for players to join you?,,Are you looking for players to join you?,是否要搜尋玩家加入您的房間呢？
+Are you sure you want to additively load {0}?,,Are you sure you want to additively load {0}?,是否要額外載入「{0}」呢？
+Are you sure you want to clear the table?,,Are you sure you want to clear the table?,是否要清空桌面呢？
+Are you sure you want to delete script {0}?,,Are you sure you want to delete script {0}?,是否要刪除腳本「{0}」呢？
+Are you sure you want to delete {0}?,,Are you sure you want to delete {0}?,是否要刪除「{0}」呢？
+Are you sure you want to exit to the Main Menu?,,Are you sure you want to exit to the Main Menu?,是否要回到主選單呢？
+Are you sure you want to load {0}?,,Are you sure you want to load {0}?,是否要載入「{0}」呢？
+Arms,Weapons,Arms,武器
+Arms Coin 2,Weapons Coin 2,Arms Coin 2,武器硬幣 2
+Arms Coin 3,Weapons Coin 3,Arms Coin 3,武器硬幣 3
+Arms Coin 4,Weapons Coin 4,Arms Coin 4,武器硬幣 4
+Arms Coin 5,Weapons Coin 5,Arms Coin 5,武器硬幣 5
+Arms Coin Ace,Weapons Coin Ace,Arms Coin Ace,武器硬幣 A
+Arms Coin Blank,Weapons Coin Blank,Arms Coin Blank,武器硬幣 空白
+Arms Dice,Weapons Dice,Arms Dice,武器骰子
+Arms Square 2,Weapons Square 2,Arms Square 2,武器方塊 2
+Arms Square 3,Weapons Square 3,Arms Square 3,武器方塊 3
+Arms Square 4,Weapons Square 4,Arms Square 4,武器方塊 4
+Arms Square 5,Weapons Square 5,Arms Square 5,武器方塊 5
+Arms Square Ace,Weapons Square Ace,Arms Square Ace,武器方塊 A
+Arms Square Blank,Weapons Square Blank,Arms Square Blank,武器方塊 空白
+Arrow-Line Tool,,Arrow/Line Tool,箭頭／直線工具
+Arrows next to the top menu rewind-forward time (host only).,,Arrows next to the top menu rewind/forward time (host only).,頂部選單左側的箭頭可倒轉／快轉時間（僅限房主）
+Asset name,,Asset name,配件名稱
+AssetBundle,,AssetBundle,AssetBundle
+Assets,,Assets,配件
+Attach,,Attach,附加
+Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,,Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,將物件以父子關係附加到另一個物件上。被附加的物件將不再是獨立的實體，只會以視覺效果呈現。
+Attached UI Screen,,Attached UI Screen,附加介面
+Attack,,Attack,攻擊
+Audio,,Audio,音訊
+Audio name,,Audio name,音訊名稱
+Auto,,Auto,自動
+Auto Hide Chat,,Auto Hide Chat,自動隱藏聊天室
+Auto Run,,Auto Run,自動前進
+Auto Scale,,Auto Scale,自動尺寸比例
+Auto connect to IRC on startup.,,Auto connect to IRC on startup.,自動連線至 IRC。
+Auto raise,,Auto raise,自動提起
+Auto scale will automatically size the UI to match the resolution ignoring the slider.,,Auto scale will automatically size the UI to match the resolution ignoring the slider.,自動縮放將自動調整介面尺寸以符合解析度。
+"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.",,"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.","自動：在適當情況下自動測量；懸停時按住 Crtl 以使用游標位置。
+自由：僅使用游標位置測量。"
+Autofocus Search Input,,Autofocus Search Input,自動對焦搜尋輸入
+Automatic,,Automatic,自動
+Automatically arranges objects (predominantly cards),,Automatically arranges objects (predominantly cards),自動整理物件（主要針對卡片）
+Autoraise,,Autoraise,自動朝上
+Autosave Games Window Count,,,自動儲存遊戲顯示數量
+Autosave Interval,,Autosave Interval,自動儲存間隔
+Autosave Log,,Autosave Log,自動儲存記錄
+Autosave Slots,,,自動儲存欄位
+Available space on Steam Cloud. ~100 GB available total.,,Available space on Steam Cloud. ~100 GB available total.,Steam 雲端的可用空間。總計 100 GB 可用。
+Axis,,Axis,參考軸線
+BACKGROUNDS,,Backgrounds,背景
+BLOCK,,Block,封鎖
+BLOCKED,,Blocked,黑名單
+Back,,Back,背面
+Back Image,,Back Image,背景圖
+Back is Hidden,,Back is Hidden,背面隱藏
+Backgammon,,Backgammon,雙陸棋
+Background,,Background,背景
+Backspace,,Backspace,← Backspace
+Bad Connection,,Bad Connection,網路連線不佳
+Bag,,Bag,收納袋
+Barghest,,Barghest,犬魔
+Barrel,,Barrel,木桶
+Basilisk,,Basilisk,巴西利斯克
+Battle For Souls,,Battle For Souls,靈魂之戰
+Bear,,Bear,熊
+Bind,,Bind,綁定
+Bishop,,Bishop,主教
+Bishop Cast Iron,,Bishop Cast Iron,鑄鐵主教
+Bishop Chrome,,Bishop Chrome,鉻金主教
+Bishop Dark,,Bishop Dark,深色主教
+Bishop Light,,Bishop Light,淡色主教
+Bishop Supporters,,Bishop Supporters,支持者限定主教
+Black,,Black,黑色
+Black (Game Master - see all hidden information),,Black (Game Master - see all hidden information),黑色（遊戲主持者——可查看所有隱藏資訊）
+Black (Game Master),,Black (Game Master),黑色（遊戲主持者）
+Black Bowl,,Black Bowl,黑棋棋盒
+Black Dragon,,Black Dragon,黑龍
+Black Piece,,Black Piece,黑棋
+Blindfold,,Blindfold,蒙眼布
+Blindfolded (Can't see),,Blindfolded (Can't see),已戴上蒙眼布（無法查看）
+Block ?,,Block <Player>?,是否要封鎖＜玩家＞呢？
+Block {0}?,,Block {0}?,是否要封鎖「{0}」呢？
+Blocks,,Blocks,積木
+Blue,,Blue,藍色
+Blue 10,,Blue 10,藍色籌碼 10
+Blue Rectangle,,Blue Rectangle,藍色長方積木
+Board,,Board,棋盤
+Board Games,,Board Games,棋盤遊戲
+Boardgame,,Boardgame,棋盤遊戲
+Boards,,Boards,棋盤
+Book Buttons On Hover,,Book Buttons On Hover,懸停狀態的圖書按鈕
+Book Page Opacity,,Book Page Opacity,書頁不透明度
+Book UI Opacity,,Book UI Opacity,圖書介面不透明度
+Both,,Both,兩者皆是
+Bottom Image,,Bottom Image,底部圖案
+Bounciness,,Bounciness,彈性
+Bowl,,Bowl,收納盒
+Box,,Box,矩形
+Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,,Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,框選或多選物件後，按下＜G＞將他們整理成一組。僅適用於可堆疊的物件和卡片。在環境選單中也可以執行此動作。
+Break Force,,Break Force,破壞力度
+Break Torque,,Break Torque,破壞扭力
+Brightness,,Brightness,亮度
+Broken Confirmation Dialog!,,Broken Confirmation Dialog!,損壞的確認對話！
+Brown,,Brown,棕色
+Brown Backgammon,,Brown Backgammon,棕色雙陸棋棋子
+Browse,,Browse,瀏覽
+Browse Local Files,,Browse Local Files,瀏覽本機檔案
+Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,,Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,瀏覽您的工作坊模組。若發現工作坊的部分模組未列出，請務必訂閱自己的模組以顯示。
+Browse mods on the Workshop.,,Browse mods on the Workshop.,在工作坊瀏覽模組。
+Business Coordinator,,Business Coordinator,業務協調人
+CHAT COMMANDS,,Chat Commands,聊天室
+CLASSIC,,Classic,經典
+CLEAR,,Clear,清空
+CLOUD,,Cloud,雲端
+CM,,CM,CM
+COMPONENTS,,Components,配件
+CONTEXTUAL MENU,,Contextual Menu,環境選單
+CONTROLLERS,,Controllers,控制器
+CONTROLS,,Controls,控制
+CREATE,,Create,建立
+CREATE ASSET,,Create Asset,新增配件
+CREATE DECAL,,Create Decal,新增印花
+CUSTOM ASSETBUNDLE,,Custom Assetbundle,自訂 AssetBundle
+CUSTOM BACKGROUND,,Custom Background,自訂背景
+CUSTOM BOARD,,Custom Board,自訂棋盤
+CUSTOM CARD,,Custom Card,自訂卡片
+CUSTOM DECK,,Custom Deck,自訂牌堆
+CUSTOM DICE,,Custom Dice,自訂骰子
+CUSTOM FIGURINE,,Custom Figurine,自訂塑像
+CUSTOM IMAGE,,Custom Image,自訂圖案
+CUSTOM JIGSAW,,Custom Jigsaw,自訂拼圖
+CUSTOM MODEL,,Custom Model,自訂模型
+CUSTOM OBJECT,,Custom Object,自訂物件
+CUSTOM PDF,,Custom PDF,自訂 PDF
+CUSTOM TABLE,,Custom Table,自訂桌子
+CUSTOM TABLE SQUARE,,Custom Table Square,自訂方桌
+CUSTOM TILE,,Custom Tile,自訂磚塊牌
+CUSTOM TOKEN,,Custom Token,自訂標記物
+Calculator,,Calculator,計算器
+Camera,,Camera,鏡頭
+Camera Down,,Camera Down,鏡頭向下
+Camera Hold Rotate,,Camera Hold Rotate,鏡頭旋轉
+Camera Left,,Camera Left,鏡頭向左
+Camera Load Spin Rate,,Camera Load Spin Rate,鏡頭載入轉速
+Camera Mode,,Camera Mode,鏡頭模式
+Camera Right,,Camera Right,鏡頭向右
+Camera Up,,Camera Up,鏡頭向上
+Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,鏡頭模式如 FPS（第一人稱射擊遊戲）一樣運作。
+Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,鏡頭模式如自上而下的 2D 遊戲一樣運作。
+Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,鏡頭模式如 FPS（第一人稱射擊遊戲）的旁觀者鏡頭一樣運作。
+Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,鏡頭模式類似大型多人線上遊戲的聚焦點。
+Camera mode that orbits a point.,,Camera mode that orbits a point.,鏡頭模式將聚焦一處。
+Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,鏡頭 0 將取代使用手部位置，覆蓋桌上所有人的空格位置。移動您的鏡頭至您想要作為預設鏡頭的位置並按下＜Ctrl + 0＞。這是所有使用者的新空格位置。
+Cancel,,Cancel,取消
+Cannot overwrite default themes.,,Cannot overwrite default themes.,無法覆蓋預設主題。
+Cap Framerate,,Cap Framerate,幀率鎖定
+Card,,Card,卡片
+Card Games,,Card Games,卡片遊戲
+Card Hands,,Card Hands,卡片手牌區
+Card Is A Deck For Hotkeys,,Card Is A Deck For Hotkeys,快速鍵會將單張卡片視為牌堆
+Card Scale,,Card Scale,卡片尺寸
+Card Spread Cards-Per-Row,,,每行卡片展開上限
+Card Spread Distance,,,卡片展開間距
+Card Spread Next Row Distance,,,卡片展開行距
+CardBot,,CardBot,卡片機器人
+CardBots Head Deck,,CardBots Head Deck,卡片機器人 頭部牌堆
+CardBots Main Deck,,CardBots Main Deck,卡片機器人 主要牌堆
+Cardboard,,Cardboard,紙板
+Cards,,Cards,卡片
+Cards-Per-Deck,,Cards Per Deck,每組卡片數量
+Cast Shadows,,Cast Shadows,光源陰影
+Category,,Category,類別
+Cathedral,,Cathedral,大教堂
+Centaur,,Centaur,半人馬
+Center,,Center,中心
+Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,"中心：使用物件樞軸關節的坐標系。
+樞軸：使用使用物件樞軸關節的坐標系。"
+Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,"中心：使用選取物件中心的坐標系。
+樞軸：使用使用物件樞軸關節的坐標系。"
+Centre On Mouse Wheel,,Centre On Mouse Wheel,以游標為中心縮放
+Cerberus,,Cerberus,克爾柏洛斯
+Certain object types have special properties to make them behave more naturally.,,Certain object types have special properties to make them behave more naturally.,某些物件類型具有特殊屬性，使其表現得更加自然。
+Chair,,Chair,椅子
+Change Color,,Change Color,更改顏色
+Change Name,,,更改名稱
+Change Team,,Change Team,更換小組
+"Change any settings like Graphics, Controls, UI, etc.",,"Change any settings like Graphics, Controls, UI, etc.",更改如圖像、控制、介面等設定。
+Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),,Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),切換語音聊天模式：即按即說（按住語音鍵）；切換語音（開啟／關閉語音）；停用語音（關閉語音聊天）
+Change the chat window color.,,Change the chat window color.,更改聊天室視窗顏色。
+Change the color of the light shining from above.,,Change the color of the light shining from above.,更改上方光照的顏色。
+Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,,Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,更改目前載入遊戲的中繼資料。這些資訊可在遊戲中或工作坊中搜尋。
+Change the tooltip on object based on its rotation. Great for custom dice or tiles.,,Change the tooltip on object based on its rotation. Great for custom dice or tiles.,基於旋轉角度更改物件上的工具提示框。自訂骰子和磚塊牌時非常有用。
+Change to the next page.,,Change to the next page.,更換至下一頁。
+Change to the next state.,,Change to the next state.,更換至下一狀態。
+Changes chat Opacity.,,Changes chat Opacity.,調整聊天室的不透明度。
+Changes how strong the light shines from above. This also effects the strength of the shadows.,,Changes how strong the light shines from above. This also effects the strength of the shadows.,調整上方光照的強弱。此設定也會影響陰影的深淺。
+Changes the Camera look speed.,,Changes the Camera look speed.,調整鏡頭移動速度。
+Changes the amount the camera can see.,,Changes the amount the camera can see.,調整鏡頭可視的物體數量。
+Changes the color of the grid.,,Changes the color of the grid.,更改網格顏色。
+Changes the font size.,,Changes the font size.,更改字型大小。
+Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,,Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,調整遊戲中所有 MP3 播放器的音量。您仍可以單獨調整每個 MP3 播放器的音量。
+Changes the global volume of everything.,,Changes the global volume of everything.,調整所有物品的全域音量。
+Changes the in-game volume of objects.,,Changes the in-game volume of objects.,調整物件的遊戲音量。
+Changes the intensity of the LUT.,,Changes the intensity of the LUT.,調整 LUT 效果的強度。
+Changes the speed in which your camera moves.,,Changes the speed in which your camera moves.,調整鏡頭移動的速度。
+Changes the transparency the grid.,,Changes the transparency the grid.,調整網格的透明度。
+Changes the volume of other player's voice.,,Changes the volume of other player's voice.,調整玩家語音的音量。
+Changes the volume of the main menu music.,,Changes the volume of the main menu music.,調整主選單的音樂音量。
+Changes the volume of your voice.,,Changes the volume of your voice.,調整輸入語音的音量。
+Chat,,Chat,聊天室
+Chat Settings,,Chat Settings,聊天室設定
+Chat will auto hide after a set amount of time.,,Chat will auto hide after a set amount of time.,聊天室將在設定時間之後自動隱藏。
+Chat will filter rude words and misbehaviour.,,Chat will filter rude words and misbehaviour.,聊天室會過濾不雅及惡劣語言。
+Check,,Check,檢查
+Check out the patch!,,Check out the patch!,發現新版本！
+Check this to enable controller input.,,Check this to enable controller input.,檢查此項以啟用控制器輸入。
+Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,,Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,檢查此項以啟用觸控支援。提示：啟用時會停用目前的滑鼠輸入。
+Checkers,,Checkers,西洋跳棋
+Chess,,Chess,西洋棋
+Chest,,Chest,箱子
+Chest Tools,,Chest Tools,箱子工具
+Chimera,,Chimera,奇美拉
+Chinese Checkers,,Chinese Checkers,中國跳棋
+Chip,,Chip,棋子
+Choose Color,,Choose [DA1918]C[E18438]o[E7E52C]l[31B32B]o[1F87FF]r,選擇 [DA1918]C[E18438]o[E7E52C]l[31B32B]o[1F87FF]r
+"Choose between a box, hex horizontal, or hex vertical grid.",,"Choose between a box, hex horizontal, or hex vertical grid.",選擇方形、垂直六邊形或水平六邊形。
+Choose between automatic or custom turns.,,Choose between automatic or custom turns.,選擇自動回合順序或自訂回合順序。
+Choose between the old (Static) grid and the new one (Projection).,,Choose between the old (Static) grid and the new one (Projection).,選擇傳統（靜態）網格或新式（投射）網格。
+Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,,Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,選取 LUT 效果以更改場景配色。
+Choose the location for your mods folder.,,Choose the location for your mods folder.,選擇模組的儲存位置。
+Circle,,Circle,圓形
+Classic Games that are included as part of Tabletop Simulator by default.,,Classic Games that are included as part of Tabletop Simulator by default.,桌遊模擬器預設含有經典的桌上遊戲。
+Clear the table.,,Clear the table.,清空桌面。
+Click Tooltip on Menu,,Click Tooltip on Menu,點擊選單上的提示
+Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Right click to change the color of the hand.,,Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Left-click to change the color of the hand.,點擊可刪除玩家手牌區。點擊並拖放可繪製新的手牌區。左鍵點擊手牌區可設定顏色，也可擁有多個同樣顏色的手牌區。
+Click and drag a zone for a Fog of War area.,,Click and drag a zone for a Fog of War area.,點擊並拖放可劃出一個戰爭迷霧區。
+Click and drag a zone for your personal hidden area. Right click to change the color or click the settings gear for more options. Click again to delete the zone.,,Click and drag a zone for your personal hidden area. Left-click to change the color or click the settings gear for more options.,點擊並拖放可劃出一個私人隱藏區。左鍵點擊可設定顏色，或者點擊設定以查看更多選項。
+"Click and drag to create a randomized zone. Everything in this zone will be randomized when you right click on it. This is good for randomizing cards, tiles, etc for games that need it.",,"Click and drag to create a randomized zone. Let-click it to show the Randomize button. This is good for randomizing cards, tiles, etc for games that need it.",點擊並拖放可劃出一個隨機區。左鍵點擊可呼出隨機按鈕，便於需要隨機洗牌或打亂物件的遊戲。
+Click edit to start typing here,,Click edit to start typing here,點擊「編輯」以開始在此輸入
+Click in the (Right Stick) to reset the camera.,,Click in the <Right Stick> to reset the camera.,點擊＜RS＞以重設鏡頭。
+Click to End Turn,,Click to End Turn,點擊以結束回合
+Click to open page to knowledge base.,,Click to open page to knowledge base.,點擊以開啟線上資料庫。
+Clone,,Clone,複製
+Clone copied objects to this location. This can also be done in the Global Contextual Menu.,,Clone copied objects to this location. This can also be done in the Global Contextual Menu.,在此位置生成複製物件。在環境選單中亦可執行相同的動作。
+Cloud Manager,,Cloud Manager,雲端管理員
+Clubs,,Clubs,俱樂部
+Code,,Code,代碼
+Coin,,Coin,硬幣
+Collapse-Show Modding Actions,,Collapse/Show Modding Actions,隱藏／顯示模組動作
+Collapse-Show Movement Actions,,Collapse/Show Movement Actions,隱藏／顯示移動動作
+Collapse-Show Object Properties,,Collapse/Show Object Properties,隱藏／顯示物件屬性
+Collider,,Collider,碰撞體
+Collision,,Collision,碰撞
+Color,,Color,顏色
+Color Tint,,Color Tint,調色板
+Color which Fog of War is revealed for. (Black = All),,Color which Fog of War is revealed for. (Black = All),顯示戰爭迷霧的玩家顏色。（黑色等於所有玩家）
+Combine,,Combine,組合
+Combine Into Decks,,Combine Into Decks,合併進入牌堆
+Combine all selected objects into a single object.,,Combine all selected objects into a single object.,組合所有已選取物件為一件物品。
+Combining,,Combining,組合
+"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.",,"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.",完整的物理模擬。可拋擲物品，棋子可打翻其他棋子等等。
+Complexity,,Complexity,難度
+Component Spread Distance,,Component Spread Distance,配件展開距離
+Component States Wrap,,Component States Wrap,配件狀態覆蓋
+Component Tags,,Component Tags,配件標籤
+Component Tooltip Delay,,Component Tooltip Delay,配件提示延遲
+Configuration,,Configuration,設定
+"Congratulations! You finished the tutorial! You can leave by clicking the 'Menu' button on the top bar, then click 'Main Menu'",,"Congratulations! You finished the tutorial!
+You can leave by clicking the 'Menu' button on the top bar,
+then click 'Main Menu'","恭喜！您完成了教學！
+可以透過點擊頂部的「選單」按鈕並點擊「主選單」以離開。"
+Connect,,Connect,連線
+Connect to IRC,,Connect to IRC,連線至 IRC 頻道
+Connected Anchor,,Connected Anchor,已連結錨點
+Connected through Steam relay servers. Experience might not be optimal.,,"Connected through Steam relay servers. Experience might not be optimal.
+
+Port Forward:
+UDP 3478 (Outbound)
+UDP 4379 (Outbound)
+UDP 4380 (Outbound)","透過以下 Steam 中繼伺服器連接。體驗可能無法達到最佳。
+
+通訊埠轉發：
+UDP 3478（離埠）
+UDP 4379（離埠）
+UDP 4380（離埠）"
+Connecting to this player.,,Connecting to this player.,連線至此玩家。
+Connecting...,,Connecting...,連線中……
+Console Hotkey Lock,,Console Hotkey Lock,控制台鎖定快速鍵
+Container Logging,,,容器記錄
+Context Menus Can Collapse,,Context Menus Can Collapse,環境選單可摺疊
+Context Menus Show GM Notes,,Context Menus Show GM Notes,環境選單顯示遊戲主持者筆記
+Contextual,,Contextual,環境選單
+Contextual - Lower,,Contextual / Lower,環境選單／放下
+Control Scheme,,Control Scheme,控制方式
+Controller,,Controller,控制器
+Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,,Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,控制物件的紋理效果，推薦啟用。系統記憶體過少或模組紋理載入量過高時，停用並以 50% 的比例顯示紋理。
+"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.",,"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.",控制低角度入射時的反射率。數值越高代表僅入射角反射，數值越低代表所有角度都反射。
+Cooperative Games,,Cooperative Games,合作博弈遊戲
+Copies an object and then deletes it.,,Copies an object and then deletes it.,複製物件並移除原有物件。
+Copy,,Copy,複製
+Copy all text to clipboard,,Copy all text to clipboard,複製所有文字至剪貼簿
+Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,,Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,複製此物件。在環境選單中亦可執行相同的動作。
+Copy player view.,,Copy player view.,複製玩家的視角。
+Copy to clipboard. Useful for scripting.,,Copy to clipboard. Useful for scripting.,複製至剪貼簿。在製作腳本時非常有用。
+Core,,Core,核心
+Corner,,Corner,牆角
+Cosmic Encounter,,Cosmic Encounter,銀河遭遇
+Counter,,Counter,計數器
+Country,,Country,國家
+Crasc,,Crasc,獨眼蝙蝠魚
+Create Folder,,Create Folder,新增資料夾
+Create Server,,Create Server,建立伺服器
+Create States,,Create States,建立狀態
+Create a new UI asset.,,Create a new UI asset.,新增介面配件。
+Create a new decal.,,Create a new decal.,新增一個印花。
+Create a new rotation value.,,Create a new rotation value.,新增旋轉數值。
+Create a new save file.,,Create a new save file.,新增存檔。
+Create custom scripts to do a multitude of advanced features.,,Create custom scripts to do a multitude of advanced features.,建立自訂腳本以實現更多進階功能。
+Create folder in Cloud,,Create folder in Cloud,新增雲端資料夾
+Create folder in Saved Objects,,Create folder in Saved Objects,在已儲存物件中新增資料夾
+Create folder in {0},,Create folder in {0},新增資料夾「{0}」
+Create your own custom tags. These will still be searchable but not available as filters.,,Create your own custom tags. These will still be searchable but not available as filters.,新增自訂的標籤。這些標籤可被搜尋，但是在篩選中不可用。
+Created,,Created,已建立
+Credits,,Credits,製作人員名單
+Crowns,,Crowns,小丑
+Crowns Coin 2,,Crowns Coin 2,小丑硬幣 2
+Crowns Coin 3,,Crowns Coin 3,小丑硬幣 3
+Crowns Coin 4,,Crowns Coin 4,小丑硬幣 4
+Crowns Coin 5,,Crowns Coin 5,小丑硬幣 5
+Crowns Coin Ace,,Crowns Coin Ace,小丑硬幣 A
+Crowns Coin Blank,,Crowns Coin Blank,小丑硬幣 空白
+Crowns Dice,,Crowns Dice,小丑骰子
+Crowns Square 2,,Crowns Square 2,小丑方塊 2
+Crowns Square 3,,Crowns Square 3,小丑方塊 3
+Crowns Square 4,,Crowns Square 4,小丑方塊 4
+Crowns Square 5,,Crowns Square 5,小丑方塊 5
+Crowns Square Ace,,Crowns Square Ace,小丑方塊 A
+Crowns Square Blank,,Crowns Square Blank,小丑方塊 空白
+Ctrl,,Ctrl,Ctrl
+Current Time,,Current Time,目前時間
+Current name of the game you are playing (Shows on server browser and friends list).,,Current name of the game you are playing (Shows on server browser and friends list).,目前遊戲的名稱（會顯示在伺服器瀏覽器及好友列表中）。
+Current name of the game you are playing (Shows on server browser).,,Current name of the game you are playing (Shows on server browser).,目前的遊戲名稱（會顯示在伺服器瀏覽器中）。
+Custom,,Custom,自訂
+Custom Game,,Custom Game,自訂遊戲
+Custom LUT,,Custom LUT,自訂 LUT
+Custom Models,,Custom Models,自訂模型
+Custom Rectangle,,Custom Rectangle,自訂長方桌
+Custom Square,,Custom Square,自訂方桌
+Custom Token will use the transparency from your .png image to generate a mesh.,,Custom Token will use the transparency from your .png image to generate a mesh.,自訂標記物會使用 PNG 檔案生成一個網格。
+Custom UI Assets,,Custom UI Assets,自訂介面配件
+Custom dice type.,,Custom dice type.,自訂骰子種類。
+Custom objects in queue.,,Custom objects in queue.,行列中的自訂物件。
+Custom tile type. Changes the model of the object.,,Custom tile type. Changes the model of the object.,自訂磚塊牌種類。更改物件的模型。
+Cut,,Cut,分牌
+Cut the deck into two stacks with varying size.,,Cut the deck into two stacks with varying size.,按設定數值將一副牌分成兩組。
+Cyclops,,Cyclops,獨眼巨人
+D10 Chrome,,D10 Chrome,鉻金屬 10 面骰子
+D12 Chrome,,D12 Chrome,鉻金屬 12 面骰子
+D20 Chrome,,D20 Chrome,鉻金屬 20 面骰子
+D4 Chrome,,D4 Chrome,鉻金屬 4 面骰子
+D6 Black,,D6 Black,黑色 6 面骰子
+D6 Blue,,D6 Blue,藍色 6 面骰子
+D6 Chrome,,D6 Chrome,鉻金屬 6 面骰子
+D6 Green,,D6 Green,綠色 6 面骰子
+D6 Red,,D6 Red,紅色 6 面骰子
+D8 Chrome,,D8 Chrome,鉻金屬 8 面骰子
+DEVELOPERS,,Developers,開發者
+DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,,DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,DLC（可下載內容）是我們從廣大的發行商及開發者手中獲得授權的官方遊戲。
+DOWN_THEN_LEFT,,Down / Left,向下／向左
+DOWN_THEN_RIGHT,,Down / Right,向下／向右
+DROP DOWN,,Drop Down,放下
+Damper,,Damper,阻尼器
+Darkness Warlord,,Darkness Warlord,闇黑戰神
+Deal,,Deal,發牌
+Deal to all seated players.,,Deal to all seated players.,發牌至就座的所有玩家。
+Deal to all.,,Deal to all.,發牌至所有玩家。
+Deal to blue.,,Deal to blue.,發牌至藍色玩家。
+Deal to brown.,,Deal to brown.,發牌至棕色玩家。
+Deal to green.,,Deal to green.,發牌至綠色玩家。
+Deal to orange.,,Deal to orange.,發牌至橙色玩家。
+Deal to pink.,,Deal to pink.,發牌至粉色玩家。
+Deal to purple.,,Deal to purple.,發牌至紫色玩家。
+Deal to red.,,Deal to red.,發牌至紅色玩家。
+Deal to teal.,,Deal to teal.,發牌至深青色玩家。
+Deal to white.,,Deal to white.,發牌至白色玩家。
+Deal to yellow.,,Deal to yellow.,發牌至黃色玩家。
+Decal,,Decal,印花
+Decal name,,Decal name,印花名稱
+Decals,,Decals,印花
+Decals are great for adding small details or for card stickers.,,Decals are great for adding small details or for card stickers.,印花很適合加入細節或製作卡片貼紙。
+Deck,,Deck,牌堆
+Deck Builder,,Deck Builder,牌堆生成器
+Deck Can Spread Facedown,,,牌堆可面朝下展開
+Deck Editor,,Deck Editor,牌堆編輯器
+Default,,Default,預設
+Delete,,Delete,刪除
+Delete Audioclip from Playlist?,,Delete Audioclip from Playlist?,是否要刪除播放列表的所有音訊呢？
+Delete all 3D text objects?,,Delete all 3D text objects?,是否要刪除所有 3D 文字物件呢？
+Delete all 3d texts.,,Delete all 3d texts.,刪除所有 3D 文字。
+Delete all decals.,,Delete all decals.,刪除所有印花。
+Delete all decals?,,Delete all decals?,是否要刪除所有印花呢？
+Delete all snap points.,,Delete all snap points.,刪除所有吸附點。
+Delete all snap points?,,Delete all snap points?,是否要刪除所有吸附點呢？
+Delete and Unsubscribe from {0}?,,Delete and Unsubscribe from {0}?,是否要刪除並取消訂閱「{0}」呢？
+Delete tag '{0}'? (It will be removed from all components and objects.),,"Delete tag '{0}'?
+(It will be removed from all components and objects.)","是否要刪除標籤「{0}」呢？
+（此動作將移除所有配件及物件的相關標籤。）"
+Delete theme {0}?,,Delete theme {0}?,是否要刪除主題「{0}」呢？
+Delete {0}?,,Delete {0}?,是否要刪除「{0}」呢？
+Delete {0}? (This will delete anything contained within this folder),,Delete {0}? (This will delete anything contained within this folder),是否要刪除「{0}」呢？（此動作將會刪除此資料夾中的所有檔案）
+Delete {0}? All files contained will stop working in any mods.,,Delete {0}? All files contained will stop working in any mods.,是否要刪除「{0}」呢？任何模組中的相關檔案將不再可用。
+Delete {0}? This file will stop working in any mods.,,Delete {0}? This file will stop working in any mods.,是否要刪除「{0}」呢？任何模組中的此檔案將不再可用。
+"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.",,"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.",刪除桌上的物件。您可以透過按鍵，也可以透過環境選單來執行動作。
+Demonic,,Demonic,惡魔
+Demote,,Demote,降級
+Description,,Description,簡介
+Dexterity Games,,Dexterity Games,動作體感遊戲
+Diamonds,,Diamonds,鑽石
+Dice,,Dice,骰子
+Dice Games,,Dice Games,骰子遊戲
+Die,,Die,骰子類遊戲
+Diffuse-Image,,Diffuse/Image,漫反射／圖像
+Digital,,Digital,數位物品
+Digital Clock,,Digital Clock,電子鐘
+Direct Connect,,Direct Connect,直接連線
+Direction,,Direction,方向
+Disable,,Disable,停用
+Disable Interactions,,Disable Interactions,停用互動
+Disable Unused,,Disable Unused,停用未使用的手牌區
+Disable if you wish to control the dimensions of the grid independently.,,Disable if you wish to control the dimensions of the grid independently.,若想要單獨控制網格，請停用此項。
+Disabled,,Disabled,停用
+Disables interactions when it's not a color's turn.,,Disables interactions when it's not a color's turn.,不是特定顏色的回合時，停用互動。
+Disconnected,,Disconnected,失去連線
+Display Object Drop Position,,Display Object Drop Position,顯示物件放下的位置
+Display VR Players,,Display VR Players,顯示 VR 玩家
+Display the chat UI.,,Display the chat UI.,顯示聊天室介面。
+Display the on screen notes on the right side of the screen.,,Display the on screen notes on the right side of the screen.,在螢幕右側顯示虛擬筆記。
+Display the on-screen keyboard if you are playing in VR.,,Display the on-screen keyboard if you are playing in VR.,若使用 VR 遊玩，將顯示虛擬鍵盤。
+Display the on-screen keyboard.,,Display the on-screen keyboard.,顯示虛擬鍵盤。
+Display the player names on the top right.,,Display the player names on the top right.,在右上方顯示玩家名稱。
+Display the top menu bar UI.,,Display the top menu bar UI.,顯示頂部選單列。
+Display tools menu on the top left.,,Display tools menu on the top left.,在左上方顯示工具選單。
+Distance,,Distance,距離
+Do not show the on-screen keyboard.,,Do not show the on-screen keyboard.,不顯示虛擬鍵盤。
+Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,,Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,是否想要將目前拼圖的原圖於桌面上顯示呢？這將讓拼圖更加容易。
+Do you want the tiles to stack like poker chips?,,Do you want the tiles to stack like poker chips?,是否想要如撲克籌碼一樣堆疊磚塊牌呢？
+Do you want the tokens to stack like poker chips?,,Do you want the tokens to stack like poker chips?,是否想要如撲克籌碼一樣堆疊標記物呢？
+Do you want this token to stand up like a meeple instead of being flat like a tile?,,Do you want this token to stand up like a meeple instead of being flat like a tile?,是否想要讓標記物如米寶（一種用於桌遊的小木頭人）一樣立起，而非如磚塊牌一樣平放於桌面呢？
+Documents,,Documents,文件
+Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,,Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,每張卡片都是不同的卡背嗎？如果是的話，請在設計卡背時使用與卡面相同的範本。
+Dominoes,,Dominoes,多米諾骨牌
+Don't show servers that are full.,,Don't show servers that are full.,不顯示人數已滿的伺服器。
+Don't show servers that have passwords.,,Don't show servers that have passwords.,不顯示需要密碼的伺服器。
+Double-Click Container Pickup,,Double-Click Container Pickup,雙擊撿起容器
+Down,,Down,下
+Downloaded,,,下載時間
+Downtown,,Downtown,市中心
+Drag,,Drag,拖取
+Drag Selectable,,Drag Selectable,拖取可選擇物件
+Drag left or right to increase or decrease the value.,,Drag left or right to increase or decrease the value.,向左或右拖動以增加或減少數值。
+Drag the colors around to determine the turn order. Custom turns must be active.,,Drag the colors around to determine the turn order. Custom turns must be active.,拖動顏色圓圈以更改回合順序。必須啟用自訂回合順序。
+Drag your finger on the table or background.,,Drag your finger on the table or background.,拖動您的手指至桌面或背景。
+Dragonide,,Dragonide,龍戰士
+Draw,,Draw,抽牌
+Drawing,,Drawing,繪畫
+Drop,,Drop,放下
+Drop Last Grabbed,,Drop Last Grabbed,放下最底部的物件
+Dungeons,,Dungeons,地下城
+Dynamic Friction,,Dynamic Friction,動摩擦
+DynamicAmaranth,,DynamicAmaranth,DynamicAmaranth
+DynamicAmaranthFixedNumerals,,DynamicAmaranthFixedNumerals,DynamicAmaranthFixedNumerals
+DynamicInconsolata,,DynamicInconsolata,DynamicInconsolata
+EASTWARD,,Eastward,向東
+END TURN,,End Turn,結束回合
+Edge,,Edge,邊緣
+Edit,,Edit,編輯
+Edit Note,,Edit Note,編輯筆記
+Edit Tags,,Edit Tags,編輯標籤
+Edit Tags...,,Edit Tags...,編輯標籤……
+Edit tags on fog of war zone.,,Edit tags on fog of war zone.,編輯戰爭迷霧的標籤。
+Edit tags on hand zone.,,Edit tags on hand zone.,編輯手牌區的標籤。
+Edit tags on hidden zone.,,Edit tags on hidden zone.,編輯隱藏區的標籤。
+Edit tags on layout zone.,,Edit tags on layout zone.,編輯佈置區的標籤。
+Edit tags on randomize zone.,,Edit tags on randomize zone.,編輯隨機區的標籤。
+Edit tags on scripting zone.,,Edit tags on scripting zone.,編輯腳本區的標籤。
+Edit tags on selected components.,,Edit tags on selected components.,編輯已選取物件的標籤。
+Edit tags on this snap point.,,Edit tags on this snap point.,編輯吸附點的標籤。
+Edit tags snap points are created with.,,Edit tags snap points are created with.,編輯建立的吸附點標籤。
+Empty Game,,Empty Game,空房間
+Enable,,Enable,啟用
+Enable collision between bodies connected with the joint.,,Enable collision between bodies connected with the joint.,啟用節點連接物體的碰撞。
+Enable or disable card hands.,,Enable or disable card hands.,啟用或停用卡片手牌區。
+Enhanced Base Precision,,Enhanced Base Precision,增強基本精準度
+Enter,,Enter,↵ Enter
+Enter Server Password,,Enter Server Password,輸入伺服器密碼
+Enter name of player {0},,Enter name of player {0},輸入玩家名稱「{0}」
+Enter value:,,Enter value:,輸入數值：
+Equator,,Equator,中軸線
+Erase,,Erase,抹除
+Erase all drawn lines.,,Erase all drawn lines.,抹除所有直線。
+Erase all drawn lines?,,Erase all drawn lines?,是否要抹除所有直線呢？
+Erase entire pixel drawing.,,Erase entire pixel drawing.,抹除所有繪畫。
+Error storing theme (this should never happen!).,,Error storing theme (this should never happen!).,主題儲存錯誤（通常不會出現！）。
+Europe Proxy,,Europe Proxy,歐洲代理
+Everyone except the hand owner can see in hand.,,Everyone except the hand owner can see in hand.,除了持有者外，所有人都能看到手牌內容。
+Evil Watcher,,Evil Watcher,監視者
+Exact,,Exact,自訂
+Exit Game,,Exit Game,退出遊戲
+Expand,,Expand,展開
+Export,,Export,匯出
+FACING_DOWN,,Become Face Down,轉為面朝下
+FACING_KEEP,,Do Not Change,不要更改
+FACING_TIPPED,,Group Is Tipped,整組翻面
+FACING_UP,,Become Face Up,轉為面朝上
+FIFO,,FIFO,FIFO
+FIXED,,Fixed,固定
+Face,,Face,正面
+"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",卡面圖案必須滿足正確牌堆範本。範本可以在遊戲資料夾中查看。上傳圖片至網頁代管，然後將連結在此處複製貼上。建議使用 4096x4096。
+Face-Down,,Face-Down,面朝下
+Face-Up,,Face-Up,面朝上
+Facing,,Facing,朝向
+Family Games,,Family Games,家庭遊戲
+Fast-forward Time,,Fast-forward Time,快轉時間
+Field,,Field,田野
+Field of View,,Field of View,可視範圍
+Field of View of Fog of War revealed.,,Field of View of Fog of War revealed.,戰爭迷霧的可視範圍已顯示。
+Figurine,,Figurine,塑像
+Figurines,,Figurines,塑像
+Filename,,Filename,檔案名稱
+Filter by Tags:,,Filter by Tags:,根據標籤篩選：
+Filtered Public Servers - All Public Servers,,Filtered Public Servers / All Public Servers,篩選公開伺服器／所有公開伺服器
+Filters,,Filters,篩選
+Find and join a server hosted by another player.,,Find and join a server hosted by another player.,搜尋並加入由其他玩家主持的伺服器。
+First in first out or a queue.,,First in first out or a queue.,先手先入或佇列。
+Fixed Joint,,Fixed Joint,固定節點
+Flick,,Flick,輕彈
+Flicking,,Flicking,輕彈
+Flicks in air when thrown.,,Flicks in air when thrown.,拋擲時在空中輕彈。
+Flip,,Flip,翻轉
+Flip Other Axis,,Flip Other Axis,翻轉其他參考軸線
+Flip the table,,Flip the table?,要翻桌嗎？
+Floor,,Floor,地板
+Floor Of Mist,,Floor Of Mist,地板迷霧
+Fly Down,,Fly Down,降低
+Fly Up,,Fly Up,昇高
+Fly Up & Down,,Fly Up & Down,昇高／降低
+Fog Height,,Fog Height,迷霧高度
+Fog of War,,Fog of War,戰爭迷霧
+Fog of War Tags,,Fog of War Tags,戰爭迷霧標籤
+Folder Name,,Folder Name,資料夾名稱
+Font Size,,Font Size,字型大小
+Force,,Force,力
+Forest,,Forest,森林
+"Found {0} matching Custom Object(s), do you also want to update them to match?",,"Found {0} matching Custom Object(s), do you also want to update them to match?",找到「{0}」個符合的自訂物件，您是否要將它們更新以符合規則呢？
+Free,,Free,鬆開
+Free Camera,,Free Camera,自由視角
+Freeze the object in place stopping all physics interactions.,,Freeze the object in place stopping all physics interactions.,鎖定物件並停用一切物理互動。
+Fresnel Strength,,Fresnel Strength,菲涅爾強度
+Friends,,Friends,好友
+Friends Only,,Friends Only,僅限朋友
+Front Image,,Front Image,正面圖案
+Full,,Full,完整
+Full Size Textures,,Full Size Textures,真實尺寸紋理
+Fullscreen,,Fullscreen,全螢幕
+GENERAL,,General,一般
+GM (Black) players' pointer will be hidden in area.,,GM (Black) players' pointer will be hidden in area.,遊戲主持者（黑色）的游標會在區域內隱藏。
+GM Notes (only visible to Black),,GM Notes (only visible to Black),遊戲主持者（僅對黑色可見）
+GRAPHICS,,Graphics,圖像
+Game,,Game,遊戲
+Game Data,,Game Data,遊戲目錄
+Game Keys,,Game Keys,遊戲鍵位
+Game Name,,Game Name,遊戲名稱
+Game Tags,,Game Tags,遊戲標籤
+Game Types:,,Game Types:,遊戲類型：
+Game Volume,,Game Volume,遊戲音量
+Games,,Games,遊戲
+Games Add To Context Menus,,Games Add To Context Menus,加入環境選單的遊戲
+Games Can Show Controls UI,,Games Can Show Controls UI,遊戲可以顯示控制介面
+Generic,,Generic,一般
+Get current rotation.,,Get current rotation.,取得目前旋轉角度。
+Ghoul,,Ghoul,食屍鬼
+Giant Rat,,Giant Rat,巨鼠
+Giant Viper,,Giant Viper,巨蛇
+Gizmo,,Gizmo,調整工具
+Gizmo Tool Size,,Gizmo Tool Size,調整工具尺寸
+Glass,,Glass,玻璃
+Global,,Global,全域
+Globally controls all object snapping.,,Globally controls all object snapping.,全域控制所有物件吸附。
+Glue,,Glue,膠水
+Go,The game,Go,圍棋
+Go back 10 seconds in time.,,Go back 10 seconds in time.,倒轉 10 秒。
+Go back and forward in time to fix any mistakes.,,Go back and forward in time to fix any mistakes.,倒轉或快轉時間以修正錯誤。
+Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,,Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,倒轉或快轉時間以修正錯誤。您也可以使用頂部選單的箭頭倒轉或快轉時間。
+Go forward 10 seconds in time.,,Go forward 10 seconds in time.,快轉 10 秒。
+Goblin,,Goblin,哥布林
+Gold,,Gold,金幣
+Gold 1000,,Gold 1000,金色籌碼 1000
+Golem,,Golem,魔像
+Good! Now time to add that card to the deck.,,Good! Now time to add that card to the deck.,太棒啦！現在把卡片加入牌堆吧！
+Grab,,Grab,拿取
+Grab - Selection,,Grab / Selection,拿取／選取
+"Grab one of the objects, and then use (Pad Left) or (Pad Right) to rotate it.",,"Grab one of the objects,
+and then use <Pad Left> or <Pad Right> to rotate it.",拿取任一物件，使用＜十字鍵左＞或＜十字鍵右＞進行選擇。
+"Grab or mouse over one of the objects, and then use (Q) or (E) to rotate it.",,"Grab or mouse over one of the objects,
+and then use <Q> or <E> to rotate it.","拿取或將游標停在任一物件上，
+並使用＜Q＞或＜E＞進行旋轉。"
+Grabbing Hides Gem,,Grabbing Hides Gem,拿取時隱藏提示
+Gradient,,Gradient,漸層光照
+Gradient Colors,,Gradient Colors,漸層光照顏色
+Gravity,,Gravity,重力
+Great camera work! Time to rotate an object.,,Great camera work! Time to rotate an object.,完美的鏡頭移動！是時候旋轉物件啦。
+Great for checking a dice roll or reading a card.,,Great for checking a dice roll or reading a card.,查看骰子數字或閱讀卡片時非常有用。
+Great shuffling! Now let's put a card in our hand. Drop a single card above the white name on the table. When a card is in your hand other players cannot see what it is.,,"Great shuffling! Now let's put a card in our hand.
+Drop a single card above the white name on the table.
+When a card is in your hand other players cannot see what it is.","完美洗牌！現在來將一張卡片放在手中吧。
+將一張卡片拖取至桌子上白色名字的位置。
+當卡片在您手中時，其他玩家無法看到此牌。"
+Great stacking! Now pull one card from the deck.,,Great stacking! Now pull one card from the deck.,完美堆牌！現在從牌堆中抽出一張卡片。
+Green,,Green,綠色
+Green 50,,Green 50,綠色籌碼 50
+Green Triangle,,Green Triangle,綠色三角積木
+Grey,,Grey,灰色
+Grey (All),,Grey (All),灰色（全部）
+Grey (Spectator),,Grey (Spectator),灰色（旁觀者）
+Greyout Visited,,Greyout Visited,灰化顯示
+Grid,,Grid,網格
+Grid Projection,,Grid Projection,網格投射
+Grid Size,,Grid Size,網格尺寸
+Grid lines are drawn on the surface of the table.,,Grid lines are drawn on the surface of the table.,格線已繪製在桌面。
+Grid will be projected onto the table and any object that has grid projection turned on.,,Grid will be projected onto the table and any object that has grid projection turned on.,網格將投射在桌上以及任何已開啟網格投射的物件。
+Griffon,,Griffon,獅鷲
+Ground,,Ground,地面
+Group,,Group,重組
+Group Into Bag First,,,自動重組至收納袋
+Grouping,,Grouping,重組
+Groups,,Groups,分組
+HINGE,,Hinge,鉸鏈
+HOST COMMANDS,,Host Commands,房主指令
+Hand Component Hotkey Draw,,Hand Component Hotkey Draw,手牌區配件可使用快速鍵拿取
+Hand Minimized Size,,Hand Minimized Size,手牌預設大小
+Hand View,,Hand View,手部視角
+Hand View Angle,,Hand View Angle,手部視角角度
+Hand View Scale,,Hand View Scale,手部視角大小
+Hand Zone Tags,,Hand Zone Tags,手牌區標籤
+Hands,,Hands,手牌區
+Hands are areas near names on the table that can hold cards and dominoes.,,Hands are areas near names on the table that can hold cards and dominoes.,手牌區為靠近桌上玩家名稱的區域，可用於放置卡片以及多米諾骨牌。
+Hands not used by a player will not be enabled.,,Hands not used by a player will not be enabled.,停用無玩家選擇的手牌區。
+Hearts,,Hearts,心
+Height,,Height,高度
+Help,,Help,幫助
+Help Menu,,Help Menu,幫助選單
+Heroes,,Heroes,英雄
+Hex,,Hex,六邊形
+Hex (Rounded),,Hex (Rounded),圓角六邊形
+Hex Horizontal,,Hex Horizontal,六邊形（垂直）
+Hex Rotated,,Hex Rotated,六邊形（旋轉）
+Hex Vertical,,Hex Vertical,六邊形（水平）
+Hexagon,,Hexagon,六角桌
+Hidden,,Hidden,隱藏區
+Hidden Zone Hide Opacity,,Hidden Zone Hide Opacity,隱藏區的隱藏不透明度
+Hidden Zone Show Opacity,,Hidden Zone Show Opacity,隱藏區的顯示不透明度
+Hidden Zone Tags,,Hidden Zone Tags,隱藏區標籤
+Hide Face Down,,Hide Face Down,面朝下時隱藏
+Hide Full,,Hide Full,隱藏無空位
+Hide GM Pointer,,Hide GM Pointer,隱藏遊戲主持者游標
+Hide GUI,,Hide GUI,隱藏遊戲介面
+Hide Hand,,Hide Hand,隱藏手牌區
+Hide Locked,,Hide Locked,隱藏已鎖定
+Hide Objects,,Hide Objects,隱藏物件
+Hide Pointers,,Hide Pointers,隱藏游標
+Hiding,,Hiding,隱藏
+Hiding objects will be reversed so everyone but the color of the area can see inside.,,Hiding objects will be reversed so everyone but the color of the area can see inside.,反轉隱藏物件，區域顏色所屬的玩家無法看到，其餘玩家都可能看到。
+High,,High,高
+High Complexity,,High Complexity,高難度
+Hinge Joint,,Hinge Joint,鉸鏈節點
+Hold (Alt) while mousing over an object.,,Hold <Alt> while mousing over an object.,游標停在物件上時按住＜Alt＞。
+Hold (Left Bumper) while hovering over an object.,,Hold <Left Bumper> while hovering over an object.,停在物件上時長按＜LB＞。
+Hold ({0}) down for a few seconds.,,Hold <{0}> down for a few seconds.,按住＜{0}＞幾秒鐘。
+Hold ({0}) on both controllers. Then move your hands closer or further apart. This will scale you up and down!,,"Hold <{0}> on both controllers.
+Then move your hands closer or further apart.
+This will scale you up and down!","按住控制器的兩個＜{0}＞。
+接著拖近或拖遠您的手牌區。
+此動作會將您放大縮小！"
+Hold ({0}) then drag yourself around.,,Hold <{0}> then drag yourself around.,按住＜{0}＞並拖取您本身。
+Hold an object then press (A) on another object.,,Hold an object then press <A> on another object.,拿取一個物件並在其他物件上按下＜A＞。
+Hold an object then press (Right Mouse) or (T) on another object.,,Hold an object then press <Right Mouse> or <T> on another object.,拿取一個物件並在其他物件上按下＜滑鼠右鍵＞或＜T＞。
+Hold down (Right Mouse Button) and move your mouse.,,Hold down <Right Mouse Button> and move your mouse.,按住＜滑鼠右鍵＞並移動滑鼠。
+Hold right mouse button to rotate your camera.,,Hold right mouse button to rotate your camera.,按住＜滑鼠右鍵＞旋轉鏡頭。
+Hold the key and nudge push objects with your pointer.,,Hold the <N> key and nudge/push objects with your pointer.,按住＜N＞並使用游標推動物件。
+Hold the key and nudge-push objects with your pointer.,,Hold the key and nudge/push objects with your pointer.,按住按鍵並使用游標推動物件。
+Holding the right mouse button will freely move your camera around.,,Holding the right mouse button will freely move your camera around.,按住＜滑鼠右鍵＞可以自由移動您的鏡頭。
+Horizontal,,Horizontal,水平方向
+Host,,Host,房主
+Host Server,,Host Server,主伺服器
+Host a game and have other players join you.,,Host a game and have other players join you.,主持一局遊戲並允許其他玩家加入。
+Hotseat,,Hotseat,熱座模式
+Hotseat: Ask For Names,,Hotseat: Ask For Names,熱座模式：設定玩家名稱
+Hotseat: Confirm Turn Start,,Hotseat: Confirm Turn Start,熱座模式：確認回合開始
+Hotseat: Delay Between Turns,,Hotseat: Delay Between Turns,熱座模式：回合間延時
+Hotseat: Reset Camera On Turn,,Hotseat: Reset Camera On Turn,熱座模式：回合重設鏡頭
+Hotseat: Show Turn Button,,Hotseat: Show Turn Button,熱座模式：顯示回合按鍵
+Hover Highlight,,Hover Highlight,懸停標示
+Hover Tooltips,,Hover Tooltips,懸停提示
+"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.",,"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.",懸停或拿取一件 RPG 雕像，並按下 1、2 或 3 以查看不同的動作。您也可以在環境選單中執行這些動作。
+Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,,Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,懸停或拿取一件物件，並按下 L 以鎖定至原處。您也可以在環境選單中執行此動作。
+Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,,Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,懸停或拿取一件物件，並按下 R 以持續抬起物件。此動作也可以用於快速搖骰子和洗牌。
+Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,,Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,懸停在您想要埋於另一物件底下的物件，並按下按鍵。您也可以在環境選單中執行此動作。對於大量物件的疊放大有幫助。
+Hover over dice-decks & type a number to show-draw that amount.,,Hover over dice/decks & type a number to show/draw that amount.,懸停在骰子或牌堆上時，輸入數字以顯示或拿取同等數字的數值或牌堆。
+Hover over each item in this help menu to bring up more info.,,Hover over each item in this help menu to bring up more info.,懸停在物品上時，可開啟幫助選單以取得更多資訊。
+Hover over the die and press (Pad Right).,,Hover over the die and press <Pad Right>.,懸停在骰子上並按下＜十字鍵右＞。
+Hovered Object,,Hovered Object,懸停的物件
+"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.",,"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.",描繪圖像的精準度。較低代表更多精準度、較高代表更少精準度。
+How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,,How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,表面的彈性如何呢？數值為 0 表示不會反彈。數值為 1 表示不計能量損耗的反彈。
+How fast all objects fall (Default = 0.5).,,How fast all objects fall (Default = 0.5).,物件下墜的速度（預設為 0.5）
+How high off the surface objects will be held.,,How high off the surface objects will be held.,拿取物件時的高度。
+How many cards tall is your deck? Default template is 7.,,How many cards tall is your deck? Default template is 7.,牌堆的卡片寬度要設為多少呢？預設範本為 7。
+How many cards wide is your deck? Default template is 10.,,How many cards wide is your deck? Default template is 10.,牌堆的卡片長度要設為多少呢？預設範本為 10。
+"How mirror-like the object is. Higher = Mirror, Lower = Dull.",,"How mirror-like the object is. Higher = Mirror, Lower = Dull.",物件的鏡面程度。較高代表鏡面效果、較低代表霧面效果。
+"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.",,"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.",移動時空氣阻力對物體的影響作用。0 表示沒有空氣阻力，無限會使物體立即停止移動。
+How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,,How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,空氣阻力對扭力旋轉物體的影響作用。0 表示沒有空氣阻力。請注意將角度拖取設定為無限無法使物件停止旋轉。
+How much physics you want in your games.,,How much physics you want in your games.,遊戲中物理效果的數量。
+How strong reflections are on shiny objects.,,How strong reflections are on shiny objects.,發光物件的反射強度。
+How strong the ambient or mood lighting is.,,How strong the ambient or mood lighting is.,環境和氛圍光照的強度。
+Hue,,Hue,色相
+Hydra,,Hydra,三頭蛇
+IMPORT,,Import,匯入
+INFO,,Info,資訊
+INTERFACE,,Interface,介面
+"If enabled, the object is affected by gravity.",,"If enabled, the object is affected by gravity.",若啟用，物件會受到重力影響。
+If freeSpin is enabled the motor will only accelerate but never slow down.,,If freeSpin is enabled the motor will only accelerate but never slow down.,若啟用持續轉動，驅動力只會加速不會減速。
+"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.",,"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.",若您需要井然有序一些，那麼可以啟用「回合」，這樣每位玩家可以知道目前是誰的回合以及何時輪到自己。
+Ignore Fog Of War,,Ignore Fog Of War,無視戰爭迷霧
+Image,,Image,圖像
+Image On Board,,Image On Board,棋盤圖案
+Image URL,,Image URL,圖像連結
+"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.",,"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.",圖案必須滿足正確骰子範本。範本可以在遊戲資料夾中查看。上傳圖片至網頁代管，然後將連結在此處複製貼上。
+Import-Export,,Import/Export,匯入／匯出
+Improves texture quality at angles. Recommended on unless starved for performance.,,Improves texture quality at angles. Recommended on unless starved for performance.,改善邊緣的紋理品質。建議啟用，效能不足時可停用。
+In-Game,,In-Game,遊戲中
+Inch,,Inch,英吋
+Inch Size,,Inch Size,英吋尺寸
+Infinite,,Infinite,無限
+Infinite Bag,,Infinite Bag,無限收納袋
+Inserts a timestamp before each message.,,Inserts a timestamp before each message.,在每則訊息前加入時間戳。
+Instant Refill,,Instant Refill,立即填充
+InstantRefillTooltip,,"When enabled, if ever a group is picked up or removed the rest of the layout will trigger to fill in the gap.",啟用後，拿走或移除分組時，其餘分組會自動填充空缺。
+Instead of using the last slot on face image for the hidden card the back image will be used.,,Instead of using the last slot on face image for the hidden card the back image will be used.,最後的卡槽的隱藏卡片使用卡背圖而非卡面圖。
+Interface Click Threshold,,Interface Click Threshold,介面點擊閾值
+Interface Repeat Duration,,Interface Repeat Duration,介面重複動作期間
+Invert,,Invert,視角移動反轉
+Inverts the camera look directions.,,Inverts the camera look directions.,反轉視角朝向之位置。
+Invite,,Invite,私密
+Invite Friends,,Invite Friends,邀請好友
+Is your card sideways? This rotates ALT Zoom.,,Is your card sideways? This rotates ALT Zoom.,卡片橫置了嗎？使用 Alt 鍵縮放查看。
+Is your deck sideways? This rotates ALT Zoom.,,Is your deck sideways? This rotates ALT Zoom.,牌堆橫置了嗎？使用 Alt 鍵縮放查看。
+JIGSAW PUZZLES,,Jigsaw Puzzles,拼圖解謎
+JOIN,,Join,加入
+Jigsaw,,Jigsaw,拼圖
+Join new Server Host?,,Join new Server Host?,要加入新伺服器嗎？
+Joint,,Joint,節點
+Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,,Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,連結特定位置的兩個鎖定物件，且不建立如附加工具一樣的父子關係。右鍵點擊連結的物件，接著點擊節點開啟新選單。
+Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,,Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,如彈簧一樣連結。右鍵點擊連結的物件，接著點擊節點開啟新選單。
+Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,,Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,如門片鉸鍊一樣連結。可以設定驅動。右鍵點擊連結的物件，接著點擊節點開啟新選單。
+Joints,,Joints,節點
+Joker,,Joker,鬼牌
+Jokers,,Jokers,鬼牌
+Joypad Emulation,,Joypad Emulation,控制器模擬器
+Keyboard,,Keyboard,鍵盤
+Keyboard Single Digit By Default,,,鍵盤預設輸入單一數字
+Keyboard Single Digit Draw,,Keyboard Single Digit Draw,鍵盤輸入單一數字以抽牌
+Kickstarter,,Kickstarter,Kickstarter
+Kimi Kat,,,奇美凱
+King,,King,國王
+King Cast Iron,,King Cast Iron,鑄鐵國王
+King Chrome,,King Chrome,鉻金屬國王
+King Dark,,King Dark,深色國王
+King Light,,King Light,淡色國王
+King Supporters,,King Supporters,支持者限定國王
+Knight,,Knight,騎士
+Knight Cast Iron,,Knight Cast Iron,鑄鐵騎士
+Knight Chrome,,Knight Chrome,鉻金屬騎士
+Knight Dark,,Knight Dark,深色騎士
+Knight Light,,Knight Light,淡色騎士
+Knight Supporters,,Knight Supporters,支持者限定騎士
+Knight of Knil,,,克尼爾騎士
+Kobold,,Kobold,狗頭人
+LAN,,LAN,局部區域網路
+LANGUAGE_BROWSE_TOOLTIP,,Find community translation mods on the Workshop.,在工作坊搜尋社群翻譯模組。
+LANGUAGE_EXPORT_TOOLTIP,,Export current translation as a .csv file so that you can mod and upload it to the Workshop.,將目前翻譯匯出為 .csv 檔案，您可以編輯並將其上傳至工作坊。
+LANGUAGE_HELP,,Change your language to the provided translations or create and use community created translations.,更改您的語言至內建翻譯或建立及使用社群翻譯。
+LANGUAGE_UPLOAD_TOOLTIP,,Upload the currently loaded translation to the Workshop.,上傳目前已載入的翻譯至工作坊。
+LATEST DLC NOW AVAILABLE!,,Latest DLC Now Available!,最新的 DLC 已可用！
+LEFT_THEN_DOWN,,Left / Down,向左／向下
+LEFT_THEN_UP,,Left / Up,向左／向上
+LIFO,,LIFO,後進先出法
+LIGHTING,,Lighting,光照
+LUT,,LUT,LUT
+LUT Contribution,,LUT Contribution,LUT 強度
+Label,,Label,標籤
+Language,,Language,語言
+Language Code,,EN,英文
+Laser Activation Threshold,,Laser Activation Threshold,雷射啟用閾值
+Laser Always On,,Laser Always On,雷射保持開啟
+Laser Angled,,Laser Angled,雷射角度
+Laser Beam Opacity,,Laser Beam Opacity,雷射波束不透明度
+Laser Beam Thickness,,Laser Beam Thickness,雷射波束粗細
+Laser Beam Visible,,Laser Beam Visible,雷射波束可見度
+Laser Dot Size,,Laser Dot Size,雷射點尺寸
+Last Played,,,最後遊玩
+Last in last out or a reverse queue.,,Last in last out or a reverse queue.,後手後出或反轉佇列。
+Layout,,Layout,佈置區
+Layout Zone,,Layout Zone,佈置區
+Layout Zone Tags,,Layout Zone Tags,佈置區標籤
+LayoutZoneAllowSwapping,,"When moving an object from one full group to another, the object you drop on will be moved to the original group.",移動物件從一個達到上限的分組到另一個分組時，放下的物件會移回原來的分組。
+LayoutZoneAlternateDirection,,"Objects added to a group will be aligned up or right, different from the preceding object in the group.  Used, for example, in trick-taking games to make counting easier.",新增至分組的物件會向上或向右對齊，與分組內之前的物件不同。使用場景例如吃磴遊戲中使計數更加容易。
+LayoutZoneCardsPerDeck,,Sets the size of decks made by the layout zone when it combines newly added cards.,設定佈置區合併新增卡片時生成的牌堆數量。
+LayoutZoneCombineIntoDecks,,Whether cards added to the zone should be combined into decks.  You may specify the number of cards per deck.,新增至區域的任何卡片都會合併進入牌堆。您可以特定每組卡片數量。
+LayoutZoneComponents,,"Which components will be added to the zone, and how.",哪些配件可以新增至區域，以及新增方式。
+LayoutZoneDirection,,The directions the groups in the zone expand into.  This will determine the origin corner.,區域內分組展開的方向。此動作會決定原始角度。
+LayoutZoneFaceDown,,Face-Down components dropped on zone will be layed out.,面朝下的配件放入區域會自動佈置。
+LayoutZoneFaceUp,,Face-Up components dropped on zone will be layed out.,面朝上的配件放入區域會自動佈置。
+LayoutZoneFacing,,Determines whether newly added objects are turned face-up or face-down.,設定新增物件轉為面朝上或面朝下。
+LayoutZoneGroupDirection,,The direction the objects within a group will expand into.,分組內物件展開的方向。
+LayoutZoneGroupObjects,,"When new objects are added to a zone, they will be gathered into groups of this many objects.",新增物件至區域時，自動以此數量分組。
+LayoutZoneHorizontalPadding,,How much horizontal space is inserted between groups.,每組之間的水平距離。
+LayoutZoneHorizontalSpread,,How far each object in a group is moved horizontally from the previous object.,分組內物件之間水平移動的距離。
+LayoutZoneManualTooltip,,The zone will not automatically lay out objects: it must be triggered manually.,區域停止自動佈置物件：必須手動佈置。
+LayoutZoneMaxGroupObjects,,Each group in the zone may not contain more than this number of objects.,區域內的分組可能無法容納超過此數量的物件。
+LayoutZoneNonCards,,Non-card components dropped on zone will be layed out.,非卡片配件放入區域時自動佈置。
+LayoutZonePadding,,How much space is inserted between groups layed out in the zone.,區域內每組之間的佈置距離。
+LayoutZoneRandomizeTooltip,,Objects will be randomized whenever they are layed out.,每次都會隨機佈置物件。
+LayoutZoneSort,,How groups are sorted internally.,分組內的排序方式。
+LayoutZoneSortExisting,,"When enabled all groups will be sorted when layed out, rather than only newly added groups.",預設僅對新增分組排序，啟用後每次都對所有分組排序。
+LayoutZoneSplitTooltip,,Decks added to the zone will be split into their individual cards.,新增牌堆至區域會自動分牌。
+LayoutZoneSpread,,How far apart objects within a group are spread.,分組內擺列物件的距離。
+LayoutZoneVerticalPadding,,How much vertical space is inserted between groups.,每組之間的垂直距離。
+LayoutZoneVerticalSpread,,How far each object in a group is moved vertically from the previous object.,分組內物件之間垂直移動的距離。
+"Lead, Code, Design",,"Lead, Code, Design",指導、程式碼、設計
+Learn the basics in this short tutorial.,,Learn the basics in this short tutorial.,在這場簡短的教學中學習一些基礎知識。
+Left,,Left,左
+Left Pad Down,,Left Pad Down,左側十字鍵（下）
+Left Tool Hotkeys,,Left Tool Hotkeys,左側工具快速鍵
+Let Game Set Theme,,Let Game Set Theme,允許遊戲設定主題
+Let's get a better look!,,Let's get a better look!,讓我們以更佳的視角看看物件吧！
+Lets players choose which color to pass their turn to.,,Lets players choose which color to pass their turn to.,允許玩家選擇特定顏色跳過回合。
+Lift Height,,Lift Height,撿起高度
+Light,,Light,光照
+Light Color,,Light Color,光照顏色
+Light Intensity,,Light Intensity,光照強度
+Like this!,,Like this!,像這樣子！
+Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,,Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,限制畫面幀率為螢幕更新率，減少畫面撕裂。啟用垂直同步的幀率下降會導致畫面卡頓和輸入延遲。
+Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,,Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,限制幀率為螢幕更新率，減少系統使用率。建議筆電啟用。
+Line,,Line,直線
+Line Thickness,,Line Thickness,直線粗細
+Line Tool,,Line Tool,直線工具
+Lines,,Lines,直線
+Liquorish,,Liquorish,Liquorish
+Living Dead,,Living Dead,活死人之夜
+Lizard Warrior,,Lizard Warrior,巫師戰士
+Lizards,,Lizards,巫師
+Load,,Load,載入
+Load Camera,,Load Camera,載入鏡頭
+Load Camera View,,Load Camera View,載入鏡頭視角
+Loaded,,Loaded,已載入
+Loading,,Loading,載入中
+Loading...,,Loading...,載入中……
+Local,,Local,區域
+Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,,Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,"區域：使用物件坐標系。
+全域：使用全域坐標系。"
+Lock,,Lock,鎖定
+Lock the X and Y size together.,,Lock the X and Y size together.,鎖定長寬比例。
+Locked,,Locked,鎖定
+Locking,,Locking,鎖定
+Log,,Log,記錄
+Logging,,Logging,記錄中
+Long press on an object to bring it up.,,Long press on an object to bring it up.,在物件上長按拿取。
+Look Speed,,Look Speed,鏡頭移動速度
+Looking For Players,,Looking For Players,搜尋玩家
+Looping Effect,,Looping Effect,循環效果
+Low,,Low,低
+Low Complexity,,Low Complexity,低難度
+Lower-Multi-Grab,,Lower/Multi-Grab,放下／多次拿取
+Lua scripts automatically execute on load.,,Lua scripts automatically execute on load.,載入時自動執行 Lua 腳本。
+Lut Name,,Lut Name,LUT 名稱
+MANIPULATED_THE_DECK,,manipulated the deck,控牌
+MODEL,,MODEL,模型
+MODIFIERS,,Modifiers,調整
+MORE,,More,更多
+MSAA,,MSAA,MSAA
+Mage,,Mage,法師
+Magnify,,Magnify,放大鏡
+Mahjong,,Mahjong,麻將
+Main,,Main,主要
+Main Menu,,Main Menu,主選單
+Main Menu Volume,,Main Menu Volume,主選單音量
+Manticora,,Manticora,蠍獅
+Manual Only,,Manual Only,僅手動
+Map,,Map,地圖
+Mara,,,妖魔
+Marbles,,Marbles,彈珠
+Mass,,Mass,質量
+Master Volume,,Master Volume,主持者音量
+Matching Custom Object Query,,Matching Custom Object Query,符合的自訂物件查詢
+Material,,Material,材質
+Mature Games,,Mature Games,心理遊戲
+Max,,Max,最大
+Max Distance,,Max Distance,最長距離
+Max Objects Per Group,,Max. Objects Per Group,每組最大物件數
+Max Players,,Max Players,最大玩家數
+Max Players (2-8),,Max Players (2-8),最大玩家數（2 到 8 人）
+Measure Arrows Angle,,Measure Arrows Angle,測量箭頭角度
+Measure Font Size,,Measure Font Size,測量字型大小
+Measure Movement,,Measure Movement,移動時自動測距
+Measure tool will automatically be used when moving this object.,,Measure tool will automatically be used when moving this object.,測量工具在移動此物件時將自動啟用。
+Medium,,Medium,中
+Medium Complexity,,Medium Complexity,中難度
+Memory Games,,Memory Games,記憶遊戲
+Menu,,Menu,選單
+Merge Distance,,Merge Distance,合併距離
+Message,,Message,訊息
+Metal,,Metal,金屬製
+Microphone,,Microphone,麥克風
+Min,,Min,最小
+Min Distance,,Min Distance,最短距離
+Miniature Games,,Miniature Games,小型遊戲
+Misc,,Misc,雜項
+Misc. Settings,,Misc. Settings,雜項設定
+Misc. Settings...,,Misc. Settings...,雜項設定……
+Miscellaneous,,Miscellaneous,雜項
+Missing Binding Warning,,Missing Binding Warning,綁定遺失警告
+Mistfall,,Mistfall,Mistfall
+Mod Caching,,Mod Caching,模組快取
+Mod Save Location,,Mod Save Location,模組儲存位置
+Mod Threading,,Mod Threading,多執行緒模組載入
+Modding,,Modding,模組
+Mode,,Mode,模式
+Model-Mesh,,Model/Mesh,模型／網格
+Moons,,Moons,月亮
+Moons Coin 2,,Moons Coin 2,月亮硬幣 2
+Moons Coin 3,,Moons Coin 3,月亮硬幣 3
+Moons Coin 4,,Moons Coin 4,月亮硬幣 4
+Moons Coin 5,,Moons Coin 5,月亮硬幣 5
+Moons Coin Ace,,Moons Coin Ace,月亮硬幣 A
+Moons Coin Blank,,Moons Coin Blank,月亮硬幣 空白
+Moons Dice,,Moons Dice,月亮骰子
+Moons Square 2,,Moons Square 2,月亮方塊 2
+Moons Square 3,,Moons Square 3,月亮方塊 3
+Moons Square 4,,Moons Square 4,月亮方塊 4
+Moons Square 5,,Moons Square 5,月亮方塊 5
+Moons Square Ace,,Moons Square Ace,月亮方塊 A
+Moons Square Blank,,Moons Square Blank,月亮方塊 空白
+Motor Force,,Motor Force,驅動力
+Motor Free Spin,,Motor Free Spin,持續旋轉驅動力
+Motor Velocity,,Motor Velocity,驅動速度
+Mouse Shake Threshold,,Mouse Shake Threshold,滑鼠搖動閾值
+Move,,Move,移動
+Move Camera,,Move Camera,移動鏡頭
+Move FrictioN,,Move FrictioN,移動摩擦力
+Move With Inertia,,Move With Inertia,移動慣性
+Move the position of the grid to fit your layout.,,Move the position of the grid to fit your layout.,移動網格位置以符合佈置。
+"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.",,"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.",移動鏡頭至想要的角度，使用數字鍵儲存位置。您也可以在全域環境選單中執行此動作。
+Move {0}?,,Move {0}?,是否要移動{0}呢？
+Movement Speed,,Movement Speed,鏡頭移動速度
+"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.",,"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.",使用方向鍵移動鏡頭。按住＜滑鼠中鍵＞可以調整鏡頭角度。
+Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,,Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,移動鏡頭位置。您也可以按住＜滑鼠中鍵＞可以調整角度。
+Mp3 Player,,MP3 Player,MP3 播放器
+Mp3 Volume,,MP3 Volume,MP3 音量
+Multi-Select,,Multi-Select,多選
+Multiplayer,,Multiplayer,多人遊戲
+Mummy,,Mummy,木乃伊
+Museum,,Museum,博物館
+Music,,Music,音樂
+Music Player,,Music Player,音樂播放器
+Muted,,Muted,已靜音
+Mythological,,Mythological,神話
+NA,,NA,不適用
+NAT,,NAT,NAT 穿透
+NAT Punchthrough is a way the game tries to get around manual port forwarding.,,NAT Punchthrough is a way the game tries to get around manual port forwarding.,NAT 穿透是遊戲嘗試繞過手動通訊埠轉發的一種方法。
+NORTHWARD,,Northward,向北
+Name,,Name,名稱
+Name MSG,,Name MSG,名字 訊息
+Negative Typed Numbers,,Negative Typed Numbers,輸入的數字無效
+New Label,,New Label,新標籤
+New snap points will have these tags.,,New snap points will have these tags.,新增吸附點將會擁有這些標籤。
+Next State,,Next State,下一狀態
+Nice shaking! Now let's rotate the camera.,,Nice shaking! Now let's rotate the camera.,擲得真棒！現在來旋轉一下鏡頭吧。
+Nice! Now let's shuffle the deck of cards.,,Nice! Now let's shuffle the deck of cards.,太好啦！現在將這副牌堆洗牌吧！
+"Nice! Now let's spin our view. Hold ({0}) on both controllers, then move your hands as if you were turning a wheel.",,"Nice! Now let's spin our view.
+Hold <{0}> on both controllers,
+then move your hands as if you were turning a wheel.","很棒！現在來旋轉我們的視角。
+按住控制器的兩個＜{0}＞，
+然後像轉動車輪一樣移動您的手牌區。"
+No,,No,否
+No Log,,No Log,無記錄
+No special properties.,,No special properties.,沒有特別屬性。
+Non-Cards,,Non-Cards,非卡片
+Non-Convex,,Non-Convex,非凸面
+None,,None,無
+Normal-Bump,,Normal/Bump,一般／凹凸
+North America Proxy,,North America Proxy,北美代理
+Not connected to this player.,,Not connected to this player.,沒有連線至此玩家。
+Notebook,,Notebook,筆記本
+Notecard,,Notecard,記事卡片
+Notepad,,Notepad,記事本
+Notes,,Notes,筆記
+Nudge,,Nudge,輕推
+Nudging,,Nudging,輕推
+Number,,Number,數量
+Number of Players,,Number of Players,玩家人數
+Number of Players:,,Number of Players:,玩家人數：
+Number of cards in the deck (2-69). Last card slot is used for the hidden card.,,Number of cards in the deck (2-69). Last card slot is used for the hidden card.,牌堆中的卡片數量（2 到 69 張）。最後的卡槽會用於隱藏卡片。
+Number of pages to compensate for pdf page numbering being offset from actual page numbering.,,Number of pages to compensate for pdf page numbering being offset from actual page numbering.,PDF 檔案實際頁數偏移的頁數補償。
+Number of people currently playing Tabletop Simulator,,Number of people currently playing Tabletop Simulator,目前遊玩桌遊模擬器的人數
+Number of puzzle pieces.,,Number of puzzle pieces.,拼圖數量
+OC,,OC,原創角色
+Objects,,Objects,物件
+Objects Per Group,,Objects Per Group,每組物件
+Objects are not hidden in hands.,,Objects are not hidden in hands.,不隱藏手中的物件
+Objects in queue.,,Objects in queue.,行列中的物件。
+Objects snap to both the lines and the center of the grid.,,Objects snap to both the lines and the center of the grid.,物件可吸附在格線和網格中心。
+Objects snap to center of each grid location.,,Objects snap to center of each grid location.,物件可吸附在網格中心。
+Objects snap to line intersections.,,Objects snap to line intersections.,物件可吸附在線條交點。
+Objects will be hidden in area.,,Objects will be hidden in area.,區域內的物件將隱藏。
+"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.",,"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.",若此項啟用，物件將僅可使用拖放選取。相反則需要按住快速鍵。
+Oceanic Proxy,,Oceanic Proxy,大洋洲代理
+Octagon,,Octagon,八角桌
+Off,,Off,關閉
+Offset,,Offset,偏移度
+Offset for the Field of View of Fog of War revealed.,,Offset for the Field of View of Fog of War revealed.,顯示的戰爭迷霧的可視範圍偏移度。
+Ogre,,Ogre,食人魔
+Ok,,Ok,確定
+Old school way to connect with IP and Port.,,Old school way to connect with IP and Port.,使用傳統的 IP 位址及通訊埠進行連線。
+On-Screen Keyboard,,On-Screen Keyboard,虛擬鍵盤
+On-screen Keyboard Echo,,On-screen Keyboard Echo,虛擬鍵盤回饋音
+On-screen Keyboard Scale,,On-screen Keyboard Scale,虛擬鍵盤尺寸
+One Last Thing! Time for some mayhem! Press the 'Flip' button on the top bar!,,"One Last Thing! Time for some mayhem!
+Press the 'Flip' button on the top bar!","最後一件事！是時候大破壞啦！
+點擊頂部選單的「翻轉」按鈕吧！"
+Only invited people can join.,,Only invited people can join.,僅限收到邀請的人加入。
+Only the hand owner can see in their hand.,,Only the hand owner can see in their hand.,只有持有者可以看到手牌。
+Only your friends can join.,,Only your friends can join.,只有您的好友可以加入。
+Opacity,,Opacity,不透明度
+Opacity Of Drop Indicator,,Opacity Of Drop Indicator,放下指示不透明度
+Opacity Of Spawn Indicator,,Opacity Of Spawn Indicator,生成指示不透明度
+Open,,Open,開啟
+Open folder in OS,,Open folder in OS,在作業系統中開啟資料夾
+Opposing players' pointers will be hidden in area.,,Opposing players' pointers will be hidden in area.,區域內隱藏對手玩家的游標。
+Options,,Options,選項
+Options -) Info,,Options -> Info,選項→資訊
+Orange,,Orange,橙色
+Orc,,Orc,半獸人
+Order,,Order,順序
+Orient Object Delay,,Orient Object Delay,導向物件延遲
+Original Controls,,Original Controls,原始控制
+Original Games,,Original Games,原創遊戲
+Overwrite,,Overwrite,覆蓋
+Overwrite theme {0}?,,Overwrite theme {0}?,是否要覆蓋主題「{0}」呢？
+Overwrite {0}?,,Overwrite {0}?,是否要覆蓋「{0}」呢？
+PDF File,,PDF File,PDF 檔案
+PDF Viewer,,PDF Viewer,PDF 檢視器
+PERMISSIONS,,Permissions,權限
+PM (Global),,PM (Global),私訊（全域）
+PM (In Game),,PM (In Game),私訊（遊戲內）
+Pachisi,,Pachisi,印度十字戲
+Pad Icons Always On,,Pad Icons Always On,手把圖示永遠顯示
+Pad Up = Teleport,,Pad Up = Teleport,十字鍵（上）＝傳送
+Padding,,Padding,邊距
+Page,,Page,頁面
+Page Offset,,Page Offset,頁面偏移度
+Painting,,Painting,繪畫
+Pan,,Pan,追拍
+Pan Camera,,Pan Camera,移動鏡頭
+Particle Effects,,Particle Effects,粒子效果。
+Party Games,,Party Games,派對遊戲
+Pass Turns,,Pass Turns,跳過回合
+Password,,Password,密碼
+Paste,,Paste,貼上
+"Paste clipboard, replacing text.",,"Paste clipboard, replacing text.",貼上剪貼簿內容以取代文字。
+Pawn,,Pawn,兵
+Pawn Cast Iron,,Pawn Cast Iron,鑄鐵兵
+Pawn Chrome,,Pawn Chrome,鉻金屬兵
+Pawn Dark,,Pawn Dark,深色兵
+Pawn Light,,Pawn Light,淡色兵
+Pawn Supporters,,Pawn Supporters,支持者限定兵
+Peek Cards & Objects,,Peek Cards & Objects,偷看卡片及物品
+Peeking,,Peeking,偷看
+Pen,,Pen,畫筆
+Perfect! Now let's move the entire deck of cards.,,Perfect! Now let's move the entire deck of cards.,完美！現在來移動整疊牌堆吧。
+Persistent,,Persistent,持久化
+Physical UI Screen,,Physical UI Screen,物理介面
+Physics,,Physics,物理
+Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,,Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,物理效果略微降低。靜止物件將停止與其他物件互動。
+Pick Up,,Pick Up,撿起
+Picture-in-Picture,,Picture-in-Picture,畫中畫
+Piecepack,,Piecepack,Piecepack
+Pieces,,Pieces,棋子
+Ping to player,,Ping to player,網路延遲
+Pink,,Pink,粉色
+Pivot,,Pivot,樞軸
+Pivot Point,,Pivot Point,樞軸點
+Pixel,,Pixel,像素
+Pixel Paint,,Pixel Paint,像素畫
+Placeholder,,Placeholder,預留位置
+Plastic,,Plastic,塑膠製
+Play Area,,Play Area,遊玩區域
+Play Scripts,,Play Scripts,使用腳本
+"Play a solo game, or create your own custom games. Great for prototyping and testing.",,"Play a solo game, or create your own custom games. Great for prototyping and testing.",遊玩單人遊戲，或是建立自訂遊戲。很適合測試遊戲。
+"Play by yourself, great for creating games or playing solo games.",,"Play by yourself, great for creating games or playing solo games.",單獨遊玩，很適合製作遊戲或遊玩單人遊戲。
+Play games with people online.,,Play games with people online.,與線上玩家一同遊玩遊戲。
+Play on the same computer with multiple people.,,Play on the same computer with multiple people.,使用同一電腦進行多人遊戲。
+Play with multiple people on the same computer taking turns.,,Play with multiple people on the same computer taking turns.,使用同一電腦輪流進行多人遊戲。
+Play with other people.,,Play with other people.,同其他人一同遊玩。
+Player 1,,Player 1,玩家 1
+Player 1's Turn,,Player 1's Turn,玩家 1 的回合
+Player Name,,Player Name,玩家名稱
+Player Names,,Player Names,玩家名稱
+Player Pawns,,Player Pawns,玩家的兵
+Players,,Players,玩家
+Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,,Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,相同小組的玩家可以查看彼此的隱藏資訊，並且可以使用小組聊天室和小組語音聊天進行交流。
+Playing Time,,Playing Time,遊玩時間
+Playlist,,Playlist,播放列表
+Please enter password,,Please enter password,請輸入密碼
+Please pickup the card using ({0}) on either controller.,,Please pickup the card using <{0}> on either controller.,請請用任一控制器的＜{0}＞撿起卡片。
+Please pickup the card using your finger.,,Please pickup the card using your finger.,請用手指撿起卡片。
+Please pickup the card with (Left Mouse Button).,,Please pickup the card with <Left Mouse Button>.,請用＜滑鼠左鍵＞撿起卡片。
+Please pickup the card with (Right Bumper).,,Please pickup the card with <Right Bumper>.,請用＜RB＞撿起卡片。
+Point,,Point,吸附點
+Pointer,,Pointer,游標
+Pointer - Zoom (Click) - Pan Camera (Hold),,Pointer / Zoom (Click) / Pan Camera (Hold),游標／縮放（點擊）／移動鏡頭（按住）
+Poker,,Poker,撲克桌
+Poker Chips,,Poker Chips,撲克籌碼
+Pop-out,,Pop-out,彈出
+Port (11155 is default),,Port (11155 is default),通訊埠（預設為 11155）
+Port (Default is 11155),,Port (Default is 11155),通訊埠（預設為 11155）
+Portraits,,Portraits,大頭貼
+Position,,Position,位置
+Position of the anchor relative to the connected Rigidbody.,,Position of the anchor relative to the connected Rigidbody.,連結剛體的錨點位置。
+Post AA,,Post AA,後處理反鋸齒技術
+Post processing sharpen effect to enhance the clarity of textures.,,Post processing sharpen effect to enhance the clarity of textures.,後處理銳化效果以提高紋理的清晰度。
+"Precise drawing, draw on locked objects, and change the color. +-- to scale the thickness.",,"Precise drawing, draw on locked objects, and change the color. +/- to scale the thickness.",精確繪畫，在鎖定物件上繪畫，並更改顏色。使用＜+＞或＜-＞調整粗細。
+Preset Quality,,Preset Quality,預設品質
+Presets,,Presets,預設
+Press (Space) to reset the camera.,,Press <Space> to reset the camera.,按下＜空白鍵＞重設鏡頭。
+Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,,Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,點擊＜F11＞可隱藏介面；＜Shift + F11＞可擷取高畫質螢幕截圖。
+"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.",,"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.",按住＜滑鼠左鍵＞拿取物件。長按拿取牌堆及整堆物件。按住並快速移動游標可以從牌堆及整堆物件中拿取最上面的物品。
+Press and hold your finder on the deck for a second then drag.,,Press and hold your finder on the deck for a second then drag.,在牌堆上長按一秒鐘，然後拖取。
+Press or the middle mouse button to quickly zoom to where your mouse is pointing.,,Press or the middle mouse button to quickly zoom to where your mouse is pointing.,按下快速鍵或＜滑鼠中鍵＞以快速放大游標所在位置。
+Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,,Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,使用＜數字鍵＞載入儲存的視角。您也可以在全域環境選單中執行此動作。
+Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,,Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,按下＜B＞降下布幕作為您的眼罩。您也可以在全域環境選單中執行此動作。
+Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,,Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,按下＜M＞放大桌面。您也可以使用＜滑鼠滾輪＞調整縮放大小。
+Press the key to quickly bring up the main menu.,,Press the key to quickly bring up the main menu.,按下＜ESC＞快速開啟主選單。
+"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.",,"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.",按下＜T＞放下手中的物件或拿取其他物件。或者，您可以按下＜滑鼠右鍵＞。
+Press to talk to only those people on the same team as you.,,Press to talk to only those people on the same team as you.,按下以和同組玩家進行語音。
+Preview,,Preview,預覽
+Previous State,,Previous State,上一狀態
+Primary,,Primary,主要
+Private,,Private,私密
+Profanity Filter,,Profanity Filter,不雅內容篩選
+Progress,,Progress,進度
+Projection,,Projection,投射
+Promote,,Promote,晉陞
+Promoted,,Promoted,已晉陞
+Props,,Props,道具
+Proxy,,Proxy,代理
+"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.",,"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.",代理伺服器會增加用戶端的延遲，但也會確保連線穩定。用戶端只會在必要狀況下透過代理伺服器來進行連線。
+Public,,Public,公開
+Pure,,Pure,純色
+Pure Mode: Floor Mist,,Pure Mode: Floor Mist,純色模式：地板迷霧
+Pure Mode: Hide Custom Image,,Pure Mode: Hide Custom Image,純色模式：隱藏自訂圖案
+Purple,,Purple,紫色
+Push To Talk,,Push To Talk,即按即說
+Puzzle Games,,Puzzle Games,解謎遊戲
+Quarter,,Quarter,25 分硬幣
+Queen,,Queen,王后
+Queen Cast Iron,,Queen Cast Iron,鑄鐵王后
+Queen Chrome,,Queen Chrome,鉻金屬王后
+Queen Dark,,Queen Dark,深色王后
+Queen Light,,Queen Light,淡色王后
+Queen Supporters,,Queen Supporters,支持者限定王后
+Quick Zoom,,Quick Zoom,快速縮放
+Quick tap on an object.,,Quick tap on an object.,在物件上快速點擊。
+Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,,Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,無需設定每一選項，快速更改圖像設定。若遇到幀率問題，請選用「低」或「極低」。
+Quickly drag away from the deck.,,Quickly drag away from the deck.,快速從牌堆中拖取。
+Quit playing.,,Quit playing.,停止遊玩。
+REMOVE BLINDFOLD,,Remove Blindfold,移除蒙眼布
+RIGHT_THEN_DOWN,,Right / Down,向右／向下
+RIGHT_THEN_UP,,Right / Up,向右／向上
+RIGIDBODY,,Rigidbody,剛體
+ROTATIONS,,Rotations,旋轉角度
+RPG,,RPG,角色扮演遊戲（RPG）
+RPG Attack,,RPG Attack,RPG 攻擊
+RPG Die,,RPG Die,RPG 死亡
+RPG Figurines - Protofactor,,RPG Figurines - Protofactor,RPG 塑像（Protofactor 公司）
+"RPG Figurines are fully animated. Use 1, 2, 3 to activate.",,"RPG Figurines are fully animated. Use 1, 2, 3 to activate.",RPG 塑像擁有完整動畫效果。使用數字 1、2、3 以分別啟用。
+RPG Kit,,RPG Kit,RPG 元件
+RPG Mode,,RPG Mode,RPG 模式
+Raise,,Raise,提起
+Raise-Randomize,,Raise/Randomize,提起／隨機排列
+Random,,Random,隨機
+Random Card,,Random Card,隨機卡片
+Random Domino,,Random Domino,隨機多米諾骨牌
+Random Mahjong,,Random Mahjong,隨機麻將牌
+Randomize,,Randomize,隨機區
+Randomize - Raise,,Randomize / Raise,隨機排列／提起
+Randomize Zone Load Prompt,,,隨機區載入提示
+Randomize Zone Tags,,Randomize Zone Tags,隨機區標籤
+Randomize all objects in this zone?,,Randomize all objects in this zone?,是否要隨機排列此區域內的所有物件呢？
+Randomizes rotation when shaken and spins when thrown.,,Randomizes rotation when shaken and spins when thrown.,搖動及拋擲旋轉時，隨機旋轉角度。
+Randomly play an audioclip from a the playlist?,,Randomly play an audioclip from a the playlist?,是否要隨機播放列表中的音訊呢？
+Range of Fog of War revealed.,,Range of Fog of War revealed.,戰爭迷霧範圍已顯示。
+Ranger,,Ranger,遊俠
+ReHide Objects,,Re-Hide Objects,重新隱藏物件
+Read more on our Knowledge Base.,,Read more on our Knowledge Base.,更多內容請造訪我們的官方知識庫！
+Real,,Real,真實
+Rectangle,,Rectangle,矩形
+Rectangle (Rounded),,Rectangle (Rounded),圓角矩形
+Red,,Red,紅色
+Red 100,,Red 100,紅色籌碼 100
+Red Square,,Red Square,紅色方積木
+Reflection Intensity,,Reflection Intensity,反射強度
+Refresh server list,,Refresh server list,重新整理伺服器列表
+Regal,,Regal,富豪房間
+Region,,Region,地區
+Remove all {0} controls?,,Remove all {0} controls?,是否要移除所有「{0}」的控制呢？
+Remove block on {0}?,,Remove block on {0}?,是否要移除「{0}」的封鎖呢？
+Rename,,Rename,重新命名
+Rename theme?,,Rename theme?,是否要重新命名主題呢？
+Render Drawing over UI,,Render Drawing Over UI,在介面上渲染繪畫
+Repeat current audioclip?,,Repeat current audioclip?,是否要循環播放目前音訊呢？
+Reset,,Reset,重設
+Reset All,,Reset All,重設全部
+Reset Camera,,Reset Camera,重設鏡頭
+Reset Data,,Reset Data,重設資料
+Reset Fog,,Reset Fog,重設迷霧
+Reset View,,Reset View,重設視角
+Reset the camera!,,Reset the camera!,重設鏡頭！
+Reset to Default,,Reset to Default,重設為預設值
+Reset to default Light scheme (CTRL-F12),,Reset to default Light scheme (CTRL-F12),重設至預設光照方案（Ctrl + F12）
+"Resets all saved data (General, Controls, UI, etc).",,"Resets all saved data (General, Controls, UI, etc).",重設所有儲存資料（一般、控制、介面等）。
+Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,,Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,重設鏡頭至座位的預設位置。使用＜Ctrl + 0＞可以覆蓋預設視角。
+Resolution,,Resolution,解析度
+Resume Game,,Resume Game,繼續遊戲
+Reveal Color,,Reveal Color,選取顏色顯示
+Reveal FoV,,Reveal FoV,顯示可視範圍
+Reveal FoV Offset,,Reveal FoV Offset,顯示可視範圍偏移度
+Reveal Fog of War,,Reveal Fog of War,顯示戰爭迷霧
+Reveal Height,,Reveal Height,顯示高度
+Reveal Range,,Reveal Range,顯示範圍
+Reveal to all.,,Reveal to all.,向所有玩家展示。
+Reveal to blue.,,Reveal to blue.,向藍色展示。
+Reveal to brown.,,Reveal to brown.,向棕色展示。
+Reveal to green.,,Reveal to green.,向綠色展示。
+Reveal to orange.,,Reveal to orange.,向橙色展示。
+Reveal to pink.,,Reveal to pink.,向粉色展示。
+Reveal to purple.,,Reveal to purple.,向紫色展示。
+Reveal to red.,,Reveal to red.,向紅色展示
+Reveal to teal.,,Reveal to teal.,向深青色展示。
+Reveal to white.,,Reveal to white.,向白色展示。
+Reveal to yellow.,,Reveal to yellow.,向黃色展示。
+Revealer,,Revealer,展示者
+Reverse,,Reverse,反轉
+Reverse Hiding,,Reverse Hiding,反轉隱藏
+Reverse Order,,Reverse Order,反轉順序
+Reversed,,Reversed,反轉
+ReversedSort,,When enabled the sort order inside a group is reversed.,啟用後反轉分組的排序。
+Reverses the turn order from the default.,,Reverses the turn order from the default.,將預設順序逆轉。
+Reversi,,Reversi,黑白棋
+Reversi Chip,,Reversi Chip,黑白棋棋子
+Rewind Time,,Rewind Time,倒轉時間
+Right,,Right,右
+Right Pad Down,,Right Pad Down,十字鍵（右）
+Right Tool Hotkeys,,Right Tool Hotkeys,右側工具快速鍵
+Right click on an object for more options.,,"Right click on an object
+for more options.",右鍵點擊物件以開啟選單
+Right click on non-objects for global menu options.,,"Right click on non-objects for
+global menu options.",右鍵點擊非物件以開啟全域選單
+Rock,,Rock,岩石
+Role-playing Games,,Role-playing Games,角色扮演遊戲
+Roll,,Roll,擲骰子
+Rook,,Rook,城堡
+Rook Cast Iron,,Rook Cast Iron,鑄鐵城堡
+Rook Chrome,,Rook Chrome,鉻金屬城堡
+Rook Dark,,Rook Dark,深色城堡
+Rook Light,,Rook Light,淺色城堡
+Rook Supporters,,Rook Supporters,支援者限定城堡
+Rooms,,Rooms,房間
+Rotate,,Rotate,旋轉
+Rotate Camera,,Rotate Camera,旋轉鏡頭
+Rotate Camera - Reset (Click),,Rotate Camera / Reset (Click),旋轉鏡頭／重設（點擊）
+Rotate Left,,Rotate Left,向左旋轉
+Rotate Other Axis,,Rotate Other Axis,順／逆時針旋轉
+Rotate Right,,Rotate Right,向右旋轉
+Rotate Snap,,Rotate Snap,旋轉吸附
+"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.",,"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.",旋轉吸附點跟一般吸附點相同，只是可以更改旋轉位置。例如設定吸附點為向右 30 度，將物件置於其頂部時，物件會吸附在上面並同樣旋轉 30 度。
+Rotation,,Rotation,旋轉角度
+Rotation Degrees,,Rotation Degrees,旋轉角度
+Rotation Value,,Rotation Value,旋轉數值
+Round,,Round,圓桌
+Round Glass,,Round Glass,玻璃圓桌
+Rounded,,Rounded,圓角
+Ruler mode,,Ruler mode,直尺模式
+Rules,,Rules,規則
+SAVE & EXIT,,Save & Exit,儲存並退出
+SAVE & LOAD,,Save & Load,儲存及載入
+SAVE GAME,,Save Game,儲存遊戲
+SAVED OBJECTS,,Saved Objects,已儲存物件
+SERVER,,Server,伺服器
+SORT_BY_ADDED,,Added Time,延長時間
+SORT_BY_DESC,,Description,簡介
+SORT_BY_GM,,GM Notes,遊戲主持者筆記
+SORT_BY_MEMO,,Memo,備忘錄
+SORT_BY_NAME,,Name,名稱
+SORT_BY_VALUE,,Value,數值
+SORT_NONE,,None,無
+SOUND,,Sound,音效
+SOUTHWARD,,Southward,向南
+SPOTLIGHT,,Spotlight,焦點資訊
+SSAO,,SSAO,SSAO
+SUBMIT,,Submit,提交
+Sandbox,,Sandbox,積木沙盒
+Saturation,,Saturation,飽和度
+Save,,Save,儲存
+Save & Play,,Save & Play,儲存及遊玩
+Save Camera,,Save Camera,儲存鏡頭
+Save Camera View,,Save Camera View,儲存鏡頭視角
+Save Object,,Save Object,儲存物件
+Save Object(s),,Save Object(s),儲存物件
+Save a game you have playing for a long time and load it up again when you're ready to play it again.,,Save a game you have playing for a long time and load it up again when you're ready to play it again.,儲存一局長時間遊玩的遊戲，並在準備好重開遊戲時再次載入。
+Save current theme as...,,Save current theme as...,儲存目前主題為……
+Save to Chest,,Save to Chest,儲存至箱子
+Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,,Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,在上次開啟的存檔中儲存腳本更改，並重新載入遊戲。任何與腳本無關的更改都將遺失。
+Saving,,Saving,儲存
+Scale,,Scale,尺寸
+Scale Down,,Scale Down,縮小尺寸
+Scale Up,,Scale Up,放大尺寸
+Scaling,,Scaling,尺寸調整
+"Scaling applied to card only, not to base.",,"Scaling applied to card only, not to base.",尺寸調整僅適用卡片，不適用基本設定。
+Scripting,,Scripting,腳本區
+Scripting 1,,Scripting 1,腳本 1
+Scripting 10,,Scripting 10,腳本 10
+Scripting 2,,Scripting 2,腳本 2
+Scripting 3,,Scripting 3,腳本 3
+Scripting 4,,Scripting 4,腳本 4
+Scripting 5,,Scripting 5,腳本 5
+Scripting 6,,Scripting 6,腳本 6
+Scripting 7,,Scripting 7,腳本 7
+Scripting 8,,Scripting 8,腳本 8
+Scripting 9,,Scripting 9,腳本 9
+Scripting Editor,,Scripting Editor,腳本編輯器
+Scripting Zone Tags,,Scripting Zone Tags,腳本區標籤
+Scripting: Automated,,Scripting: Automated,腳本區：自動化
+Search,,Search,搜尋
+Search privately without others being able to see what's inside.,,Search privately without others being able to see what's inside.,執行防止他人看到內部的秘密搜尋。
+Search publicly with others being able to see what's inside.,,Search publicly with others being able to see what's inside.,執行允許他人看到內部的公開搜尋。
+Secondary,,Secondary,次要
+Seconds,,Seconds,秒數
+See everyone who has contributed to Tabletop Simulator's development.,,See everyone who has contributed to Tabletop Simulator's development.,查看對桌遊模擬器開發有貢獻的人們。
+See-through,,See-through,透視
+Select,,Select,選取
+Selection Height,,Selection Height,選取高度
+Selection Style,,Selection Style,選取風格
+Selects the microphone to use for Voice Chat.,,Selects the microphone to use for Voice Chat.,選取用於語音聊天的麥克風。
+Semi-Lock,,Semi-Lock,部分鎖定
+Server Browser,,Server Browser,伺服器瀏覽器
+Server IP,,Server IP,伺服器 IP 位址
+Server Name,,Server Name,伺服器名稱
+Server Password,,Server Password,伺服器密碼
+Server Type,,Server Type,伺服器類型
+Set Camera 0,,Set Camera 0,設定鏡頭 0
+Set UI Visibility,,Set UI Visibility,設定介面可見性
+Sets the Radius,,Sets the Radius,設定範圍
+Shadow Quality,,Shadow Quality,陰影品質
+Shadows,,Shadows,陰影
+Sharpen,,Sharpen,銳化度
+Shift,,Shift,Shift
+Should player hands hold objects?,,Should player hands hold objects?,玩家是否要可以持有物件呢？
+Should the hidden area be semi-transparent when hiding?,,Should the hidden area be semi-transparent when hiding?,隱藏區域在隱藏時是否要顯示為半透明呢？
+Should the object cast shadows? It's a good idea to disable this for ceiling objects.,,Should the object cast shadows? It's a good idea to disable this for ceiling objects.,物件是否要投射陰影呢？頂部物件最好停用此項。
+Should the object snap to any grid points?,,Should the object snap to any grid points?,物件是否要吸附在任何網格點上呢？
+Should the object snap to any snap points?,,Should the object snap to any snap points?,物件是否要吸附在任何吸附點上呢？
+Should the object survive loading between saves and mods?,,Should the object survive loading between saves and mods?,是否要在載入存檔和模組時保留此物件呢？
+Should this object go into player hands?,,Should this object go into player hands?,此物件是否要可以放入手牌區呢？
+Should this object receive grid lines projected onto it?,,Should this object receive grid lines projected onto it?,物件上是否要擁有格線投射呢？
+Show For Grid,,Show For Grid,顯示網格
+Show For Snap Points,,Show For Snap Points,顯示吸附點
+Show Hand,,Show Hand,顯示手牌區
+Show Lines,,Show Lines,顯示直線
+Show When Not Snapping,,Show When Not Snapping,沒有吸附點顯示
+Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,在玩家座位上顯示 Steam 個人圖示。
+Show hand to all players.,,Show hand to all players.,向所有玩家展示手牌區。
+Show hand to blue.,,Show hand to blue.,向藍色玩家展示手牌區。
+Show hand to brown.,,Show hand to brown.,向棕色玩家展示手牌區。
+Show hand to chosen player.,,Show hand to chosen player.,向特定玩家展示手牌區。
+Show hand to green.,,Show hand to green.,向綠色玩家展示手牌區。
+Show hand to orange.,,Show hand to orange.,向橙色玩家展示手牌區。
+Show hand to pink.,,Show hand to pink.,向粉色玩家展示手牌區。
+Show hand to purple.,,Show hand to purple.,向紫色玩家展示手牌區。
+Show hand to red.,,Show hand to red.,向紅色玩家展示手牌區。
+Show hand to teal.,,Show hand to teal.,向深青色玩家展示手牌區。
+Show hand to white.,,Show hand to white.,向白色玩家展示手牌區。
+Show hand to yellow.,,Show hand to yellow.,向黃色玩家展示手牌區。
+Show only servers that your friends are in.,,Show only servers that your friends are in.,只顯示好友伺服器。
+Show-Hide Note,,Show/Hide Note,顯示／隱藏 筆記
+Showing Hand,,Showing Hand,展示手牌區
+Shuffle,,Shuffle,洗牌
+Sideways,,Sideways,橫置
+Silver 500,,Silver 500,銀色籌碼 500
+Singleplayer,,Singleplayer,單人遊戲
+Sir Loin,,,洛伊恩爵士
+Size,,Size,大小
+Size Of Collapsed Section,,Size Of Collapsed Section,物件摺疊的尺寸
+Size of the UI.,,Size of the UI.,遊戲介面的尺寸。
+"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).",,"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).",遊戲區大小，包含隱藏牆壁和鏡頭縮放（預設為 0.5）。
+Skeleton Knight,,Skeleton Knight,骷髏騎士
+Skip Empty Hands,,Skip Empty Hands,跳過空手
+Skip to the next audioclip?,,Skip to the next audioclip?,要跳至下一個音訊嗎？
+Skip to the start or previous audioclip?,,Skip to the start or previous audioclip?,要跳至第一個或上一個音訊嗎？
+Skips players who have nothing in their hands.,,Skips players who have nothing in their hands.,跳過無手牌的玩家。
+Sky,,Sky,天空
+Smooths the edges of objects to reduce jaggies. Costly performance.,,Smooths the edges of objects to reduce jaggies. Costly performance.,平滑物件邊緣以減少鋸齒。非常消耗效能。
+"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)",,"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)",平滑物體邊緣以減少鋸齒。比 MSAA 的效能消耗更低，但是會產生輕微模糊的紋理。（後處理 SMAA）
+Snap,,Snap,吸附
+Snap Point Creation Tags,,Snap Point Creation Tags,已建立吸附點標籤
+Snap Point Tags,,Snap Point Tags,吸附點標籤
+Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,,Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,吸附點是可以像磁鐵一樣吸附物件的節點。想要移除吸附點，請點擊它。
+Snapping,,Snapping,吸附
+Solitaire,,Solitaire,接龍
+Solve,,Solve,解決
+Sort,,Sort,排序方式
+Sort Existing,,Sort Existing,全部排序
+Sort Games:,,Sort Games:,排序遊戲：
+Sounds,,Sounds,音效
+Space,,Space,空白鍵
+Spades,,Spades,黑桃
+Spawn,,Spawn,生成
+Spawn In Air,,Spawn In Air,空中生成
+Spawn Snap-To-Object,,Spawn Snap-To-Object,生成吸附物體
+Spawning Hides Components,,Spawning Hides Components,生成時隱藏配件
+Special Thanks,,Special Thanks,特別鳴謝
+Specular Color,,Specular Color,鏡面反射顏色
+Specular Intensity,,Specular Intensity,鏡面反射強度
+Specular Sharpness,,Specular Sharpness,鏡面反射銳利度
+Split,,Split,分組
+Split the deck into multiple stacks.,,Split the deck into multiple stacks.,將牌堆分成多疊。
+Spread,,Spread,展開
+Spread cards out on table.,,Spread cards out on table.,將卡片在桌面展開。
+Spring,,Spring,彈簧
+Spring Joint,,Spring Joint,彈簧節點
+Square,,Square,方桌
+Stackable,,Stackable,可堆疊
+Stacks like poker chips.,,Stacks like poker chips.,如撲克籌碼一樣堆疊。
+Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),,Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),如撲克籌碼一樣堆疊。（提示：自訂碰撞體只會決定堆疊的厚度）
+Stand Up,,Stand Up,起立
+Standard Deck,,Standard Deck,標準牌堆
+Start,,Start,開始
+State,,State,狀態
+Static,,Static,靜態
+Static Friction,,Static Friction,靜摩擦
+Stationary grid drawn in world space.,,Stationary grid drawn in world space.,在全域空間中繪製靜止網格。
+Stats Monitor,,Stats Monitor,狀態監視器
+Steam ID,,Steam ID,Steam ID
+Sticky,,Sticky,黏性
+Sticky Cards,,Sticky Cards,黏性卡片
+Sticky Grab,,Sticky Grab,黏性拿取
+StickyCardsTooltip,,"When picked up, cards above the grabbed card will also be lifted.",撿起卡片時，其上方的卡片也會被撿起。
+Stop Looking For Players,,Stop Looking For Players,停止搜尋玩家
+Stop Search,,Stop Search,停止搜尋
+Stop showing hand.,,Stop showing hand.,停止展示手牌區
+Stopwatch,,Stopwatch,計時器
+Store,,Store,儲存
+Store mod data on disk to speed up mod loading.,,Store mod data on disk to speed up mod loading.,在硬碟中儲存模組資料以提昇模組載入速度。
+Straighten self upright when picked up.,,Straighten self upright when picked up.,拿取時重新整理為垂直方向。
+Strategy Games,,Strategy Games,策略遊戲
+"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.",,"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.",物件的反射強度。較高代表有光澤，較低代表無光澤。
+Stretch to Aspect Ratio,,Stretch to Aspect Ratio,維持長寬比
+Style,,Style,風格
+Suns,,Suns,太陽
+Suns Coin 2,,Suns Coin 2,太陽硬幣 2
+Suns Coin 3,,Suns Coin 3,太陽硬幣 3
+Suns Coin 4,,Suns Coin 4,太陽硬幣 4
+Suns Coin 5,,Suns Coin 5,太陽硬幣 5
+Suns Coin Ace,,Suns Coin Ace,太陽硬幣 A
+Suns Coin Blank,,Suns Coin Blank,太陽硬幣 空白
+Suns Dice,,Suns Dice,太陽骰子
+Suns Square 2,,Suns Square 2,太陽方塊 2
+Suns Square 3,,Suns Square 3,太陽方塊 3
+Suns Square 4,,Suns Square 4,太陽方塊 4
+Suns Square 5,,Suns Square 5,太陽方塊 5
+Suns Square Ace,,Suns Square Ace,太陽方塊 A
+Suns Square Blank,,Suns Square Blank,太陽方塊 空白
+Sunset,,Sunset,日落
+Sync Axis,,Sync Axis,同步參考軸線
+System,,System,系統
+System Console,,System Console,系統控制台
+TABLES,,Tables,桌子
+TEAMS,,Teams,小組
+TIPS & HINTS,,Tips & Hints,提示與技巧
+TRANSFORM,,Transform,坐標調整工具
+TTS-PaperUI-Atlas,,TTS-PaperUI-Atlas,TTS-PaperUI-Atlas
+Tab,,Tab,Tab
+Tab1,,Tab1,Tab1
+Table,,Table,桌子
+Table Flip,,Table Flip,翻桌
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 pla","Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",正如真實生活一樣，桌子就是您遊玩遊戲的地方。最小的是方桌，可容納四位玩家。六角桌則可容納至多六位玩家。自訂的長方桌可容納十位玩家，其他桌子可容納至多八位玩家。座位可使用「手牌區工具」進行自訂。
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the Hands Zone Tool .",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players.
+ Seats can be customized using the ""Hands Zone Tool"". 
+  <Click to open page to knowledge base.>","正如真實生活一樣，桌子就是您遊玩遊戲的地方。最小的是方桌，可容納四位玩家。六角桌則可容納至多六位玩家。自訂的長方桌可容納十位玩家，其他桌子可容納至多八位玩家。
+座位可使用「手牌區工具」進行自訂。
+　＜點擊開啟官方知識庫頁面。＞"
+Tablet,,Tablet,掌上型電腦
+Tabletop Simulator VR Beta,,Tabletop Simulator VR Beta,桌遊模擬器 VR 測試版
+Tags,,Tags,標籤
+"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.",,"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.",標籤可以用於細分配件與特定遊戲系統的互動（例如吸附點）。一旦建立了標籤，則可以在這些區域使用。
+Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,,Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,標籤更改了配件與遊戲系統的互動。若系統擁有標籤設定，則只有符合標籤的配件可以互動。
+Takes effect when playing,,Takes effect when playing,遊玩時生效
+Taking Item Closes Search,,Taking Item Closes Search,拿取物品後關閉搜尋
+Talk to other people via voice.,,Talk to other people via voice.,透過語音與他人交談。
+Tap,,Tap,選單
+Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,,Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,按下＜Tab＞使用指示箭頭來提示某一位置。按住＜TAB＞並拖動游標以使用直線工具。
+Teal,,Teal,深青色
+Team,,Team,小組
+Team Voice Chat,,Team Voice Chat,小組語音聊天
+Templates,,Templates,範本
+Text,,Text,文字
+Text Chat,,Text Chat,文字聊天
+The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,,The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,雲端管理員是您上傳雲端的檔案儲存位置。點擊檔案複製連結。點擊三點圖示查看更多選項。您也可以使用左上方的檔案圖示將檔案匯入雲端。
+The Complexity of the game you are playing (Used to search for games).,,The Complexity of the game you are playing (Used to search for games).,目前遊戲的難度（用於搜尋遊戲）。
+The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,,The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,環境選單是根據物件提供大量不同選項的選單。
+The Direction of the axis around which the body is constrained.,,The Direction of the axis around which the body is constrained.,物體圍繞的參考軸線方向。
+The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,,The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,全域環境選單可以使用鏡頭儲存和蒙眼布。
+"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.",,"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.",物件選單可以生成遊戲中所有不同種類的物件，例如配件、桌子、背景、儲存物件。
+The Position of the anchor around which the joints motion is constrained.,,The Position of the anchor around which the joints motion is constrained.,節點移動圍繞的錨點位置。
+"The back deck image. Upload your image to a web host, then copy paste the direct link here.",,"The back deck image. Upload your image to a web host, then copy paste the direct link here.",卡背圖案。上傳圖片至網頁代管，然後將連結在此處複製貼上。
+"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.",,"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.",背景不僅在遊玩時提供場景襯托，同時也是主要的光線來源。自訂背景可以帶來不同的場景效果，但您只能選擇其中一種內建的光效。
+"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",組合工具可以將物件連結在一起。若要取消連結，請點擊已組合的原始物件，並連結至空白處。組合工具非常適合製作錶盤、車輪、輪盤桌，或者只是簡單地將物件固定在一起。
+The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,,The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,配件選單可以生成基本物件。您可以點擊生成或拖放。
+The damper force used to dampen the spring force.,,The damper force used to dampen the spring force.,設定降低彈力的阻尼力。
+The force that needs to be applied for this joint to break.,,The force that needs to be applied for this joint to break.,斷開節點所需的力。
+"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.",,"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.",正在移動時的摩擦力。一般數值設為 0 與 1 之間。數值為 0 時，像冰一樣；數值為 1 時，沒有大量的力或是重力推動物體，物體會很快靜止。
+"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.",,"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.",靜止不動時的摩擦力。一般數值設為 0 與 1 之間。數值為 0 時，像冰一樣；數值為 1 時，很難使物體運動起來。
+The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,,The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,全域聊天擁有審查標準以維持大家庭和諧有愛。您可以在我們的網站上閱讀完整的規則。
+"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.",,"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.",網格可用於遊戲內規則的放置物件。您可以選用方形或是六邊形，啟用物件吸附，更改尺寸以及網格形狀，同時也可以更改網格位置。
+The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,,The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,網格將投射在桌子表面或任何已開啟網格投射的物件。
+"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).",,"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).",直線工具可用於基本測量，或是點擊它來提示某一區域。您可以按住直線工具快速鍵（預設：TAB 鍵）來在其他模式中啟用此動作。例如在拿取物件時會測量從起點起的長度（僅限自動模式）。
+The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,,The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,物件的質量（任一單位）。您應當避免質量超出或低於其他剛體的 100 倍。
+The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,,The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,物件的組成材料。影響物件的聲音和著色。您可以在下方控制著色器。
+The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,,The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,物件的組成材料。影響物件的聲音。這些聲音可以使用 TTSAssetBundleSound 腳本覆蓋。
+The max number of players in the server.,,The max number of players in the server.,伺服器的玩家人數上限。
+The maximum distance between the bodies relative to their initial distance.,,The maximum distance between the bodies relative to their initial distance.,物體初始距離的相對距離上限。
+The minimum distance between the bodies relative to their initial distance.,,The minimum distance between the bodies relative to their initial distance.,物體初始距離的相對距離下限。
+"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.",,"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.",物理效果最少的模式。靜止物件將停止與其他物件互動。無法投擲、緩慢移動、落下，或是推動。
+The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,,The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,驅動力會將力提高至最大，使物體達到目標速率（度／秒）。
+The name for the server.,,The name for the server.,伺服器的名稱。
+The name of the asset.,,The name of the asset.,配件的名稱。
+The name of the audio asset.,,The name of the audio asset.,音訊配件的名稱。
+The name of the decal.,,The name of the decal.,此印花的名稱。
+The number of pixels the game uses to render. Recommended to be the same as your monitor.,,The number of pixels the game uses to render. Recommended to be the same as your monitor.,遊戲進行渲染的解析度。推薦使用與顯示器相同的解析度。
+The object will stretch to match the aspect ratio of the supplied image.,,The object will stretch to match the aspect ratio of the supplied image.,物件會拉伸以符合圖像的長寬比。
+The password for the server. Only usable for public servers.,,The password for the server. Only usable for public servers.,伺服器的密碼。僅適用於公開伺服器。
+The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the s,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,
+The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,吸附點工具可以建立吸附點和旋轉吸附點，使物件的放置更加容易且平滑。點擊未鎖定的物件會在所在位置放置吸附點。點擊鎖定的物件會在物件上放置吸附點。
+"The quality, filtering, and distance of shadows. Also affects the lighting quality.",,"The quality, filtering, and distance of shadows. Also affects the lighting quality.",陰影的品質、過濾和距離。同樣影響光照品質。
+"The reflective color of the object. RGB 255, 255, 255.",,"The reflective color of the object. RGB 255, 255, 255.","物件的反射色。RGB 最大值分別為：255, 255, 255。"
+The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,,The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,儲存物件選單可以儲存和生成任何自訂物件。您可以點擊生成或拖放。
+The size of the decal in inches.,,The size of the decal in inches.,印花的英吋尺寸。
+The spring force used to keep the two objects together.,,The spring force used to keep the two objects together.,彈力用於連結兩個物體。
+The text tool can be used to write text on any locked object. You can change the size of the font and the color.,,The text tool can be used to write text on any locked object. You can change the size of the font and the color.,文字工具可以在任何鎖定物件上書寫。您可以更改字型的大小和顏色。
+The thickness or depth of the mesh.,,The thickness or depth of the mesh.,網格的粗細或深淺。
+The torque that needs to be applied for this joint to break.,,The torque that needs to be applied for this joint to break.,亂開節點所需的扭力。
+The type of the game you are playing (Used to search for games).,,The type of the game you are playing (Used to search for games).,目前遊戲的類型（用於搜尋遊戲）。
+The zone tool is a collection of tools that deal with rectangle areas.,,The zone tool is a collection of tools that deal with rectangle areas.,區域工具是處理矩形區域的工具集。
+Thematic Games,,Thematic Games,主題遊戲
+Theme,,Theme,主題
+Theme Editor,,Theme Editor,主題編輯器
+Theme:,,Theme:,主題：
+Theme: {0},,Theme: {0},主題：{0}
+"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.",,"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.",官方知識庫中有很多提示、技巧和教學，可以提高您的遊玩和設計體驗。
+There tags are used to filter your games.,,There tags are used to filter your games.,用於篩選遊戲的標籤。
+Theses backgrounds provide the different lighting effects on the objects.,,Theses backgrounds provide the different lighting effects on the objects.,這些背景提供不同的物體光照效果。
+Thick,,Thick,粗
+Thickness,,Thickness,粗細
+Thief,,Thief,盜賊
+Thin,,Thin,細
+This Menu,,This Menu,此選單
+This determines how objects are hidden in hands.,,This determines how objects are hidden in hands.,調整手牌區中隱藏物件的方式。
+"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.",,"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.",這是設定多物件連結的進階選項。您可以建立移動的車輪、轉輪以及更多物品。
+This is an advanced feature which gives you control on the physics and materials of objects.,,This is an advanced feature which gives you control on the physics and materials of objects.,這是設定物件的物理和材料的進階選項。
+This is tags used to search in the Steam Workshop.,,This is tags used to search in the Steam Workshop.,用於 Steam 工作坊搜尋的標籤。
+This is the amount of time the current game takes (Used to search for games).,,This is the amount of time the current game takes (Used to search for games).,目前遊戲的一般所需時間（用於搜尋遊戲）。
+This is the number of players the current game allows (different from the max number of players allowed on the server).,,This is the number of players the current game allows (different from the max number of players allowed on the server).,目前遊戲的玩家上限（不同於伺服器玩家上限）。
+This menu is used to update an existing mod on the Workshop.,,This menu is used to update an existing mod on the Workshop.,此選單用於更新工作坊已有的模組。
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod","This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",此選單用於將目前的內容作為遊戲上傳至 Steam 工作坊。若您想要更新已上傳的模組，請確保選取「更新工作坊」標籤。若未選取，您將生成多版本模組。
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the Update Workshop tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.  <Click to open page to knowledge base.>",此選單用於將目前的內容作為遊戲上傳至 Steam 工作坊。若您想要更新已上傳的模組，請確保選取「更新工作坊」標籤。若未選取，您將生成多版本模組。＜點擊開啟官方知識庫頁面。＞
+This object will hold one object inside with an infinite number of them.,,This object will hold one object inside with an infinite number of them.,此物件可以無限收納任一物件。
+This object will hold others inside.,,This object will hold others inside.,此物件可以收納其他物件。
+This only takes effect if you are using the gradient mode above.,,This only takes effect if you are using the gradient mode above.,僅在漸層光照模式啟用時生效。
+"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.",,"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.",此項在 3 種不同的鏡頭模式中切換：第三人稱（預設）、第一人稱、俯視視角。
+Tile,,Tile,磚塊牌
+Tileset,,Tileset,磚塊道具
+Tilt Angle,,Tilt Angle,傾斜角度
+Tilt Mode,,Tilt Mode,傾斜模式
+Time to move those feet!,,Time to move those feet!,是時候走動一下了！
+Timer,,Timer,計時器
+Timer Seconds,,Timer Seconds,計時器秒數
+Timestamp Game,,Timestamp Game,遊戲時間戳
+Timestamp Global,,Timestamp Global,全域時間戳
+Timestamp System,,Timestamp System,系統時間戳
+Timestamp Team,,Timestamp Team,小組時間戳
+Timestamps,,Timestamps,時間戳
+Title,,Title,標題
+"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.",,"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.",想要選取一個以上的物件時，可以按住＜Ctrl＞並使用＜滑鼠左鍵＞點擊想要選取的物件。或者，您也可以畫出矩形以多選物件。
+"To use double digits, just type them quickly. There is a slight delay before the dice changes.",,"To use double digits, just type them quickly. There is a slight delay before the dice changes.",想要使用十位數，只要快速輸入即可。骰子變化前有一個短暫的延遲。
+Toggle,,Toggle,切換
+Toggle Lua scripting on or off.,,Toggle Lua scripting on or off.,切換 Lua 腳本啟用或停用。
+Toggle between a thin or thick line.,,Toggle between a thin or thick line.,切換線條粗細。
+Toggle between using the ambient light of the selected background or the gradient colors below.,,Toggle between using the ambient light of the selected background or the gradient colors below.,切換使用選取背景的環境光或是下方的漸層光照。
+Toggle between window or fullscreen.,,Toggle between window or fullscreen.,切換視窗化或全螢幕。
+Toggle revealing of Fog of War by this piece.,,Toggle revealing of Fog of War by this piece.,切換附近展示的戰爭迷霧。
+Toggles,,Toggles,切換
+Token,,Token,標記物
+Tool,,Tool,工具
+Tool Icon Colored,,Tool Icon Colored,工具圖示彩色顯示
+Tools,,Tools,工具
+Tooltip,,Tooltip,提示
+Tooltips Action Enabled,,Tooltips Action Enabled,啟用工具提示
+Tooltips Always On,,Tooltips Always On,保持開啟提示
+Tooltips Initial Duration,,Tooltips Initial Duration,首次提示持續時間
+Top Down,,Top Down,俯視視角
+Top Image,,Top Image,頂部圖案
+Top Menu,,Top Menu,頂部選單
+Touch,,Touch,觸控
+Touch (Pad Down) on a controller while hovering over an object (with either controller).,,Touch <Pad Down> on a controller while hovering over an object (with either controller).,游標懸停於物件上時，按下控制器的＜十字鍵下＞（任一控制器）。
+Trading Card Games,,Trading Card Games,交換卡片遊戲
+Transform Space,,Transform Space,坐標相對空間
+Tree,,Tree,樹木
+Tree Ent,,Tree Ent,樹人
+Trigger Effect,,Trigger Effect,觸發效果
+Troll,,Troll,巨魔
+Tunnel,,Tunnel,地下通道
+Turn (Click to skip),,Turn (Click to skip),回合（點擊以跳過）
+Turns,,Turns,回合
+Turns allow an easy way to keep track of who should be playing.,,Turns allow an easy way to keep track of who should be playing.,回合方便追蹤目前是誰的回合。
+Tutorial,,Tutorial,教學
+Tutorial Test Font,,Tutorial Test Font,教學測試字型
+Type,,Type,類型
+Type determines the shape of the cards.,,Type determines the shape of the cards.,輸入調整卡片的形狀。
+Type help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,,Type /help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,在全域和遊戲分頁中輸入「/help」即可顯示各分頁的所有聊天指令。
+Type of server you want to have. This limits who can join.,,Type of server you want to have. This limits who can join.,選擇伺服器的類型，其會限制可以進入的玩家。
+UI Mode,,UI Mode,介面模式
+UI Scale,,UI Scale,介面尺寸
+UI Tooltip Delay,,UI Tooltip Delay,介面提示延遲
+UPDATE,,Update,更新
+UP_THEN_LEFT,,Up / Left,上／左
+UP_THEN_RIGHT,,Up / Right,上／右
+URL,,URL,連結
+Ui Toast Duration,,,介面吐司提示時間
+Ultra,,Ultra,極致
+Under,,Under,置底
+Unique Backs,,Unique Backs,花樣背面
+Units,,Units,單位
+Unknown Title,,Unknown Title,未知標題
+Up,,Up,上
+Update Existing Mod,,Update Existing Mod,更新已有模組
+Update Workshop,,Update Workshop,更新工作坊
+Updated,,Updated,已更新
+Upload,,Upload,上傳
+Upload All Loaded Files,,Upload All Loaded Files,上傳所有已載入檔案
+Upload File,,Upload File,上傳檔案
+Upload Local File,,Upload Local File,上傳本機檔案
+Upload Workshop,,Upload Workshop,上傳工作坊
+"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to for","Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,
+"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",上傳所有目前載入的自訂檔案至 Steam 雲端。非常適合將本機內容轉換為多人可用或是將失效連結的模組備份至 Steam 雲端。自訂檔案必須快取至硬碟才能正常工作，因此請先搜尋任意收納袋（Bags）以強制進行快取。
+Upload all loaded custom files to the Steam Cloud?,,Upload all loaded custom files to the Steam Cloud?,是否要上傳所有載入的自訂檔案至 Steam 雲端呢？
+Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),,Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),上傳檔案至 Steam 雲端或從本機硬碟載入。（提示：多人遊戲中無法載入本機檔案）
+"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material sup","Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.",,
+"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material support, animations, sounds, lights, particles, and much more.",,"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.",上傳 AssetBundle 至網頁代管，然後將連結在此處複製貼上。這是為了解 Unity 引擎的使用者提供的進階選項。您可以在官方知識庫中找到相關連結。AssetBundle 提供全面的著色和材料支援，以及動作、音效、光照、粒子等等。
+"Upload your PDF File to a web host, then copy paste the direct link here.",,"Upload your PDF File to a web host, then copy paste the direct link here.",上傳 PDF 檔案至網頁代管，然後將連結在此處複製貼上。
+"Upload your audio to a web host, then copy paste the direct link here.",,"Upload your audio to a web host, then copy paste the direct link here.",上傳音訊至網頁代管，然後將連結在此處複製貼上。
+"Upload your image to a web host, then copy paste the direct link here.",,"Upload your image to a web host, then copy paste the direct link here.",上傳圖片至網頁代管，然後將連結在此處複製貼上。
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.",上傳圖片至網頁代管，然後將連結在此處複製貼上。支援 JPG 或 PNG 格式。
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)",上傳圖片至網頁代管，然後將連結在此處複製貼上。支援 JPG 或 PNG 格式，尺寸為 256x16。
+"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.",,"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.",上傳圖片至網頁代管，然後將連結在此處複製貼上。建議使用含透明背景的 PNG 格式。
+"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.",,"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.",上傳模型至網頁代管，然後將連結在此處複製貼上。請確保模型已三角化。
+Use (Dpad) to pan the camera around.,,Use <Dpad> to pan the camera around.,用＜十字鍵＞來移動鏡頭。
+Use (Right Trigger) or (Left Trigger) while holding an object.,,Use <Right Trigger> or <Left Trigger> while holding an object.,拿取物件時，使用＜RT＞或＜LT＞。
+Use (WASD) to pan the camera around.,,Use <WASD> to pan the camera around.,用＜WSAD＞來移動鏡頭。
+Use ({0}) on an object to bring it up.,,Use <{0}> on an object to bring it up.,在物件上使用＜{0}＞拿取。
+Use Gravity,,Use Gravity,使用重力
+Use a two finger rotate gesture on an object.,,Use a two finger rotate gesture on an object.,在物件上使用雙手指旋轉手勢。
+Use for main object movement like grabbing and flipping when playing a game.,,Use for main object movement like grabbing and flipping when playing a game.,用於遊戲中的一般物件移動，如拿取和翻面。
+Use high resolution HDRI Panorama. ((4000x2000),,Use high resolution HDRI Panorama. (<4000x2000),使用高解析度的全景高動態範圍成像，解析度小於 4000x2000。
+Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,,Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,使用 CPU 的多核心以更快的載入模組。若無法載入模組，請停用此項。
+Use pinch to zoom in and out.,,Use pinch to zoom in and out.,使用手指進行放大或縮小。
+"Use the Gizmo to manipulate an object's position, rotation, and scale.",,"Use the Gizmo to manipulate an object's position, rotation, and scale.",使用調整工具以更改物件的方向、旋轉角度、尺寸。
+Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,,Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,使用像素畫工具來取得更卡通風和像素風的外觀。按住＜Shift＞劃出線條。
+Use the scroll wheel to zoom in and out.,,Use the scroll wheel to zoom in and out.,使用＜滑鼠滾輪＞進行放大或縮小。
+Use this to supply custom value to dice or tile sides.,,Use this to supply custom value to dice or tile sides.,使用此項為骰子或磚塊牌面設定自訂數值。
+Use to move an object in space. Snap move. Screen space translation.,,Use to move an object in space. Snap move. Screen space translation.,用於空間中移動物件。吸附移動。螢幕空間移動。
+Use to rotate an object. Snap rotate.,,Use to rotate an object. Snap rotate.,用於旋轉物件。吸附旋轉。
+Use to scale an object by stretching its sides. Snap scaling. Scale from center.,,Use to scale an object by stretching its sides. Snap scaling. Scale from center.,用於縮放物件。定量縮放。中心縮放。
+Use to scale an object. Snap scaling. Uniform scale.,,Use to scale an object. Snap scaling. Uniform scale.,用於縮放物件。定量縮放。等比例縮放。
+Use two fingers in a dragging motion.,,Use two fingers in a dragging motion.,拖取運動中使用雙手指。
+Use your (Right Stick).,,Use your <Right Stick>.,使用您的＜RS＞。
+User Interfaces,,User Interfaces,使用者介面
+Utility,,Utility,Utility
+VR Settings,,VR Settings,VR 設定
+VR Settings...,,VR Settings...,VR 設定……
+VSync,,VSync,垂直同步
+Value,,Value,數值
+Vampire,,Vampire,吸血鬼
+Velocity,,Velocity,速度
+Vertical,,Vertical,垂直方向
+Very High,,Very High,極高
+Very Low,,Very Low,極低
+Villains,,Villains,反派
+Virtual Hand View,,Virtual Hand View,虛擬手部視角
+Visibility,,Visibility,可見性
+Visible,,Visible,可見
+Visual Mode,,Visual Mode,視覺效果
+Visualize Field of View.,,Visualize Field of View.,視角的可視範圍。
+Visualize FoV,,Visualize FoV,可視範圍
+Voice Chat,,Voice Chat,語音聊天
+Voice Chat Toggle,,Voice Chat Toggle,切換語音聊天
+Voice From Player Position,,Voice From Player Position,來自玩家位置的聲音
+Voice Input,,Voice Input,輸入音量
+Voice Output,,Voice Output,輸出音量
+Voice Team Chat,,Voice Team Chat,小組語音聊天
+Volume Scale,,Volume Scale,尺寸比例
+WESTWARD,,Westward,向西
+WORKSHOP,,Workshop,工作坊
+Waiting for players,,Waiting for players,等待玩家
+Wall,,Wall,牆壁
+"Want more actions? The contextual menu has all sorts of options. You can deal cards, name objects, color tint, and much more!",,"Want more actions? The contextual menu has all sorts of options.
+You can deal cards, name objects, color tint, and much more!","想要執行更多動作嗎？
+環境選單擁有任何類別的選項。可以發牌，命名物件，調色等等！"
+Wargames,,Wargames,戰爭遊戲
+Warrior,,Warrior,戰士
+We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,,We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,無法找到此工作坊物品，似乎已經被刪除了。是否想要取消訂閱該工作坊物品呢？
+Website URL,,Website URL,網站連結
+Welcome to the tutorial!,,Welcome to the tutorial!,歡迎來到教學！
+Werewolf,,Werewolf,狼人
+When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,,When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,無限制時，展示您的視角。有限制時，展示灰色旁觀者的視角。
+When held object will automatically raise above other potential collisions and ignore collisions when held.,,When held object will automatically raise above other potential collisions and ignore collisions when held.,拿取物件時，自動抬昇高於潛在碰撞，並忽略碰撞。
+When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,,When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,拿取物件時，按住＜Alt＞，使用＜Q＞或＜E＞沿參考軸線旋轉物件。您也可以使用＜滑鼠滾輪＞進行此動作。
+When hovering over an object do you want to hightlight it?,,When hovering over an object do you want to hightlight it?,是否要標示游標所在位置的物體呢？
+"When hovering over tooltips will appear for this object (Name, Description, Icon).",,"When hovering over tooltips will appear for this object (Name, Description, Icon).",是否顯示游標所在位置的物體提示（名稱、簡介、圖示）。
+When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,,When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,2D 中測量水平面上兩點的直線距離。3D 中測量立體空間的直線距離。
+When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,,When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,"測量物件時：
+邊緣：測量最近的邊緣
+中心：測量中心"
+When object is face down it will be hidden as a question mark.,,When object is face down it will be hidden as a question mark.,物件面朝下時，隱藏為問號。
+When object is inside fog of war it will remain visible.,,When object is inside fog of war it will remain visible.,物件位於戰爭迷霧中時，將保持可見。
+"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.",,"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.",物件放下時，可吸附在最近的網格上。物件必須在切換選單中啟用網格才會進行吸附。
+When picked up objects above this one will be attached to it.,,When picked up objects above this one will be attached to it.,拿取時，連結在上面的物件也會一同拿起。
+When rotating objects this is the degrees by which they will spin.,,When rotating objects this is the degrees by which they will spin.,物件每次旋轉的角度。
+Whether to log all players' measurements to the chat window.,,Whether to log all players' measurements to the chat window.,是否在聊天中記錄所有玩家的測量結果。
+Whether to measure in Imperial (inches) or Metric (cm),,Whether to measure in Imperial (inches) or Metric (cm),使用英制（英吋）或公制（公分）進行測量
+"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.",,"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.",拿取一組物件時，按住＜Alt＞並按下滑鼠右鍵，放下最後拿起的物品。此動作也可以放下牌堆最下面的卡片或是分組最下面的物品。
+"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.",,"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.",拿取物件時，按住＜Alt＞並使用＜F＞沿參考軸線翻面。
+"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.",,"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.",游標懸停於卡片或物件上時，按住＜Alt + Shift＞可查看背面。其他玩家會看到物件上出現眼睛的圖示，表明某人正在偷看。
+While holding the deck shake it with your finger.,,While holding the deck shake it with your finger.,拿起牌堆並用手指搖動牌堆。
+While holding the deck shake your hand.,,While holding the deck shake your hand.,拿起牌堆並搖動手部。
+While holding the deck shake your mouse.,,While holding the deck shake your mouse.,拿起牌堆並搖動滑鼠。
+While holding the deck shake your pointer.,,While holding the deck shake your pointer.,拿起牌堆並搖動游標。
+While holding the die shake it with your finger.,,While holding the die shake it with your finger.,拿起骰子並用手指搖動它。
+While holding the die shake your mouse.,,While holding the die shake your mouse.,拿起骰子並搖動滑鼠。
+While holding the die shake your pointer.,,While holding the die shake your pointer.,拿起骰子並搖動游標。
+While in VR,,While in VR,VR 模式時
+White,,White,白色
+White Backgammon,,White Backgammon,白色雙陸棋棋子
+White Bowl,,White Bowl,白棋棋盒
+White Piece,,White Piece,白棋
+Width,,Width,寬度
+"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.",,"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.",使用輕彈工具時，拖取物件並拉動。游標會變為輕彈游標。鬆開可以輕彈物件。很適合撞球、高爾夫球、沙狐球等眾多遊戲。
+Wolf,,Wolf,狼
+Wonderful spinning! Let's pick up more than one object.,,Wonderful spinning! Let's pick up more than one object.,漂亮的旋轉！現在讓我們撿起多個物件吧。
+Wood,,Wood,木製
+Workshop Description:,,Workshop Description:,工作坊簡介：
+Workshop ID:,,Workshop ID:,工作坊 ID：
+Workshop Tags,,Workshop Tags,工作坊標籤
+Workshop Tags:,,Workshop Tags:,工作坊標籤：
+Workshop Thumbnail URL:,,Workshop Thumbnail URL:,工作坊縮圖連結：
+Workshop Title:,,Workshop Title:,工作坊標題：
+Workshop Upload,,Workshop Upload,上傳工作坊
+Workshop is where all the mods you subscribed to from the Steam Workshop is located.,,Workshop is where all the mods you subscribed to from the Steam Workshop is located.,工作坊是您從 Steam 工作坊訂閱模組的儲存路徑。
+WorkshopTitle,,Workshop Title,工作坊標題
+Would you like to play the quick Tutorial?,,Would you like to play the quick Tutorial?,您想要遊玩快速教學嗎？
+Wyvern,,Wyvern,飛龍
+Yellow,,Yellow,黃色
+Yes,,Yes,是
+You are a natural! Now let's roll some dice.,,You are a natural! Now let's roll some dice.,您真是太有天賦啦！現在讓我們擲些骰子吧。
+You can adjust the lighting to give directional sun light and ambient light.,,You can adjust the lighting to give directional sun light and ambient light.,您可以調整光照來提供太陽光照和環境光照。
+You can also grab more than one object by (Left Click) dragging a box selection.,,"You can also grab more than one object by
+<Left Click> dragging a box selection.",您也可以透過＜滑鼠左鍵＞劃出矩形以多選物件。
+You can also grab more than one object by (Right Bumper) dragging a box selection.,,"You can also grab more than one object by
+<Right Bumper> dragging a box selection.",您也可以透過＜RB＞劃出矩形以多選物件。
+You can also hide individual parts of the UI in the Configuration UI menu.,,You can also hide individual parts of the UI in the Configuration/UI menu.,您還可以在設定或介面選單中隱藏單獨介面。
+You can change the permissions for other players. These are global settings that persist between saves.,,You can change the permissions for other players. These are global settings that persist between saves.,您可以更改其他玩家的權限。這些是存檔之間的全域設定。
+You can change the physic mode of the game and update the gravity and room size per game.,,You can change the physic mode of the game and update the gravity and room size per game.,您可以更改每場遊戲的物理模式，更新重力和房間大小。
+You can change the tags of the game used to search in-game and in the Steam Workshop.,,You can change the tags of the game used to search in-game and in the Steam Workshop.,您可以更改用於遊戲內和 Steam 工作坊的搜尋標籤。
+You can grab more than one object by ({0}) dragging a box selection.,,"You can grab more than one object by
+<{0}> dragging a box selection.",您也可以透過＜{0}＞劃出矩形以多選物件。
+You can grab more than one object by Long pressing on multiple objects in a row.,,"You can grab more than one object by
+Long pressing on multiple objects in a row.","您可以依次點擊物件
+來拿取多個物件。"
+"You can update the server name, password and max players in real time.",,"You can update the server name, password and max players in real time.",您可以隨時更新伺服器名稱、密碼以及最大玩家數。
+You can use the (Right Trigger) and (Left Trigger) to zoom in and out.,,You can use the <Right Trigger> and <Left Trigger> to zoom in and out.,您可以使用＜RT＞以及＜LT＞進行放大或縮小。
+You can use the (Scroll Wheel) or (Z) to toggle zoom.,,You can use the <Scroll Wheel> or <Z> to toggle zoom.,可以用＜滑鼠滾輪＞或＜Z＞切換縮放。
+"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .",,"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .",您可以使用＜滑鼠滾輪＞來縮放並旋轉放大的物件。此動作僅適用於物件。若要檢視棋盤、桌子等，請使用「進階」區段中的放大鏡功能。若要查看物件的另一面，請按住＜+＞。
+"You must be in a game to use this. In the GAME tab, type color message to talk to someone privately. For example: blue What should I do?",,"You must be in a game to use this. In the GAME tab, type /color message to talk to someone privately. For example: /blue What should I do?",您必須在遊戲中才能執行此動作。在遊戲標籤中，輸入「/顏色英文 訊息內容」以進行私密聊天。例如：/blue 我該怎麼辦呢？
+"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type msg name message. For example: msg Kimikat Hello!",,"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type /msg name message. For example: /msg Kimikat Hello!",您必須在聊天設定中啟用 IRC。在全域標籤中，您可以與連結全域聊天的玩家私密聊天。使用「/msg 名字 訊息內容」。例如：/msg Kimikat 你好！
+"You still need to go to your workshop page, upload some screenshots, and make the mod public.",,"You still need to go to your workshop page, upload some screenshots, and make the mod public.",您依然需要前往您的工作坊頁面，上傳一些截圖，並將模組設為公開。
+You will need to flip it with (F) so it stacks. Then drop the card on the deck.,,"You will need to flip it with <F> so it stacks.
+Then drop the card on the deck.","您需要使用＜F＞將其翻面。
+然後將卡片疊在牌堆上。"
+You will need to flip it with (Pad Up) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <Pad Up> so it stacks.
+Then drop the card on top of the deck.","您需要使用＜十字鍵上＞將其翻面。
+然後將卡片疊在牌堆頂端。"
+You will need to flip it with (X) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <X> so it stacks.
+Then drop the card on top of the deck.","您需要使用＜X＞將其翻面。
+然後將卡片疊在牌堆頂端。"
+You will need to flip it with double tap so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with double tap so it stacks.
+Then drop the card on top of the deck.","您需要雙擊將其翻面。
+然後將卡片疊在牌堆頂端。"
+Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),,Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),已成功上傳工作坊！儲存這串數字來進行後續更新。（同樣可以在模組的連結中找到）
+Zeke Kodoku,,,傑克寇杜庫
+Zomblor,,,殭布落
+Zone,,Zone,區域
+Zones,,Zones,區域
+Zoom,,Zoom,縮放
+Zoom In,,Zoom In,放大
+Zoom In - Rotate Right,,Zoom In / Rotate Right,放大／向右旋轉
+Zoom Object,,Zoom Object,縮放物件
+Zoom Object (Hold) - Contextual (Click),,Zoom Object (Hold) / Contextual (Click),縮放物件（按住）／環境選單（點擊）
+Zoom Out,,Zoom Out,縮小
+Zoom Out - Rotate Left,,Zoom Out / Rotate Left,縮小／向左旋轉
+Zoom Toggle,,Zoom Toggle,切換縮放
+Zoom in-out,,Zoom in/out,放大／縮小
+Zoom time!,,Zoom time!,縮放時間！
+_Author,,,CHLBC
+_Title,,,桌遊模擬器 繁體中文化
+combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",組合工具可以將物件連結在一起。若要取消連結，請點擊已組合的原始物件，並連結至空白處。組合工具非常適合製作錶盤、車輪、輪盤桌，或者只是簡單地將物件固定在一起。
+decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.",印花工具可以製作卡片貼紙、彈孔，或其他附有透明度效果的圖案。使用＜+＞或＜-＞縮放大小、＜Q＞或＜E＞進行旋轉。
+edgecenterlong,,"When measuring from an object:
+
+Edge: Measure from its nearest edge
+
+Center: Measure from its center","測量物件時：
+
+邊緣：測量最近的邊緣
+
+中心：測量中心"
+fixedjointlong,,"Joint that locks two objects in place without creating a parent child relationship like the Attach tool.
+Right click the jointed object and click Joint to bring up the new menu. ","連結特定位置的兩個鎖定物件，且不建立如附加工具一樣的父子關係。
+右鍵點擊連結的物件，接著點擊節點開啟新選單。"
+gizmoslong,,"Local: Gizmos are in selected object's rotation.
+Global: Gizmos are in global rotation.","區域：使用物件坐標系。
+全域：使用全域坐標系。"
+hingejointlong,,"Joint with door hinge like connection. Can even have motors.
+Right click the jointed object and click Joint to bring up the new menu. ","如門片鉸鍊一樣連結。可以設定驅動。
+右鍵點擊連結的物件，接著點擊節點開啟新選單。"
+linelong,,"The line tool can be used for basic measuring, or click it to ping the area.  
+
+You may hold the line tool key (default: TAB)  to activate this while in other modes.  Doing so while holding an object will measure from the pickup point (Auto mode only).  ","直線工具可用於基本測量，或是點擊它來提示某一區域。
+
+您可以按住直線工具快速鍵（預設：TAB 鍵）來在其他模式中啟用此動作。例如在拿取物件時會測量從起點起的長度（僅限自動模式）。"
+localized_language,Name of current language in that language,Traditional Chinese,繁體中文
+movelong,,"Use to move an object in space.
+<Ctrl> Snap move.
+<Shift> Screen space translation.","用於空間中移動物件。
+按住＜Ctrl＞吸附移動。
+按住＜Shift＞螢幕空間移動。"
+or,,or,或
+restrictunrestrictlong,,"When Unrestricted will show the view you see. 
+
+When Restricted will show the view a Grey spectator would see.","無限制時，展示您的視角。
+
+有限制時，展示灰色旁觀者的視角。"
+rotatelong,,"Use to rotate an object.
+<Ctrl> Snap rotate.","用於旋轉物件。
+使用＜Ctrl＞吸附旋轉。"
+rulerautofree,,"Auto: Measure from objects where appropriate.  When hovering, hold CTRL to use the pointer position instead.
+
+Free: Measure using only your pointer position.","自動：在適當情況下自動測量；懸停時按住＜Ctrl＞以使用游標位置。
+
+自由：僅使用游標位置測量。"
+scalelong,,"Use to scale an object.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","用於縮放物件。
+使用＜Ctrl＞定量縮放。
+使用＜Shift＞中心縮放。"
+springjointlong,,"Joint that works just like it sounds a spring.
+Right click the jointed object and click Joint to bring up the new menu. ","如彈簧一樣連結。
+右鍵點擊連結的物件，接著點擊節點開啟新選單。"
+tagslong,,Tags change how components interact with game systems.  If a system has any tags set then only components which have a matching tag will interact with it.,標籤更改了配件與遊戲系統的互動。若系統擁有標籤設定，則只有符合標籤的配件可以互動。
+typing,,typing,輸入
+volumescalelong,,"Use to scale an object by stretching its sides.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","用於縮放物件。
+使用＜Ctrl＞定量縮放。
+使用＜Shift＞中心縮放。"
+will move your camera up and will move your camera down.,,<Space> will move your camera up and <Ctrl> will move your camera down.,按下＜空白鍵＞會向上移動鏡頭；按下＜Ctrl＞會向下移動鏡頭。
+{0} already exists at this location. Move and overwrite?,,{0} already exists at this location. Move and overwrite?,{0}在此位置已存在。是否要移動並覆蓋呢？
+{0} already exists. Do you want to overwrite this file?,,{0} already exists. Do you want to overwrite this file?,{0}已存在。是否要覆蓋此檔案呢？
+{0} copied to clipboard,,{0} copied to clipboard,「{0}」已複製至剪貼簿
+{0} free,"For example, ""93GB free""",{0} free,剩餘 {0}
