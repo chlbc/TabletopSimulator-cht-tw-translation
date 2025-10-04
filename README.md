@@ -2,7 +2,7 @@
 
 ## 簡介
 
-此為桌遊模擬器的繁體中文（台灣）翻譯模組。
+此為[桌遊模擬器](https://store.steampowered.com/app/286160/Tabletop_Simulator/)的繁體中文（台灣）翻譯模組。
 
 本翻譯以 chinming17 大大的[〈正體中文化 Traditional Chinese）〉](https://steamcommunity.com/sharedfiles/filedetails/?id=2379619881)翻譯模組為基底，
 進一步進行在地化、用詞統一之處理，
@@ -28,7 +28,7 @@
 
 ## Introduction
 
-This is a Traditional Chinese (Taiwan) translation mod for Tabletop Simulator.
+This is a Traditional Chinese (Taiwan) translation mod for [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/).
 
 This translation is based on chinming17’s [“正體中文化 Traditional Chinese”](https://steamcommunity.com/sharedfiles/filedetails/?id=2379619881) translation mod,
 with further localization and terminology standardization,
