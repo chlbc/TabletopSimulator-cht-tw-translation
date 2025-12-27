@@ -1,6 +1,6 @@
 Key,Desc,Default,Chinese (Traditional)
 _Title,繁體中文（台灣）,,
-_Author,CHLBC,,
+_Author,CHLBC、chinming17,,
 (?) or (-) will bring up a menu with all the controls. Open and close this menu to proceed. Optionally you can press (Esc) then click 'Help Menu'.,,"<?> or </> will bring up a menu with all the controls.
 Open and close this menu to proceed.
 Optionally you can press <Esc> then click 'Help Menu'.","＜？＞或＜/＞將彈出選單與所有的控制項。
@@ -1984,7 +1984,7 @@ Zoom Out - Rotate Left,,Zoom Out / Rotate Left,縮小／向左旋轉
 Zoom Toggle,,Zoom Toggle,切換縮放
 Zoom in-out,,Zoom in/out,放大／縮小
 Zoom time!,,Zoom time!,縮放時間！
-_Author,,,CHLBC
+_Author,,,CHLBC、chinming17
 _Title,,,桌遊模擬器 繁體中文化
 combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",組合工具可以將物件連結在一起。若要取消連結，請點擊已組合的原始物件，並連結至空白處。組合工具非常適合製作錶盤、車輪、輪盤桌，或者只是簡單地將物件固定在一起。
 decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.",印花工具可以製作卡片貼紙、彈孔，或其他附有透明度效果的圖案。使用＜+＞或＜-＞縮放大小、＜Q＞或＜E＞進行旋轉。
