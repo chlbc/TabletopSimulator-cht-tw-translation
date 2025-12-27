@@ -633,7 +633,7 @@ FACING_DOWN,,Become Face Down,轉為面朝下
 FACING_KEEP,,Do Not Change,不要更改
 FACING_TIPPED,,Group Is Tipped,整組翻面
 FACING_UP,,Become Face Up,轉為面朝上
-FIFO,,FIFO,FIFO
+FIFO,,FIFO,先進先出法
 FIXED,,Fixed,固定
 Face,,Face,正面
 "Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",卡面圖案必須滿足正確牌堆範本。範本可以在遊戲資料夾中查看。上傳圖片至網頁代管，然後將連結在此處複製貼上。建議使用 4096x4096。
