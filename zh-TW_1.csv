@@ -230,6 +230,7 @@ Browse Your Workshop Mods. If querying Workshop some of your mods might not be l
 Browse mods on the Workshop.,,Browse mods on the Workshop.,在工作坊瀏覽模組。
 Business Coordinator,,Business Coordinator,業務協調人
 CHAT COMMANDS,,Chat Commands,聊天室
+CHOOSE_FOLDER,,Choose folder,選擇資料夾
 CLASSIC,,Classic,經典
 CLEAR,,Clear,清空
 CLOUD,,Cloud,雲端
@@ -485,6 +486,12 @@ D6 Chrome,,D6 Chrome,鉻金屬 6 面骰子
 D6 Green,,D6 Green,綠色 6 面骰子
 D6 Red,,D6 Red,紅色 6 面骰子
 D8 Chrome,,D8 Chrome,鉻金屬 8 面骰子
+DELETE_ALL_DECALS,,Delete all decals.,刪除所有印花。
+DELETE_ALL_TEXT_OBJECTS,,Delete all 3D text objects.,刪除所有 3D 文字物件。
+DELETE_DECALS,,Delete Decals,刪除印花
+DELETE_TEXT_OBJECTS,,Delete 3D Text Objects,刪除 3D 文字物件
+DELETE_YOUR_DECALS,,Delete your decals.,刪除你的印花。
+DELETE_YOUR_TEXT_OBJECTS,,Delete your 3D text objects.,刪除你的 3D 文字物件。
 DEVELOPERS,,Developers,開發者
 DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,,DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,DLC（可下載內容）是我們從廣大的發行商及開發者手中獲得授權的官方遊戲。
 DOWN_THEN_LEFT,,Down / Left,向下／向左
@@ -593,6 +600,8 @@ DynamicAmaranthFixedNumerals,,DynamicAmaranthFixedNumerals,DynamicAmaranthFixedN
 DynamicInconsolata,,DynamicInconsolata,DynamicInconsolata
 EASTWARD,,Eastward,向東
 END TURN,,End Turn,結束回合
+ERASE_DRAWN_LINES,,Erase Drawn Lines,清除繪製線條
+ERASE_YOUR_DRAWN_LINES,,Erase your drawn lines.,清除你繪製的線條。
 Edge,,Edge,邊緣
 Edit,,Edit,編輯
 Edit Note,,Edit Note,編輯筆記
@@ -633,8 +642,10 @@ FACING_DOWN,,Become Face Down,轉為面朝下
 FACING_KEEP,,Do Not Change,不要更改
 FACING_TIPPED,,Group Is Tipped,整組翻面
 FACING_UP,,Become Face Up,轉為面朝上
+FAILED_TO_WRITE_FILE,,Failed to write file,寫入檔案失敗
 FIFO,,FIFO,先進先出法
 FIXED,,Fixed,固定
+FONT,,Font,字型
 Face,,Face,正面
 "Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",卡面圖案必須滿足正確牌堆範本。範本可以在遊戲資料夾中查看。上傳圖片至網頁代管，然後將連結在此處複製貼上。建議使用 4096x4096。
 Face-Down,,Face-Down,面朝下
@@ -687,6 +698,7 @@ GENERAL,,General,一般
 GM (Black) players' pointer will be hidden in area.,,GM (Black) players' pointer will be hidden in area.,遊戲主持者（黑色）的游標會在區域內隱藏。
 GM Notes (only visible to Black),,GM Notes (only visible to Black),遊戲主持者（僅對黑色可見）
 GRAPHICS,,Graphics,圖像
+GROUP_CHAT,,Group Chat,群組聊天
 Game,,Game,遊戲
 Game Data,,Game Data,遊戲目錄
 Game Keys,,Game Keys,遊戲鍵位
@@ -1004,6 +1016,10 @@ Lower-Multi-Grab,,Lower/Multi-Grab,放下／多次拿取
 Lua scripts automatically execute on load.,,Lua scripts automatically execute on load.,載入時自動執行 Lua 腳本。
 Lut Name,,Lut Name,LUT 名稱
 MANIPULATED_THE_DECK,,manipulated the deck,控牌
+MINIMAL_COLLIDER,,Minimal Collider,最小碰撞體
+MINIMAL_COLLIDER_DESCRIPTION,,If enabled then the figurine will only collide at its center.,若啟用該選項，模型將僅在其中心點發生碰撞。
+MIRROR,,Mirror,鏡像
+MIRROR_FIGURINE_BACK,,MIrror the back of the figurine. Leaving the back texture url empty will use the front texture.,鏡像模型背面。若背面材質網址留空，將使用正面材質。
 MODEL,,MODEL,模型
 MODIFIERS,,Modifiers,調整
 MORE,,More,更多
@@ -1304,6 +1320,7 @@ Quick way to change graphical settings without having to tweak individual option
 Quickly drag away from the deck.,,Quickly drag away from the deck.,快速從牌堆中拖取。
 Quit playing.,,Quit playing.,停止遊玩。
 REMOVE BLINDFOLD,,Remove Blindfold,移除蒙眼布
+RESET_SCALE,,Reset Scale,重設縮放
 RIGHT_THEN_DOWN,,Right / Down,向右／向下
 RIGHT_THEN_UP,,Right / Up,向右／向上
 RIGIDBODY,,Rigidbody,剛體
@@ -1437,6 +1454,7 @@ SOUND,,Sound,音效
 SOUTHWARD,,Southward,向南
 SPOTLIGHT,,Spotlight,焦點資訊
 SSAO,,SSAO,SSAO
+STAR_FOLDER,,Star Folder,收藏資料夾
 SUBMIT,,Submit,提交
 Sandbox,,Sandbox,積木沙盒
 Saturation,,Saturation,飽和度
@@ -1491,6 +1509,8 @@ Set Camera 0,,Set Camera 0,設定鏡頭 0
 Set UI Visibility,,Set UI Visibility,設定介面可見性
 Sets the Radius,,Sets the Radius,設定範圍
 Shadow Quality,,Shadow Quality,陰影品質
+Shadow Technique,,Shadow Technique,陰影技術
+Shadow rendering technique. PCF is the Unity default. PCSS is a more computationally expensive technique that produces more realistic shadows.,,Shadow rendering technique. PCF is the Unity default. PCSS is a more computationally expensive technique that produces more realistic shadows.,陰影渲染技術。PCF 為 Unity 的預設值。PCSS 為運算較密集的技術，可產生更逼真的陰影。
 Shadows,,Shadows,陰影
 Sharpen,,Sharpen,銳化度
 Shift,,Shift,Shift
@@ -1615,6 +1635,7 @@ System,,System,系統
 System Console,,System Console,系統控制台
 TABLES,,Tables,桌子
 TEAMS,,Teams,小組
+TEXT_ALIGNMENT,,Text Alignment,文字對齊
 TIPS & HINTS,,Tips & Hints,提示與技巧
 TRANSFORM,,Transform,坐標調整工具
 TTS-PaperUI-Atlas,,TTS-PaperUI-Atlas,TTS-PaperUI-Atlas
@@ -1773,9 +1794,12 @@ UI Mode,,UI Mode,介面模式
 UI Scale,,UI Scale,介面尺寸
 UI Tooltip Delay,,UI Tooltip Delay,介面提示延遲
 UPDATE,,Update,更新
+UPLOAD_MUSIC,,Upload Music,上傳音樂
+UPLOAD_MUSIC_FOLDER,,Upload Music Folder,上傳音樂資料夾
 UP_THEN_LEFT,,Up / Left,上／左
 UP_THEN_RIGHT,,Up / Right,上／右
 URL,,URL,連結
+USE_GIZMO_FOR_GRID,,Use Gizmo Tool to align grid: select a component to center grid on it.  ctrl-click a second component to align grid size.,使用 Gizmo 工具對齊網格：選取一個元件以將網格於其上置中。按住＜Ctrl＞並點選第二個元件以對齊網格大小。
 Ui Toast Duration,,,介面吐司提示時間
 Ultra,,Ultra,極致
 Under,,Under,置底
