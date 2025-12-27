@@ -117,13 +117,13 @@ Animals,,Animals,動物
 Animations,,Animations,動畫
 Anisotropic Filtering,,Anisotropic Filtering,各向異性過濾
 Anyone can join with an optional password.,,Anyone can join with an optional password.,任何人都可以使用密碼加入。
-Are you looking for players to join you?,,Are you looking for players to join you?,是否要搜尋玩家加入您的房間呢？
-Are you sure you want to additively load {0}?,,Are you sure you want to additively load {0}?,是否要額外載入「{0}」呢？
-Are you sure you want to clear the table?,,Are you sure you want to clear the table?,是否要清空桌面呢？
-Are you sure you want to delete script {0}?,,Are you sure you want to delete script {0}?,是否要刪除腳本「{0}」呢？
-Are you sure you want to delete {0}?,,Are you sure you want to delete {0}?,是否要刪除「{0}」呢？
-Are you sure you want to exit to the Main Menu?,,Are you sure you want to exit to the Main Menu?,是否要回到主選單呢？
-Are you sure you want to load {0}?,,Are you sure you want to load {0}?,是否要載入「{0}」呢？
+Are you looking for players to join you?,,Are you looking for players to join you?,要尋找玩家加入你的房間嗎？
+Are you sure you want to additively load {0}?,,Are you sure you want to additively load {0}?,確定要額外載入「{0}」嗎？
+Are you sure you want to clear the table?,,Are you sure you want to clear the table?,確定要清空桌面嗎？
+Are you sure you want to delete script {0}?,,Are you sure you want to delete script {0}?,確定要刪除「{0}」腳本嗎？
+Are you sure you want to delete {0}?,,Are you sure you want to delete {0}?,確定要刪除「{0}」嗎？
+Are you sure you want to exit to the Main Menu?,,Are you sure you want to exit to the Main Menu?,確定要返回主選單嗎？
+Are you sure you want to load {0}?,,Are you sure you want to load {0}?,確定要載入「{0}」嗎？
 Arms,Weapons,Arms,武器
 Arms Coin 2,Weapons Coin 2,Arms Coin 2,武器硬幣 2
 Arms Coin 3,Weapons Coin 3,Arms Coin 3,武器硬幣 3
@@ -2051,3 +2051,4 @@ will move your camera up and will move your camera down.,,<Space> will move your
 {0} already exists. Do you want to overwrite this file?,,{0} already exists. Do you want to overwrite this file?,{0}已存在。是否要覆蓋此檔案呢？
 {0} copied to clipboard,,{0} copied to clipboard,「{0}」已複製至剪貼簿
 {0} free,"For example, ""93GB free""",{0} free,剩餘 {0}
+Are you sure you want to Quit Tabletop Simulator?,,Are you sure you want to Quit Tabletop Simulator?,確定要退出桌遊模擬器嗎？
