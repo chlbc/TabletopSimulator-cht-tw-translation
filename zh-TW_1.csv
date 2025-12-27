@@ -1023,7 +1023,7 @@ MIRROR_FIGURINE_BACK,,MIrror the back of the figurine. Leaving the back texture 
 MODEL,,MODEL,模型
 MODIFIERS,,Modifiers,調整
 MORE,,More,更多
-MSAA,,MSAA,MSAA
+MSAA,,MSAA,多重採樣反鋸齒（MSAA）
 Mage,,Mage,法師
 Magnify,,Magnify,放大鏡
 Mahjong,,Mahjong,麻將
@@ -1453,7 +1453,7 @@ SORT_NONE,,None,無
 SOUND,,Sound,音效
 SOUTHWARD,,Southward,向南
 SPOTLIGHT,,Spotlight,焦點資訊
-SSAO,,SSAO,SSAO
+SSAO,,SSAO,螢幕空間環境光遮蔽（SSAO）
 STAR_FOLDER,,Star Folder,收藏資料夾
 SUBMIT,,Submit,提交
 Sandbox,,Sandbox,積木沙盒
