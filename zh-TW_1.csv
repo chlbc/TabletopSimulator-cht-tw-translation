@@ -1,9 +1,9 @@
 Key,Desc,Default,Chinese (Traditional)
 _Title,繁體中文（台灣）,,
-_Author,CHLBC、chinming17,,
+_Author,"CHLBC, original by chinming17",,
 (?) or (-) will bring up a menu with all the controls. Open and close this menu to proceed. Optionally you can press (Esc) then click 'Help Menu'.,,"<?> or </> will bring up a menu with all the controls.
 Open and close this menu to proceed.
-Optionally you can press <Esc> then click 'Help Menu'.","＜？＞或＜/＞將彈出選單與所有的控制項。
+Optionally you can press <Esc> then click 'Help Menu'.","＜?＞或＜/＞將彈出選單與所有的控制項。
 開啟和關閉該選單進行。
 您也可以選擇按＜Esc＞然後單擊「幫助選單」。"
 (A) on an object to bring it up.,,<A> on an object to bring it up.,在物件上按下＜A＞拿取。
@@ -15,7 +15,7 @@ Open and close the menu by hitting <Back> Twice.","＜Back＞將開啟可操控�
 (Left Click) and hold your mouse on the deck.,,<Left Click> and hold your mouse on the deck.,點擊＜滑鼠左鍵＞並長按牌堆。
 (Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,點擊＜滑鼠左鍵＞並快速從牌堆中拖取。
 (Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,（可選）額外的 AssetBundle 可用於多物件間的同享效果並避免重複的記憶體使用。非常適合音效及粒子效果。
-(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,（可選）背景圖可以留為空白。
+(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,（可選）背景圖可以留空。
 (Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulate,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,,
 (Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,（可選）自訂模型將預設生成一個盒型碰撞體。只會因效能消耗而需要多於一個精確碰撞體時啟用。支援小於 255 三角面多網格的組合碰撞體（僅限凸狀）。
 (Optional) Game Types:,,(Optional) Game Types:,（可選）遊戲類型：
@@ -1984,7 +1984,7 @@ Zoom Out - Rotate Left,,Zoom Out / Rotate Left,縮小／向左旋轉
 Zoom Toggle,,Zoom Toggle,切換縮放
 Zoom in-out,,Zoom in/out,放大／縮小
 Zoom time!,,Zoom time!,縮放時間！
-_Author,,,CHLBC、chinming17
+_Author,,,"CHLBC, original by chinming17"
 _Title,,,桌遊模擬器 繁體中文化
 combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",組合工具可以將物件連結在一起。若要取消連結，請點擊已組合的原始物件，並連結至空白處。組合工具非常適合製作錶盤、車輪、輪盤桌，或者只是簡單地將物件固定在一起。
 decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.",印花工具可以製作卡片貼紙、彈孔，或其他附有透明度效果的圖案。使用＜+＞或＜-＞縮放大小、＜Q＞或＜E＞進行旋轉。
