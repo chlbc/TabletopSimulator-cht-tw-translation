@@ -1,0 +1,2025 @@
+Key,Desc,Default,English
+_Title,Custom 3,,
+_Author,CHLBC,,
+(?) or (-) will bring up a menu with all the controls. Open and close this menu to proceed. Optionally you can press (Esc) then click 'Help Menu'.,,"<?> or </> will bring up a menu with all the controls.
+Open and close this menu to proceed.
+Optionally you can press <Esc> then click 'Help Menu'.","<?> or </> will bring up a menu with all the controls.
+Open and close this menu to proceed.
+Optionally you can press <Esc> then click 'Help Menu'."
+(A) on an object to bring it up.,,<A> on an object to bring it up.,<A> on an object to bring it up.
+(Back) will bring up a menu with all the controls. Open and close the menu by hitting (Back) Twice.,,"<Back> will bring up a menu with all the controls.
+Open and close the menu by hitting <Back> Twice.","<Back> will bring up a menu with all the controls.
+Open and close the menu by hitting <Back> Twice."
+(Click) Reset,,(Click) Reset,(Click) Reset
+(Click) Zoom,,(Click) Zoom,(Click) Zoom
+(Left Click) and hold your mouse on the deck.,,<Left Click> and hold your mouse on the deck.,<Left Click> and hold your mouse on the deck.
+(Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,<Left Click> and quickly drag away from the deck.
+(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.
+(Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,(Optional) Back image can be left blank.
+(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.
+(Optional) Game Types:,,(Optional) Game Types:,(Optional) Game Types:
+(Optional) Number of Players:,,(Optional) Number of Players:,(Optional) Number of Players:
+"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.","(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off."
+"(Optional) Upload the diffuse-image texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here.","(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here."
+"(Optional) Upload the normal-bump texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here.","(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here."
+"(Optional) Upload your image to a web host, then copy paste the direct link here.",,"(Optional) Upload your image to a web host, then copy paste the direct link here.","(Optional) Upload your image to a web host, then copy paste the direct link here."
+(Optional) Workshop Thumbnail URL:,,(Optional) Workshop Thumbnail Url:,(Optional) Workshop Thumbnail Url:
+(Right Bumper) and hold your pointer on the deck.,,<Right Bumper> and hold your pointer on the deck.,<Right Bumper> and hold your pointer on the deck.
+(Right Bumper) and quickly drag away from the deck.,,<Right Bumper> and quickly drag away from the deck.,<Right Bumper> and quickly drag away from the deck.
+(Right Click) on an object to bring it up.,,<Right Click> on an object to bring it up.,<Right Click> on an object to bring it up.
+(Root Folder),,<Root Folder>,<Root Folder>
+({0}) and hold your hand on the deck.,,<{0}> and hold your hand on the deck.,<{0}> and hold your hand on the deck.
+({0}) and quickly drag away from the deck.,,<{0}> and quickly drag away from the deck.,<{0}> and quickly drag away from the deck.
+10 digit number found in the URL of your mod on the Workshop,,10 digit number found in the URL of your mod on the Workshop,10 digit number found in the URL of your mod on the Workshop
+1ST PERSON CAMERA,,1St Person Camera,1St Person Camera
+1st Person,,1st Person,1st Person
+2D,,2D,2D
+"2D Art, UI, DLCs & PR",,"2D art, UI, DLCs","2D art, UI, DLCs"
+2D Pointer,,2D Pointer,2D Pointer
+2D or 3D,,2D or 3D,2D or 3D
+2d3dlong,,"When in 2D measurements will be flattened onto the horizontal plane.  
+
+When in 3D height will be incorporated into the measurement.","When in 2D measurements will be flattened onto the horizontal plane.  
+
+When in 3D height will be incorporated into the measurement."
+3D,,3D,3D
+3D Pointer,,3D Pointer,3D Pointer
+3D Prop Art,,3D Prop Art,3D Prop Art
+3RD-TOP DOWN CAMERA,,3RD/Top Down Camera,3RD/Top Down Camera
+3rd Person,,3rd Person,3rd Person
+ADD AUDIO,,ADD AUDIO,ADD AUDIO
+ADVANCED,,Advanced,Advanced
+ALL SERVERS,,All Servers,All Servers
+ALL TAGS,,All Tags,All Tags
+ALT Zoom and Hidden Areas do not work on it.,,ALT Zoom and Hidden Areas do not work on it.,ALT Zoom and Hidden Areas do not work on it.
+APPLY,,Apply,Apply
+Abstract Games,,Abstract Games,Abstract Games
+Action,,Action,Action
+Active Tags Displayed Here!,,Active Tags Displayed Here!,Active Tags Displayed Here!
+Add Custom Tag:,,Add Custom Tag:,Add Custom Tag:
+Add New,,Add New,Add New
+Add Tag:,,Add Tag:,Add Tag:
+Add a tag to the selected components.,,Add a tag to the selected components.,Add a tag to the selected components.
+Additive Load,,Additive Load,Additive Load
+Adds soft shadows to the scene for a greater sense of depth. Costly performance.,,Adds soft shadows to the scene for a greater sense of depth. Costly performance.,Adds soft shadows to the scene for a greater sense of depth. Costly performance.
+Admin,,Admin,Admin
+Advanced Mode,,Advanced Mode,Advanced Mode
+Advanced Options,,Advanced Options,Advanced Options
+Align Zoomed Object,,Align Zoomed Object,Align Zoomed Object
+All,,All,All
+All Commands,,All Commands,All Commands
+All actions will be executed on all highlighted objects.,,All actions will be executed on all highlighted objects.,All actions will be executed on all highlighted objects.
+Allow Swapping,,Allow Swapping,Allow Swapping
+Allows player to be able to change their color-seat.,,Allows player to be able to change their color/seat.,Allows player to be able to change their color/seat.
+Allows players to be able to create or destroy hidden areas or randomize zones.,,Allows players to be able to create or destroy hidden areas or randomize zones.,Allows players to be able to create or destroy hidden areas or randomize zones.
+Allows players to be able to draw with the paint tool on the table.,,Allows players to be able to draw with the paint tool on the table.,Allows players to be able to draw with the paint tool on the table.
+Allows players to be able to draw.,,Allows players to be able to draw.,Allows players to be able to draw.
+"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).",,"Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc).","Allows players to be able to interact with digital objects (Mp3 player, Counter, Clock etc)."
+"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).",,"Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc).","Allows players to be able to interact with digital objects (Tablet, Mp3 player, Counter, etc)."
+Allows players to be able to interact with the music player.,,Allows players to be able to interact with the music player.,Allows players to be able to interact with the music player.
+Allows players to be able to interact with the tablets.,,Allows players to be able to interact with the tablets.,Allows players to be able to interact with the tablets.
+Allows players to be able to nudge objects.,,Allows players to be able to nudge objects.,Allows players to be able to nudge objects.
+Allows players to be able to peek under objects.,,Allows players to be able to peek under objects.,Allows players to be able to peek under objects.
+Allows players to be able to save objects.,,Allows players to be able to save objects.,Allows players to be able to save objects.
+Allows players to be able to use the decal tool.,,Allows players to be able to use the decal tool.,Allows players to be able to use the decal tool.
+Allows players to be able to use the line tool. This includes the to ping location.,,Allows players to be able to use the line tool. This includes the to ping location.,Allows players to be able to use the line tool. This includes the to ping location.
+Allows players to combine objects together with the combine tool.,,Allows players to combine objects together with the combine tool.,Allows players to combine objects together with the combine tool.
+Allows players to create or destroy joints.,,Allows players to create or destroy joints.,Allows players to create or destroy joints.
+Allows players to edit the notebook or text on screen.,,Allows players to edit the notebook or text on screen.,Allows players to edit the notebook or text on screen.
+Allows players to flick objects.,,Allows players to flick objects.,Allows players to flick objects.
+Allows players to flip the table.,,Allows players to flip the table.,Allows players to flip the table.
+Allows players to increase or decrease the size of objects.,,Allows players to increase or decrease the size of objects.,Allows players to increase or decrease the size of objects.
+Allows players to join or leave teams.,,Allows players to join or leave teams.,Allows players to join or leave teams.
+Allows players to lock and unlock objects in place.,,Allows players to lock and unlock objects in place.,Allows players to lock and unlock objects in place.
+"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)",,"Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)","Allows players to perform actions in the right click menu (Name, Deal, Search, etc.)"
+Alpha,,Alpha,Alpha
+Alt,,Alt,Alt
+Alt-Zoom Always On,,Alt-Zoom Always On,Alt-Zoom Always On
+Alt-Zoom Follows Pointer,,Alt-Zoom Follows Pointer,Alt-Zoom Follows Pointer
+Alternate Direction,,Alternate Direction,Alternate Direction
+"Alternatively, you can also hold an object & press your middle mouse button.",,"Alternatively, you can also hold an object & press your middle mouse button.","Alternatively, you can also hold an object & press your middle mouse button."
+"Alternatively, you can also hold an object & use the scroll wheel on your mouse.",,"Alternatively, you can also hold an object & use the scroll wheel on your mouse.","Alternatively, you can also hold an object & use the scroll wheel on your mouse."
+"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.",,"Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects.","Alternatively, you can also hold an object, press + and use the scroll wheel on your mouse to scale objects."
+"Alternatively, you can press the chat icon on the bottom left to text chat.",,"Alternatively, you can press the chat icon on the bottom left to text chat.","Alternatively, you can press the chat icon on the bottom left to text chat."
+Always On,,Always On,Always On
+"Always display the on-screen keyboard,",,"Always display the on-screen keyboard,","Always display the on-screen keyboard,"
+Amaranth,,Amaranth,Amaranth
+Ambient,,Ambient,Ambient
+Ambient Intensity,,Ambient Intensity,Ambient Intensity
+An advanced feature for scripting. Can be used to return all objects in this zone.,,An advanced feature for scripting. Can be used to return all objects in this zone.,An advanced feature for scripting. Can be used to return all objects in this zone.
+Anchor,,Anchor,Anchor
+Anchored,,Anchored,Anchored
+And all our Kickstarter Supporters! Thank you very much!,,And all our Kickstarter Supporters! Thank you very much!,And all our Kickstarter Supporters! Thank you very much!
+Angular Drag,,Angular Drag,Angular Drag
+Animals,,Animals,Animals
+Animations,,Animations,Animations
+Anisotropic Filtering,,Anisotropic Filtering,Anisotropic Filtering
+Anyone can join with an optional password.,,Anyone can join with an optional password.,Anyone can join with an optional password.
+Are you looking for players to join you?,,Are you looking for players to join you?,Are you looking for players to join you?
+Are you sure you want to additively load {0}?,,Are you sure you want to additively load {0}?,Are you sure you want to additively load {0}?
+Are you sure you want to clear the table?,,Are you sure you want to clear the table?,Are you sure you want to clear the table?
+Are you sure you want to delete script {0}?,,Are you sure you want to delete script {0}?,Are you sure you want to delete script {0}?
+Are you sure you want to delete {0}?,,Are you sure you want to delete {0}?,Are you sure you want to delete {0}?
+Are you sure you want to exit to the Main Menu?,,Are you sure you want to exit to the Main Menu?,Are you sure you want to exit to the Main Menu?
+Are you sure you want to load {0}?,,Are you sure you want to load {0}?,Are you sure you want to load {0}?
+Arms,Weapons,Arms,Arms
+Arms Coin 2,Weapons Coin 2,Arms Coin 2,Arms Coin 2
+Arms Coin 3,Weapons Coin 3,Arms Coin 3,Arms Coin 3
+Arms Coin 4,Weapons Coin 4,Arms Coin 4,Arms Coin 4
+Arms Coin 5,Weapons Coin 5,Arms Coin 5,Arms Coin 5
+Arms Coin Ace,Weapons Coin Ace,Arms Coin Ace,Arms Coin Ace
+Arms Coin Blank,Weapons Coin Blank,Arms Coin Blank,Arms Coin Blank
+Arms Dice,Weapons Dice,Arms Dice,Arms Dice
+Arms Square 2,Weapons Square 2,Arms Square 2,Arms Square 2
+Arms Square 3,Weapons Square 3,Arms Square 3,Arms Square 3
+Arms Square 4,Weapons Square 4,Arms Square 4,Arms Square 4
+Arms Square 5,Weapons Square 5,Arms Square 5,Arms Square 5
+Arms Square Ace,Weapons Square Ace,Arms Square Ace,Arms Square Ace
+Arms Square Blank,Weapons Square Blank,Arms Square Blank,Arms Square Blank
+Arrow-Line Tool,,Arrow/Line Tool,Arrow/Line Tool
+Arrows next to the top menu rewind-forward time (host only).,,Arrows next to the top menu rewind/forward time (host only).,Arrows next to the top menu rewind/forward time (host only).
+Asset name,,Asset name,Asset name
+AssetBundle,,AssetBundle,AssetBundle
+Assets,,Assets,Assets
+Attach,,Attach,Attach
+Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,,Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.,Attach the object to the other one in a parent child relationship. The object being attached is no longer it's own entity and only exists visually.
+Attached UI Screen,,Attached UI Screen,Attached UI Screen
+Attack,,Attack,Attack
+Audio,,Audio,Audio
+Audio name,,Audio name,Audio name
+Auto,,Auto,Auto
+Auto Hide Chat,,Auto Hide Chat,Auto Hide Chat
+Auto Run,,Auto Run,Auto Run
+Auto Scale,,Auto Scale,Auto Scale
+Auto connect to IRC on startup.,,Auto connect to IRC on startup.,Auto connect to IRC on startup.
+Auto raise,,Auto raise,Auto raise
+Auto scale will automatically size the UI to match the resolution ignoring the slider.,,Auto scale will automatically size the UI to match the resolution ignoring the slider.,Auto scale will automatically size the UI to match the resolution ignoring the slider.
+"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.",,"Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position.","Auto: Measure from objects where appropriate. When hovering, hold CTRL to use the pointer position instead. Free: Measure using only your pointer position."
+Autofocus Search Input,,Autofocus Search Input,Autofocus Search Input
+Automatic,,Automatic,Automatic
+Automatically arranges objects (predominantly cards),,Automatically arranges objects (predominantly cards),Automatically arranges objects (predominantly cards)
+Autoraise,,Autoraise,Autoraise
+Autosave Interval,,Autosave Interval,Autosave Interval
+Autosave Log,,Autosave Log,Autosave Log
+Available space on Steam Cloud. ~100 GB available total.,,Available space on Steam Cloud. ~100 GB available total.,Available space on Steam Cloud. ~100 GB available total.
+Axis,,Axis,Axis
+BACKGROUNDS,,Backgrounds,Backgrounds
+BLOCK,,Block,Block
+BLOCKED,,Blocked,Blocked
+Back,,Back,Back
+Back Image,,Back Image,Back Image
+Back is Hidden,,Back is Hidden,Back is Hidden
+Backgammon,,Backgammon,Backgammon
+Background,,Background,Background
+Backspace,,Backspace,Backspace
+Bad Connection,,Bad Connection,Bad Connection
+Bag,,Bag,Bag
+Barghest,,Barghest,Barghest
+Barrel,,Barrel,Barrel
+Basilisk,,Basilisk,Basilisk
+Battle For Souls,,Battle For Souls,Battle For Souls
+Bear,,Bear,Bear
+Bind,,Bind,Bind
+Bishop,,Bishop,Bishop
+Bishop Cast Iron,,Bishop Cast Iron,Bishop Cast Iron
+Bishop Chrome,,Bishop Chrome,Bishop Chrome
+Bishop Dark,,Bishop Dark,Bishop Dark
+Bishop Light,,Bishop Light,Bishop Light
+Bishop Supporters,,Bishop Supporters,Bishop Supporters
+Black,,Black,Black
+Black (Game Master - see all hidden information),,Black (Game Master - see all hidden information),Black (Game Master - see all hidden information)
+Black (Game Master),,Black (Game Master),Black (Game Master)
+Black Bowl,,Black Bowl,Black Bowl
+Black Dragon,,Black Dragon,Black Dragon
+Black Piece,,Black Piece,Black Piece
+Blindfold,,Blindfold,Blindfold
+Blindfolded (Can't see),,Blindfolded (Can't see),Blindfolded (Can't see)
+Block ?,,Block <Player>?,Block <Player>?
+Block {0}?,,Block {0}?,Block {0}?
+Blocks,,Blocks,Blocks
+Blue,,Blue,Blue
+Blue 10,,Blue 10,Blue 10
+Blue Rectangle,,Blue Rectangle,Blue Rectangle
+Board,,Board,Board
+Board Games,,Board Games,Board Games
+Boardgame,,Boardgame,Boardgame
+Boards,,Boards,Boards
+Book Buttons On Hover,,Book Buttons On Hover,Book Buttons On Hover
+Book Page Opacity,,Book Page Opacity,Book Page Opacity
+Book UI Opacity,,Book UI Opacity,Book UI Opacity
+Both,,Both,Both
+Bottom Image,,Bottom Image,Bottom Image
+Bounciness,,Bounciness,Bounciness
+Bowl,,Bowl,Bowl
+Box,,Box,Box
+Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,,Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.,Box select multiple objects and press the key to group them together. This only works for stackable objects and cards. This can also be done in the Contextual Menu.
+Break Force,,Break Force,Break Force
+Break Torque,,Break Torque,Break Torque
+Brightness,,Brightness,Brightness
+Broken Confirmation Dialog!,,Broken Confirmation Dialog!,Broken Confirmation Dialog!
+Brown,,Brown,Brown
+Brown Backgammon,,Brown Backgammon,Brown Backgammon
+Browse,,Browse,Browse
+Browse Local Files,,Browse Local Files,Browse Local Files
+Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,,Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.,Browse Your Workshop Mods. If querying Workshop some of your mods might not be listed. You must also be subscribed to your mod to show up here.
+Browse mods on the Workshop.,,Browse mods on the Workshop.,Browse mods on the Workshop.
+Business Coordinator,,Business Coordinator,Business Coordinator
+CHAT COMMANDS,,Chat Commands,Chat Commands
+CHOOSE_FOLDER,,Choose folder,Choose folder
+CLASSIC,,Classic,Classic
+CLEAR,,Clear,Clear
+CLOUD,,Cloud,Cloud
+CM,,CM,CM
+COMPONENTS,,Components,Components
+CONTEXTUAL MENU,,Contextual Menu,Contextual Menu
+CONTROLLERS,,Controllers,Controllers
+CONTROLS,,Controls,Controls
+CREATE,,Create,Create
+CREATE ASSET,,Create Asset,Create Asset
+CREATE DECAL,,Create Decal,Create Decal
+CUSTOM ASSETBUNDLE,,Custom Assetbundle,Custom Assetbundle
+CUSTOM BACKGROUND,,Custom Background,Custom Background
+CUSTOM BOARD,,Custom Board,Custom Board
+CUSTOM CARD,,Custom Card,Custom Card
+CUSTOM DECK,,Custom Deck,Custom Deck
+CUSTOM DICE,,Custom Dice,Custom Dice
+CUSTOM FIGURINE,,Custom Figurine,Custom Figurine
+CUSTOM IMAGE,,Custom Image,Custom Image
+CUSTOM JIGSAW,,Custom Jigsaw,Custom Jigsaw
+CUSTOM MODEL,,Custom Model,Custom Model
+CUSTOM OBJECT,,Custom Object,Custom Object
+CUSTOM PDF,,Custom PDF,Custom PDF
+CUSTOM TABLE,,Custom Table,Custom Table
+CUSTOM TABLE SQUARE,,Custom Table Square,Custom Table Square
+CUSTOM TILE,,Custom Tile,Custom Tile
+CUSTOM TOKEN,,Custom Token,Custom Token
+Calculator,,Calculator,Calculator
+Camera,,Camera,Camera
+Camera Down,,Camera Down,Camera Down
+Camera Hold Rotate,,Camera Hold Rotate,Camera Hold Rotate
+Camera Left,,Camera Left,Camera Left
+Camera Load Spin Rate,,Camera Load Spin Rate,Camera Load Spin Rate
+Camera Mode,,Camera Mode,Camera Mode
+Camera Right,,Camera Right,Camera Right
+Camera Up,,Camera Up,Camera Up
+Camera mode that functions like a FPS.,,Camera mode that functions like a FPS.,Camera mode that functions like a FPS.
+Camera mode that functions like a top down 2d game.,,Camera mode that functions like a top down 2d game.,Camera mode that functions like a top down 2d game.
+Camera mode that is like a spectator camera in a FPS.,,Camera mode that is like a spectator camera in a FPS.,Camera mode that is like a spectator camera in a FPS.
+Camera mode that orbits a point similar to a MMO.,,Camera mode that orbits a point similar to a MMO.,Camera mode that orbits a point similar to a MMO.
+Camera mode that orbits a point.,,Camera mode that orbits a point.,Camera mode that orbits a point.
+Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users,Camera state 0 will override the space bar position for everyone at the table instead of using the hand location. Move your camera where you want your default camera position to be and press Ctrl + 0. This is the new space bar position for all users
+Cancel,,Cancel,Cancel
+Cannot overwrite default themes.,,Cannot overwrite default themes.,Cannot overwrite default themes.
+Cap Framerate,,Cap Framerate,Cap Framerate
+Card,,Card,Card
+Card Games,,Card Games,Card Games
+Card Hands,,Card Hands,Card Hands
+Card Is A Deck For Hotkeys,,Card Is A Deck For Hotkeys,Card Is A Deck For Hotkeys
+Card Scale,,Card Scale,Card Scale
+CardBot,,CardBot,CardBot
+CardBots Head Deck,,CardBots Head Deck,CardBots Head Deck
+CardBots Main Deck,,CardBots Main Deck,CardBots Main Deck
+Cardboard,,Cardboard,Cardboard
+Cards,,Cards,Cards
+Cards-Per-Deck,,Cards Per Deck,Cards Per Deck
+Cast Shadows,,Cast Shadows,Cast Shadows
+Category,,Category,Category
+Cathedral,,Cathedral,Cathedral
+Centaur,,Centaur,Centaur
+Center,,Center,Center
+Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.,Center: Gizmos placed at selected object's pivot point. Pivot: Gizmos placed at selected object's pivot point.
+Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,,Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.,Center: Gizmos placed at the center of the selection. Pivot: Gizmos placed at selected object's pivot point.
+Centre On Mouse Wheel,,Centre On Mouse Wheel,Centre On Mouse Wheel
+Cerberus,,Cerberus,Cerberus
+Certain object types have special properties to make them behave more naturally.,,Certain object types have special properties to make them behave more naturally.,Certain object types have special properties to make them behave more naturally.
+Chair,,Chair,Chair
+Change Color,,Change Color,Change Color
+Change Team,,Change Team,Change Team
+"Change any settings like Graphics, Controls, UI, etc.",,"Change any settings like Graphics, Controls, UI, etc.","Change any settings like Graphics, Controls, UI, etc."
+Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),,Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat)
+Change the chat window color.,,Change the chat window color.,Change the chat window color.
+Change the color of the light shining from above.,,Change the color of the light shining from above.,Change the color of the light shining from above.
+Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,,Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.,Change the meta data for your currently loaded game. This info is searchable in-game and on the Workshop.
+Change the tooltip on object based on its rotation. Great for custom dice or tiles.,,Change the tooltip on object based on its rotation. Great for custom dice or tiles.,Change the tooltip on object based on its rotation. Great for custom dice or tiles.
+Change to the next page.,,Change to the next page.,Change to the next page.
+Change to the next state.,,Change to the next state.,Change to the next state.
+Changes chat Opacity.,,Changes chat Opacity.,Changes chat Opacity.
+Changes how strong the light shines from above. This also effects the strength of the shadows.,,Changes how strong the light shines from above. This also effects the strength of the shadows.,Changes how strong the light shines from above. This also effects the strength of the shadows.
+Changes the Camera look speed.,,Changes the Camera look speed.,Changes the Camera look speed.
+Changes the amount the camera can see.,,Changes the amount the camera can see.,Changes the amount the camera can see.
+Changes the color of the grid.,,Changes the color of the grid.,Changes the color of the grid.
+Changes the font size.,,Changes the font size.,Changes the font size.
+Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,,Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.,Changes the global volume of all in-game mp3 players. You can still adjust the volume on a per object basis.
+Changes the global volume of everything.,,Changes the global volume of everything.,Changes the global volume of everything.
+Changes the in-game volume of objects.,,Changes the in-game volume of objects.,Changes the in-game volume of objects.
+Changes the intensity of the LUT.,,Changes the intensity of the LUT.,Changes the intensity of the LUT.
+Changes the speed in which your camera moves.,,Changes the speed in which your camera moves.,Changes the speed in which your camera moves.
+Changes the transparency the grid.,,Changes the transparency the grid.,Changes the transparency the grid.
+Changes the volume of other player's voice.,,Changes the volume of other player's voice.,Changes the volume of other player's voice.
+Changes the volume of the main menu music.,,Changes the volume of the main menu music.,Changes the volume of the main menu music.
+Changes the volume of your voice.,,Changes the volume of your voice.,Changes the volume of your voice.
+Chat,,Chat,Chat
+Chat Settings,,Chat Settings,Chat Settings
+Chat will auto hide after a set amount of time.,,Chat will auto hide after a set amount of time.,Chat will auto hide after a set amount of time.
+Chat will filter rude words and misbehaviour.,,Chat will filter rude words and misbehaviour.,Chat will filter rude words and misbehaviour.
+Check,,Check,Check
+Check out the patch!,,Check out the patch!,Check out the patch!
+Check this to enable controller input.,,Check this to enable controller input.,Check this to enable controller input.
+Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,,Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.,Check this to enable touch support. Note: This currently stops mouse input from working properly while enabled.
+Checkers,,Checkers,Checkers
+Chess,,Chess,Chess
+Chest,,Chest,Chest
+Chest Tools,,Chest Tools,Chest Tools
+Chimera,,Chimera,Chimera
+Chinese Checkers,,Chinese Checkers,Chinese Checkers
+Chip,,Chip,Chip
+Choose Color,,Choose [DA1918]C[E18438]o[E7E52C]l[31B32B]o[1F87FF]r,Choose [DA1918]C[E18438]o[E7E52C]l[31B32B]o[1F87FF]r
+"Choose between a box, hex horizontal, or hex vertical grid.",,"Choose between a box, hex horizontal, or hex vertical grid.","Choose between a box, hex horizontal, or hex vertical grid."
+Choose between automatic or custom turns.,,Choose between automatic or custom turns.,Choose between automatic or custom turns.
+Choose between the old (Static) grid and the new one (Projection).,,Choose between the old (Static) grid and the new one (Projection).,Choose between the old (Static) grid and the new one (Projection).
+Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,,Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.,Choose from a variety of LUTs (Look-up Texture) to change the color grading of the scene.
+Choose the location for your mods folder.,,Choose the location for your mods folder.,Choose the location for your mods folder.
+Circle,,Circle,Circle
+Classic Games that are included as part of Tabletop Simulator by default.,,Classic Games that are included as part of Tabletop Simulator by default.,Classic Games that are included as part of Tabletop Simulator by default.
+Clear the table.,,Clear the table.,Clear the table.
+Click Tooltip on Menu,,Click Tooltip on Menu,Click Tooltip on Menu
+Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Right click to change the color of the hand.,,Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Left-click to change the color of the hand.,Click a player hand to delete it. Click and drag to create a new hand. You can have multiple hands of the same color. Left-click to change the color of the hand.
+Click and drag a zone for a Fog of War area.,,Click and drag a zone for a Fog of War area.,Click and drag a zone for a Fog of War area.
+Click and drag a zone for your personal hidden area. Right click to change the color or click the settings gear for more options. Click again to delete the zone.,,Click and drag a zone for your personal hidden area. Left-click to change the color or click the settings gear for more options.,Click and drag a zone for your personal hidden area. Left-click to change the color or click the settings gear for more options.
+"Click and drag to create a randomized zone. Everything in this zone will be randomized when you right click on it. This is good for randomizing cards, tiles, etc for games that need it.",,"Click and drag to create a randomized zone. Let-click it to show the Randomize button. This is good for randomizing cards, tiles, etc for games that need it.","Click and drag to create a randomized zone. Let-click it to show the Randomize button. This is good for randomizing cards, tiles, etc for games that need it."
+Click edit to start typing here,,Click edit to start typing here,Click edit to start typing here
+Click in the (Right Stick) to reset the camera.,,Click in the <Right Stick> to reset the camera.,Click in the <Right Stick> to reset the camera.
+Click to End Turn,,Click to End Turn,Click to End Turn
+Click to open page to knowledge base.,,Click to open page to knowledge base.,Click to open page to knowledge base.
+Clone,,Clone,Clone
+Clone copied objects to this location. This can also be done in the Global Contextual Menu.,,Clone copied objects to this location. This can also be done in the Global Contextual Menu.,Clone copied objects to this location. This can also be done in the Global Contextual Menu.
+Cloud Manager,,Cloud Manager,Cloud Manager
+Clubs,,Clubs,Clubs
+Code,,Code,Code
+Coin,,Coin,Coin
+Collapse-Show Modding Actions,,Collapse/Show Modding Actions,Collapse/Show Modding Actions
+Collapse-Show Movement Actions,,Collapse/Show Movement Actions,Collapse/Show Movement Actions
+Collapse-Show Object Properties,,Collapse/Show Object Properties,Collapse/Show Object Properties
+Collider,,Collider,Collider
+Collision,,Collision,Collision
+Color,,Color,Color
+Color Tint,,Color Tint,Color Tint
+Color which Fog of War is revealed for. (Black = All),,Color which Fog of War is revealed for. (Black = All),Color which Fog of War is revealed for. (Black = All)
+Combine,,Combine,Combine
+Combine Into Decks,,Combine Into Decks,Combine Into Decks
+Combine all selected objects into a single object.,,Combine all selected objects into a single object.,Combine all selected objects into a single object.
+Combining,,Combining,Combining
+"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.",,"Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc.","Complete physics simulation. Objects can be thrown, pieces can knock down other pieces, etc."
+Complexity,,Complexity,Complexity
+Component Spread Distance,,Component Spread Distance,Component Spread Distance
+Component States Wrap,,Component States Wrap,Component States Wrap
+Component Tags,,Component Tags,Component Tags
+Component Tooltip Delay,,Component Tooltip Delay,Component Tooltip Delay
+Configuration,,Configuration,Configuration
+"Congratulations! You finished the tutorial! You can leave by clicking the 'Menu' button on the top bar, then click 'Main Menu'",,"Congratulations! You finished the tutorial!
+You can leave by clicking the 'Menu' button on the top bar,
+then click 'Main Menu'","Congratulations! You finished the tutorial!
+You can leave by clicking the 'Menu' button on the top bar,
+then click 'Main Menu'"
+Connect,,Connect,Connect
+Connect to IRC,,Connect to IRC,Connect to IRC
+Connected Anchor,,Connected Anchor,Connected Anchor
+Connected through Steam relay servers. Experience might not be optimal.,,"Connected through Steam relay servers. Experience might not be optimal.
+
+Port Forward:
+UDP 3478 (Outbound)
+UDP 4379 (Outbound)
+UDP 4380 (Outbound)","Connected through Steam relay servers. Experience might not be optimal.
+
+Port Forward:
+UDP 3478 (Outbound)
+UDP 4379 (Outbound)
+UDP 4380 (Outbound)"
+Connecting to this player.,,Connecting to this player.,Connecting to this player.
+Connecting...,,Connecting...,Connecting...
+Console Hotkey Lock,,Console Hotkey Lock,Console Hotkey Lock
+Context Menus Can Collapse,,Context Menus Can Collapse,Context Menus Can Collapse
+Context Menus Show GM Notes,,Context Menus Show GM Notes,Context Menus Show GM Notes
+Contextual,,Contextual,Contextual
+Contextual - Lower,,Contextual / Lower,Contextual / Lower
+Control Scheme,,Control Scheme,Control Scheme
+Controller,,Controller,Controller
+Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,,Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.,Controls how good the surface of all objects look. Recommend to keep on unless you have little system RAM or loading massive Mods with many textures. Off will make all textures half size.
+"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.",,"Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles.","Controls reflectivity at grazing angles. Higher = grazing angles, Lower = all angles."
+Cooperative Games,,Cooperative Games,Cooperative Games
+Copies an object and then deletes it.,,Copies an object and then deletes it.,Copies an object and then deletes it.
+Copy,,Copy,Copy
+Copy all text to clipboard,,Copy all text to clipboard,Copy all text to clipboard
+Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,,Copy objects to clone somewhere else. This can also be done in the Contextual Menu.,Copy objects to clone somewhere else. This can also be done in the Contextual Menu.
+Copy player view.,,Copy player view.,Copy player view.
+Copy to clipboard. Useful for scripting.,,Copy to clipboard. Useful for scripting.,Copy to clipboard. Useful for scripting.
+Core,,Core,Core
+Corner,,Corner,Corner
+Cosmic Encounter,,Cosmic Encounter,Cosmic Encounter
+Counter,,Counter,Counter
+Country,,Country,Country
+Crasc,,Crasc,Crasc
+Create Folder,,Create Folder,Create Folder
+Create Server,,Create Server,Create Server
+Create States,,Create States,Create States
+Create a new UI asset.,,Create a new UI asset.,Create a new UI asset.
+Create a new decal.,,Create a new decal.,Create a new decal.
+Create a new rotation value.,,Create a new rotation value.,Create a new rotation value.
+Create a new save file.,,Create a new save file.,Create a new save file.
+Create custom scripts to do a multitude of advanced features.,,Create custom scripts to do a multitude of advanced features.,Create custom scripts to do a multitude of advanced features.
+Create folder in Cloud,,Create folder in Cloud,Create folder in Cloud
+Create folder in Saved Objects,,Create folder in Saved Objects,Create folder in Saved Objects
+Create folder in {0},,Create folder in {0},Create folder in {0}
+Create your own custom tags. These will still be searchable but not available as filters.,,Create your own custom tags. These will still be searchable but not available as filters.,Create your own custom tags. These will still be searchable but not available as filters.
+Created,,Created,Created
+Credits,,Credits,Credits
+Crowns,,Crowns,Crowns
+Crowns Coin 2,,Crowns Coin 2,Crowns Coin 2
+Crowns Coin 3,,Crowns Coin 3,Crowns Coin 3
+Crowns Coin 4,,Crowns Coin 4,Crowns Coin 4
+Crowns Coin 5,,Crowns Coin 5,Crowns Coin 5
+Crowns Coin Ace,,Crowns Coin Ace,Crowns Coin Ace
+Crowns Coin Blank,,Crowns Coin Blank,Crowns Coin Blank
+Crowns Dice,,Crowns Dice,Crowns Dice
+Crowns Square 2,,Crowns Square 2,Crowns Square 2
+Crowns Square 3,,Crowns Square 3,Crowns Square 3
+Crowns Square 4,,Crowns Square 4,Crowns Square 4
+Crowns Square 5,,Crowns Square 5,Crowns Square 5
+Crowns Square Ace,,Crowns Square Ace,Crowns Square Ace
+Crowns Square Blank,,Crowns Square Blank,Crowns Square Blank
+Ctrl,,Ctrl,Ctrl
+Current Time,,Current Time,Current Time
+Current name of the game you are playing (Shows on server browser and friends list).,,Current name of the game you are playing (Shows on server browser and friends list).,Current name of the game you are playing (Shows on server browser and friends list).
+Current name of the game you are playing (Shows on server browser).,,Current name of the game you are playing (Shows on server browser).,Current name of the game you are playing (Shows on server browser).
+Custom,,Custom,Custom
+Custom Game,,Custom Game,Custom Game
+Custom LUT,,Custom LUT,Custom LUT
+Custom Models,,Custom Models,Custom Models
+Custom Rectangle,,Custom Rectangle,Custom Rectangle
+Custom Square,,Custom Square,Custom Square
+Custom Token will use the transparency from your .png image to generate a mesh.,,Custom Token will use the transparency from your .png image to generate a mesh.,Custom Token will use the transparency from your .png image to generate a mesh.
+Custom UI Assets,,Custom UI Assets,Custom UI Assets
+Custom dice type.,,Custom dice type.,Custom dice type.
+Custom objects in queue.,,Custom objects in queue.,Custom objects in queue.
+Custom tile type. Changes the model of the object.,,Custom tile type. Changes the model of the object.,Custom tile type. Changes the model of the object.
+Cut,,Cut,Cut
+Cut the deck into two stacks with varying size.,,Cut the deck into two stacks with varying size.,Cut the deck into two stacks with varying size.
+Cyclops,,Cyclops,Cyclops
+D10 Chrome,,D10 Chrome,D10 Chrome
+D12 Chrome,,D12 Chrome,D12 Chrome
+D20 Chrome,,D20 Chrome,D20 Chrome
+D4 Chrome,,D4 Chrome,D4 Chrome
+D6 Black,,D6 Black,D6 Black
+D6 Blue,,D6 Blue,D6 Blue
+D6 Chrome,,D6 Chrome,D6 Chrome
+D6 Green,,D6 Green,D6 Green
+D6 Red,,D6 Red,D6 Red
+D8 Chrome,,D8 Chrome,D8 Chrome
+DELETE_ALL_DECALS,,Delete all decals.,Delete all decals.
+DELETE_ALL_TEXT_OBJECTS,,Delete all 3D text objects.,Delete all 3D text objects.
+DELETE_DECALS,,Delete Decals,Delete Decals
+DELETE_TEXT_OBJECTS,,Delete 3D Text Objects,Delete 3D Text Objects
+DELETE_YOUR_DECALS,,Delete your decals.,Delete your decals.
+DELETE_YOUR_TEXT_OBJECTS,,Delete your 3D text objects.,Delete your 3D text objects.
+DEVELOPERS,,Developers,Developers
+DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,,DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.,DLC (Downloadable Content) are official games we have licenses to from the various publishers and developers.
+DOWN_THEN_LEFT,,Down / Left,Down / Left
+DOWN_THEN_RIGHT,,Down / Right,Down / Right
+DROP DOWN,,Drop Down,Drop Down
+Damper,,Damper,Damper
+Darkness Warlord,,Darkness Warlord,Darkness Warlord
+Deal,,Deal,Deal
+Deal to all seated players.,,Deal to all seated players.,Deal to all seated players.
+Deal to all.,,Deal to all.,Deal to all.
+Deal to blue.,,Deal to blue.,Deal to blue.
+Deal to brown.,,Deal to brown.,Deal to brown.
+Deal to green.,,Deal to green.,Deal to green.
+Deal to orange.,,Deal to orange.,Deal to orange.
+Deal to pink.,,Deal to pink.,Deal to pink.
+Deal to purple.,,Deal to purple.,Deal to purple.
+Deal to red.,,Deal to red.,Deal to red.
+Deal to teal.,,Deal to teal.,Deal to teal.
+Deal to white.,,Deal to white.,Deal to white.
+Deal to yellow.,,Deal to yellow.,Deal to yellow.
+Decal,,Decal,Decal
+Decal name,,Decal name,Decal name
+Decals,,Decals,Decals
+Decals are great for adding small details or for card stickers.,,Decals are great for adding small details or for card stickers.,Decals are great for adding small details or for card stickers.
+Deck,,Deck,Deck
+Deck Builder,,Deck Builder,Deck Builder
+Deck Editor,,Deck Editor,Deck Editor
+Default,,Default,Default
+Delete,,Delete,Delete
+Delete Audioclip from Playlist?,,Delete Audioclip from Playlist?,Delete Audioclip from Playlist?
+Delete all 3D text objects?,,Delete all 3D text objects?,Delete all 3D text objects?
+Delete all 3d texts.,,Delete all 3d texts.,Delete all 3d texts.
+Delete all decals.,,Delete all decals.,Delete all decals.
+Delete all decals?,,Delete all decals?,Delete all decals?
+Delete all snap points.,,Delete all snap points.,Delete all snap points.
+Delete all snap points?,,Delete all snap points?,Delete all snap points?
+Delete and Unsubscribe from {0}?,,Delete and Unsubscribe from {0}?,Delete and Unsubscribe from {0}?
+Delete tag '{0}'? (It will be removed from all components and objects.),,"Delete tag '{0}'?
+(It will be removed from all components and objects.)","Delete tag '{0}'?
+(It will be removed from all components and objects.)"
+Delete theme {0}?,,Delete theme {0}?,Delete theme {0}?
+Delete {0}?,,Delete {0}?,Delete {0}?
+Delete {0}? (This will delete anything contained within this folder),,Delete {0}? (This will delete anything contained within this folder),Delete {0}? (This will delete anything contained within this folder)
+Delete {0}? All files contained will stop working in any mods.,,Delete {0}? All files contained will stop working in any mods.,Delete {0}? All files contained will stop working in any mods.
+Delete {0}? This file will stop working in any mods.,,Delete {0}? This file will stop working in any mods.,Delete {0}? This file will stop working in any mods.
+"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.",,"Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu.","Deletes objects from the table. Alternatively, you can press . This can also be done in the Contextual Menu."
+Demonic,,Demonic,Demonic
+Demote,,Demote,Demote
+Description,,Description,Description
+Dexterity Games,,Dexterity Games,Dexterity Games
+Diamonds,,Diamonds,Diamonds
+Dice,,Dice,Dice
+Dice Games,,Dice Games,Dice Games
+Die,,Die,Die
+Diffuse-Image,,Diffuse/Image,Diffuse/Image
+Digital,,Digital,Digital
+Digital Clock,,Digital Clock,Digital Clock
+Direct Connect,,Direct Connect,Direct Connect
+Direction,,Direction,Direction
+Disable,,Disable,Disable
+Disable Interactions,,Disable Interactions,Disable Interactions
+Disable Unused,,Disable Unused,Disable Unused
+Disable if you wish to control the dimensions of the grid independently.,,Disable if you wish to control the dimensions of the grid independently.,Disable if you wish to control the dimensions of the grid independently.
+Disabled,,Disabled,Disabled
+Disables interactions when it's not a color's turn.,,Disables interactions when it's not a color's turn.,Disables interactions when it's not a color's turn.
+Disconnected,,Disconnected,Disconnected
+Display Object Drop Position,,Display Object Drop Position,Display Object Drop Position
+Display VR Players,,Display VR Players,Display VR Players
+Display the chat UI.,,Display the chat UI.,Display the chat UI.
+Display the on screen notes on the right side of the screen.,,Display the on screen notes on the right side of the screen.,Display the on screen notes on the right side of the screen.
+Display the on-screen keyboard if you are playing in VR.,,Display the on-screen keyboard if you are playing in VR.,Display the on-screen keyboard if you are playing in VR.
+Display the on-screen keyboard.,,Display the on-screen keyboard.,Display the on-screen keyboard.
+Display the player names on the top right.,,Display the player names on the top right.,Display the player names on the top right.
+Display the top menu bar UI.,,Display the top menu bar UI.,Display the top menu bar UI.
+Display tools menu on the top left.,,Display tools menu on the top left.,Display tools menu on the top left.
+Distance,,Distance,Distance
+Do not show the on-screen keyboard.,,Do not show the on-screen keyboard.,Do not show the on-screen keyboard.
+Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,,Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.,Do you want the puzzle image to be on the board as you are building the puzzle? This makes the puzzle easier.
+Do you want the tiles to stack like poker chips?,,Do you want the tiles to stack like poker chips?,Do you want the tiles to stack like poker chips?
+Do you want the tokens to stack like poker chips?,,Do you want the tokens to stack like poker chips?,Do you want the tokens to stack like poker chips?
+Do you want this token to stand up like a meeple instead of being flat like a tile?,,Do you want this token to stand up like a meeple instead of being flat like a tile?,Do you want this token to stand up like a meeple instead of being flat like a tile?
+Documents,,Documents,Documents
+Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,,Does each card have a different card back? If so use the same template for the face cards as you do for the backs.,Does each card have a different card back? If so use the same template for the face cards as you do for the backs.
+Dominoes,,Dominoes,Dominoes
+Don't show servers that are full.,,Don't show servers that are full.,Don't show servers that are full.
+Don't show servers that have passwords.,,Don't show servers that have passwords.,Don't show servers that have passwords.
+Double-Click Container Pickup,,Double-Click Container Pickup,Double-Click Container Pickup
+Down,,Down,Down
+Downtown,,Downtown,Downtown
+Drag,,Drag,Drag
+Drag Selectable,,Drag Selectable,Drag Selectable
+Drag left or right to increase or decrease the value.,,Drag left or right to increase or decrease the value.,Drag left or right to increase or decrease the value.
+Drag the colors around to determine the turn order. Custom turns must be active.,,Drag the colors around to determine the turn order. Custom turns must be active.,Drag the colors around to determine the turn order. Custom turns must be active.
+Drag your finger on the table or background.,,Drag your finger on the table or background.,Drag your finger on the table or background.
+Dragonide,,Dragonide,Dragonide
+Draw,,Draw,Draw
+Drawing,,Drawing,Drawing
+Drop,,Drop,Drop
+Drop Last Grabbed,,Drop Last Grabbed,Drop Last Grabbed
+Dungeons,,Dungeons,Dungeons
+Dynamic Friction,,Dynamic Friction,Dynamic Friction
+DynamicAmaranth,,DynamicAmaranth,DynamicAmaranth
+DynamicAmaranthFixedNumerals,,DynamicAmaranthFixedNumerals,DynamicAmaranthFixedNumerals
+DynamicInconsolata,,DynamicInconsolata,DynamicInconsolata
+EASTWARD,,Eastward,Eastward
+END TURN,,End Turn,End Turn
+ERASE_DRAWN_LINES,,Erase Drawn Lines,Erase Drawn Lines
+ERASE_YOUR_DRAWN_LINES,,Erase your drawn lines.,Erase your drawn lines.
+Edge,,Edge,Edge
+Edit,,Edit,Edit
+Edit Note,,Edit Note,Edit Note
+Edit Tags,,Edit Tags,Edit Tags
+Edit Tags...,,Edit Tags...,Edit Tags...
+Edit tags on fog of war zone.,,Edit tags on fog of war zone.,Edit tags on fog of war zone.
+Edit tags on hand zone.,,Edit tags on hand zone.,Edit tags on hand zone.
+Edit tags on hidden zone.,,Edit tags on hidden zone.,Edit tags on hidden zone.
+Edit tags on layout zone.,,Edit tags on layout zone.,Edit tags on layout zone.
+Edit tags on randomize zone.,,Edit tags on randomize zone.,Edit tags on randomize zone.
+Edit tags on scripting zone.,,Edit tags on scripting zone.,Edit tags on scripting zone.
+Edit tags on selected components.,,Edit tags on selected components.,Edit tags on selected components.
+Edit tags on this snap point.,,Edit tags on this snap point.,Edit tags on this snap point.
+Edit tags snap points are created with.,,Edit tags snap points are created with.,Edit tags snap points are created with.
+Empty Game,,Empty Game,Empty Game
+Enable,,Enable,Enable
+Enable collision between bodies connected with the joint.,,Enable collision between bodies connected with the joint.,Enable collision between bodies connected with the joint.
+Enable or disable card hands.,,Enable or disable card hands.,Enable or disable card hands.
+Enhanced Base Precision,,Enhanced Base Precision,Enhanced Base Precision
+Enter,,Enter,Enter
+Enter Server Password,,Enter Server Password,Enter Server Password
+Enter name of player {0},,Enter name of player {0},Enter name of player {0}
+Enter value:,,Enter value:,Enter value:
+Equator,,Equator,Equator
+Erase,,Erase,Erase
+Erase all drawn lines.,,Erase all drawn lines.,Erase all drawn lines.
+Erase all drawn lines?,,Erase all drawn lines?,Erase all drawn lines?
+Erase entire pixel drawing.,,Erase entire pixel drawing.,Erase entire pixel drawing.
+Error storing theme (this should never happen!).,,Error storing theme (this should never happen!).,Error storing theme (this should never happen!).
+Europe Proxy,,Europe Proxy,Europe Proxy
+Everyone except the hand owner can see in hand.,,Everyone except the hand owner can see in hand.,Everyone except the hand owner can see in hand.
+Evil Watcher,,Evil Watcher,Evil Watcher
+Exact,,Exact,Exact
+Exit Game,,Exit Game,Exit Game
+Expand,,Expand,Expand
+Export,,Export,Export
+FACING_DOWN,,Become Face Down,Become Face Down
+FACING_KEEP,,Do Not Change,Do Not Change
+FACING_TIPPED,,Group Is Tipped,Group Is Tipped
+FACING_UP,,Become Face Up,Become Face Up
+FAILED_TO_WRITE_FILE,,Failed to write file,Failed to write file
+FIFO,,FIFO,FIFO
+FIXED,,Fixed,Fixed
+FONT,,Font,Font
+Face,,Face,Face
+"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.",,"Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended.","Face picture must be in proper deck template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here. 4096x4096 recommended."
+Face-Down,,Face-Down,Face-Down
+Face-Up,,Face-Up,Face-Up
+Facing,,Facing,Facing
+Family Games,,Family Games,Family Games
+Fast-forward Time,,Fast-forward Time,Fast-forward Time
+Field,,Field,Field
+Field of View,,Field of View,Field of View
+Field of View of Fog of War revealed.,,Field of View of Fog of War revealed.,Field of View of Fog of War revealed.
+Figurine,,Figurine,Figurine
+Figurines,,Figurines,Figurines
+Filename,,Filename,Filename
+Filter by Tags:,,Filter by Tags:,Filter by Tags:
+Filtered Public Servers - All Public Servers,,Filtered Public Servers / All Public Servers,Filtered Public Servers / All Public Servers
+Filters,,Filters,Filters
+Find and join a server hosted by another player.,,Find and join a server hosted by another player.,Find and join a server hosted by another player.
+First in first out or a queue.,,First in first out or a queue.,First in first out or a queue.
+Fixed Joint,,Fixed Joint,Fixed Joint
+Flick,,Flick,Flick
+Flicking,,Flicking,Flicking
+Flicks in air when thrown.,,Flicks in air when thrown.,Flicks in air when thrown.
+Flip,,Flip,Flip
+Flip Other Axis,,Flip Other Axis,Flip Other Axis
+Flip the table,,Flip the table?,Flip the table?
+Floor,,Floor,Floor
+Floor Of Mist,,Floor Of Mist,Floor Of Mist
+Fly Down,,Fly Down,Fly Down
+Fly Up,,Fly Up,Fly Up
+Fly Up & Down,,Fly Up & Down,Fly Up & Down
+Fog Height,,Fog Height,Fog Height
+Fog of War,,Fog of War,Fog of War
+Fog of War Tags,,Fog of War Tags,Fog of War Tags
+Folder Name,,Folder Name,Folder Name
+Font Size,,Font Size,Font Size
+Force,,Force,Force
+Forest,,Forest,Forest
+"Found {0} matching Custom Object(s), do you also want to update them to match?",,"Found {0} matching Custom Object(s), do you also want to update them to match?","Found {0} matching Custom Object(s), do you also want to update them to match?"
+Free,,Free,Free
+Free Camera,,Free Camera,Free Camera
+Freeze the object in place stopping all physics interactions.,,Freeze the object in place stopping all physics interactions.,Freeze the object in place stopping all physics interactions.
+Fresnel Strength,,Fresnel Strength,Fresnel Strength
+Friends,,Friends,Friends
+Friends Only,,Friends Only,Friends Only
+Front Image,,Front Image,Front Image
+Full,,Full,Full
+Full Size Textures,,Full Size Textures,Full Size Textures
+Fullscreen,,Fullscreen,Fullscreen
+GENERAL,,General,General
+GM (Black) players' pointer will be hidden in area.,,GM (Black) players' pointer will be hidden in area.,GM (Black) players' pointer will be hidden in area.
+GM Notes (only visible to Black),,GM Notes (only visible to Black),GM Notes (only visible to Black)
+GRAPHICS,,Graphics,Graphics
+GROUP_CHAT,,Group Chat,Group Chat
+Game,,Game,Game
+Game Data,,Game Data,Game Data
+Game Keys,,Game Keys,Game Keys
+Game Name,,Game Name,Game Name
+Game Tags,,Game Tags,Game Tags
+Game Types:,,Game Types:,Game Types:
+Game Volume,,Game Volume,Game Volume
+Games,,Games,Games
+Games Add To Context Menus,,Games Add To Context Menus,Games Add To Context Menus
+Games Can Show Controls UI,,Games Can Show Controls UI,Games Can Show Controls UI
+Generic,,Generic,Generic
+Get current rotation.,,Get current rotation.,Get current rotation.
+Ghoul,,Ghoul,Ghoul
+Giant Rat,,Giant Rat,Giant Rat
+Giant Viper,,Giant Viper,Giant Viper
+Gizmo,,Gizmo,Gizmo
+Gizmo Tool Size,,Gizmo Tool Size,Gizmo Tool Size
+Glass,,Glass,Glass
+Global,,Global,Global
+Globally controls all object snapping.,,Globally controls all object snapping.,Globally controls all object snapping.
+Glue,,Glue,Glue
+Go,The game,Go,Go
+Go back 10 seconds in time.,,Go back 10 seconds in time.,Go back 10 seconds in time.
+Go back and forward in time to fix any mistakes.,,Go back and forward in time to fix any mistakes.,Go back and forward in time to fix any mistakes.
+Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,,Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.,Go back and forward in time to fix any mistakes. You can also use the arrows at the top menu to rewind and forward time.
+Go forward 10 seconds in time.,,Go forward 10 seconds in time.,Go forward 10 seconds in time.
+Goblin,,Goblin,Goblin
+Gold,,Gold,Gold
+Gold 1000,,Gold 1000,Gold 1000
+Golem,,Golem,Golem
+Good! Now time to add that card to the deck.,,Good! Now time to add that card to the deck.,Good! Now time to add that card to the deck.
+Grab,,Grab,Grab
+Grab - Selection,,Grab / Selection,Grab / Selection
+"Grab one of the objects, and then use (Pad Left) or (Pad Right) to rotate it.",,"Grab one of the objects,
+and then use <Pad Left> or <Pad Right> to rotate it.","Grab one of the objects,
+and then use <Pad Left> or <Pad Right> to rotate it."
+"Grab or mouse over one of the objects, and then use (Q) or (E) to rotate it.",,"Grab or mouse over one of the objects,
+and then use <Q> or <E> to rotate it.","Grab or mouse over one of the objects,
+and then use <Q> or <E> to rotate it."
+Grabbing Hides Gem,,Grabbing Hides Gem,Grabbing Hides Gem
+Gradient,,Gradient,Gradient
+Gradient Colors,,Gradient Colors,Gradient Colors
+Gravity,,Gravity,Gravity
+Great camera work! Time to rotate an object.,,Great camera work! Time to rotate an object.,Great camera work! Time to rotate an object.
+Great for checking a dice roll or reading a card.,,Great for checking a dice roll or reading a card.,Great for checking a dice roll or reading a card.
+Great shuffling! Now let's put a card in our hand. Drop a single card above the white name on the table. When a card is in your hand other players cannot see what it is.,,"Great shuffling! Now let's put a card in our hand.
+Drop a single card above the white name on the table.
+When a card is in your hand other players cannot see what it is.","Great shuffling! Now let's put a card in our hand.
+Drop a single card above the white name on the table.
+When a card is in your hand other players cannot see what it is."
+Great stacking! Now pull one card from the deck.,,Great stacking! Now pull one card from the deck.,Great stacking! Now pull one card from the deck.
+Green,,Green,Green
+Green 50,,Green 50,Green 50
+Green Triangle,,Green Triangle,Green Triangle
+Grey,,Grey,Grey
+Grey (All),,Grey (All),Grey (All)
+Grey (Spectator),,Grey (Spectator),Grey (Spectator)
+Greyout Visited,,Greyout Visited,Greyout Visited
+Grid,,Grid,Grid
+Grid Projection,,Grid Projection,Grid Projection
+Grid Size,,Grid Size,Grid Size
+Grid lines are drawn on the surface of the table.,,Grid lines are drawn on the surface of the table.,Grid lines are drawn on the surface of the table.
+Grid will be projected onto the table and any object that has grid projection turned on.,,Grid will be projected onto the table and any object that has grid projection turned on.,Grid will be projected onto the table and any object that has grid projection turned on.
+Griffon,,Griffon,Griffon
+Ground,,Ground,Ground
+Group,,Group,Group
+Grouping,,Grouping,Grouping
+Groups,,Groups,Groups
+HINGE,,Hinge,Hinge
+HOST COMMANDS,,Host Commands,Host Commands
+Hand Component Hotkey Draw,,Hand Component Hotkey Draw,Hand Component Hotkey Draw
+Hand Minimized Size,,Hand Minimized Size,Hand Minimized Size
+Hand View,,Hand View,Hand View
+Hand View Angle,,Hand View Angle,Hand View Angle
+Hand View Scale,,Hand View Scale,Hand View Scale
+Hand Zone Tags,,Hand Zone Tags,Hand Zone Tags
+Hands,,Hands,Hands
+Hands are areas near names on the table that can hold cards and dominoes.,,Hands are areas near names on the table that can hold cards and dominoes.,Hands are areas near names on the table that can hold cards and dominoes.
+Hands not used by a player will not be enabled.,,Hands not used by a player will not be enabled.,Hands not used by a player will not be enabled.
+Hearts,,Hearts,Hearts
+Height,,Height,Height
+Help,,Help,Help
+Help Menu,,Help Menu,Help Menu
+Heroes,,Heroes,Heroes
+Hex,,Hex,Hex
+Hex (Rounded),,Hex (Rounded),Hex (Rounded)
+Hex Horizontal,,Hex Horizontal,Hex Horizontal
+Hex Rotated,,Hex Rotated,Hex Rotated
+Hex Vertical,,Hex Vertical,Hex Vertical
+Hexagon,,Hexagon,Hexagon
+Hidden,,Hidden,Hidden
+Hidden Zone Hide Opacity,,Hidden Zone Hide Opacity,Hidden Zone Hide Opacity
+Hidden Zone Show Opacity,,Hidden Zone Show Opacity,Hidden Zone Show Opacity
+Hidden Zone Tags,,Hidden Zone Tags,Hidden Zone Tags
+Hide Face Down,,Hide Face Down,Hide Face Down
+Hide Full,,Hide Full,Hide Full
+Hide GM Pointer,,Hide GM Pointer,Hide GM Pointer
+Hide GUI,,Hide GUI,Hide GUI
+Hide Hand,,Hide Hand,Hide Hand
+Hide Locked,,Hide Locked,Hide Locked
+Hide Objects,,Hide Objects,Hide Objects
+Hide Pointers,,Hide Pointers,Hide Pointers
+Hiding,,Hiding,Hiding
+Hiding objects will be reversed so everyone but the color of the area can see inside.,,Hiding objects will be reversed so everyone but the color of the area can see inside.,Hiding objects will be reversed so everyone but the color of the area can see inside.
+High,,High,High
+High Complexity,,High Complexity,High Complexity
+Hinge Joint,,Hinge Joint,Hinge Joint
+Hold (Alt) while mousing over an object.,,Hold <Alt> while mousing over an object.,Hold <Alt> while mousing over an object.
+Hold (Left Bumper) while hovering over an object.,,Hold <Left Bumper> while hovering over an object.,Hold <Left Bumper> while hovering over an object.
+Hold ({0}) down for a few seconds.,,Hold <{0}> down for a few seconds.,Hold <{0}> down for a few seconds.
+Hold ({0}) on both controllers. Then move your hands closer or further apart. This will scale you up and down!,,"Hold <{0}> on both controllers.
+Then move your hands closer or further apart.
+This will scale you up and down!","Hold <{0}> on both controllers.
+Then move your hands closer or further apart.
+This will scale you up and down!"
+Hold ({0}) then drag yourself around.,,Hold <{0}> then drag yourself around.,Hold <{0}> then drag yourself around.
+Hold an object then press (A) on another object.,,Hold an object then press <A> on another object.,Hold an object then press <A> on another object.
+Hold an object then press (Right Mouse) or (T) on another object.,,Hold an object then press <Right Mouse> or <T> on another object.,Hold an object then press <Right Mouse> or <T> on another object.
+Hold down (Right Mouse Button) and move your mouse.,,Hold down <Right Mouse Button> and move your mouse.,Hold down <Right Mouse Button> and move your mouse.
+Hold right mouse button to rotate your camera.,,Hold right mouse button to rotate your camera.,Hold right mouse button to rotate your camera.
+Hold the key and nudge push objects with your pointer.,,Hold the <N> key and nudge/push objects with your pointer.,Hold the <N> key and nudge/push objects with your pointer.
+Hold the key and nudge-push objects with your pointer.,,Hold the key and nudge/push objects with your pointer.,Hold the key and nudge/push objects with your pointer.
+Holding the right mouse button will freely move your camera around.,,Holding the right mouse button will freely move your camera around.,Holding the right mouse button will freely move your camera around.
+Horizontal,,Horizontal,Horizontal
+Host,,Host,Host
+Host Server,,Host Server,Host Server
+Host a game and have other players join you.,,Host a game and have other players join you.,Host a game and have other players join you.
+Hotseat,,Hotseat,Hotseat
+Hotseat: Ask For Names,,Hotseat: Ask For Names,Hotseat: Ask For Names
+Hotseat: Confirm Turn Start,,Hotseat: Confirm Turn Start,Hotseat: Confirm Turn Start
+Hotseat: Delay Between Turns,,Hotseat: Delay Between Turns,Hotseat: Delay Between Turns
+Hotseat: Reset Camera On Turn,,Hotseat: Reset Camera On Turn,Hotseat: Reset Camera On Turn
+Hotseat: Show Turn Button,,Hotseat: Show Turn Button,Hotseat: Show Turn Button
+Hover Highlight,,Hover Highlight,Hover Highlight
+Hover Tooltips,,Hover Tooltips,Hover Tooltips
+"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.",,"Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu.","Hover or hold an RPG figurine and press 1, 2, or 3 to see the different actions. You can also activate these in the Contextual Menu."
+Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,,Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.,Hover or hold an object and press L to lock in place. You can also do this in the Contextual Menu.
+Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,,Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.,Hover or hold an object and press the R key to raise it continuously. This can also be used to quickly roll dice and shuffle cards.
+Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,,Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.,Hover over an object you wish to place beneath another and press the key. Great for layering objects under mats.
+Hover over dice-decks & type a number to show-draw that amount.,,Hover over dice/decks & type a number to show/draw that amount.,Hover over dice/decks & type a number to show/draw that amount.
+Hover over each item in this help menu to bring up more info.,,Hover over each item in this help menu to bring up more info.,Hover over each item in this help menu to bring up more info.
+Hover over the die and press (Pad Right).,,Hover over the die and press <Pad Right>.,Hover over the die and press <Pad Right>.
+Hovered Object,,Hovered Object,Hovered Object
+"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.",,"How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate.","How accurate it will try to trace your image. Lower = more accurate & expensive, Higher = less accurate."
+How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,,How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.,How bouncy is the surface? A value of 0 will not bounce. A value of 1 will bounce without any loss of energy.
+How fast all objects fall (Default = 0.5).,,How fast all objects fall (Default = 0.5).,How fast all objects fall (Default = 0.5).
+How high off the surface objects will be held.,,How high off the surface objects will be held.,How high off the surface objects will be held.
+How many cards tall is your deck? Default template is 7.,,How many cards tall is your deck? Default template is 7.,How many cards tall is your deck? Default template is 7.
+How many cards wide is your deck? Default template is 10.,,How many cards wide is your deck? Default template is 10.,How many cards wide is your deck? Default template is 10.
+"How mirror-like the object is. Higher = Mirror, Lower = Dull.",,"How mirror-like the object is. Higher = Mirror, Lower = Dull.","How mirror-like the object is. Higher = Mirror, Lower = Dull."
+"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.",,"How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately.","How much air resistance affects the object when moving from forces. 0 means no air resistance, and infinity makes the object stop moving immediately."
+How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,,How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.,How much air resistance affects the object when rotating from torque. 0 means no air resistance. Note that you cannot make the object stop rotating just by setting its Angular Drag to infinity.
+How much physics you want in your games.,,How much physics you want in your games.,How much physics you want in your games.
+How strong reflections are on shiny objects.,,How strong reflections are on shiny objects.,How strong reflections are on shiny objects.
+How strong the ambient or mood lighting is.,,How strong the ambient or mood lighting is.,How strong the ambient or mood lighting is.
+Hue,,Hue,Hue
+Hydra,,Hydra,Hydra
+IMPORT,,Import,Import
+INFO,,Info,Info
+INTERFACE,,Interface,Interface
+"If enabled, the object is affected by gravity.",,"If enabled, the object is affected by gravity.","If enabled, the object is affected by gravity."
+If freeSpin is enabled the motor will only accelerate but never slow down.,,If freeSpin is enabled the motor will only accelerate but never slow down.,If freeSpin is enabled the motor will only accelerate but never slow down.
+"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.",,"If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn.","If you need a bit more structure, then you can enable Turns so that everyone knows whose turn it is and when it s their own turn."
+Ignore Fog Of War,,Ignore Fog Of War,Ignore Fog Of War
+Image,,Image,Image
+Image On Board,,Image On Board,Image On Board
+Image URL,,Image URL,Image URL
+"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.",,"Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here.","Image must be in proper dice template. Template can be found in the game folder. Upload your image to a web host, then copy paste the direct link here."
+Import-Export,,Import/Export,Import/Export
+Improves texture quality at angles. Recommended on unless starved for performance.,,Improves texture quality at angles. Recommended on unless starved for performance.,Improves texture quality at angles. Recommended on unless starved for performance.
+In-Game,,In-Game,In-Game
+Inch,,Inch,Inch
+Inch Size,,Inch Size,Inch Size
+Infinite,,Infinite,Infinite
+Infinite Bag,,Infinite Bag,Infinite Bag
+Inserts a timestamp before each message.,,Inserts a timestamp before each message.,Inserts a timestamp before each message.
+Instant Refill,,Instant Refill,Instant Refill
+InstantRefillTooltip,,"When enabled, if ever a group is picked up or removed the rest of the layout will trigger to fill in the gap.","When enabled, if ever a group is picked up or removed the rest of the layout will trigger to fill in the gap."
+Instead of using the last slot on face image for the hidden card the back image will be used.,,Instead of using the last slot on face image for the hidden card the back image will be used.,Instead of using the last slot on face image for the hidden card the back image will be used.
+Interface Click Threshold,,Interface Click Threshold,Interface Click Threshold
+Interface Repeat Duration,,Interface Repeat Duration,Interface Repeat Duration
+Invert,,Invert,Invert
+Inverts the camera look directions.,,Inverts the camera look directions.,Inverts the camera look directions.
+Invite,,Invite,Invite
+Invite Friends,,Invite Friends,Invite Friends
+Is your card sideways? This rotates ALT Zoom.,,Is your card sideways? This rotates ALT Zoom.,Is your card sideways? This rotates ALT Zoom.
+Is your deck sideways? This rotates ALT Zoom.,,Is your deck sideways? This rotates ALT Zoom.,Is your deck sideways? This rotates ALT Zoom.
+JIGSAW PUZZLES,,Jigsaw Puzzles,Jigsaw Puzzles
+JOIN,,Join,Join
+Jigsaw,,Jigsaw,Jigsaw
+Join new Server Host?,,Join new Server Host?,Join new Server Host?
+Joint,,Joint,Joint
+Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,,Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.,Joint that locks two objects in place without creating a parent child relationship like the Attach tool. Right click the jointed object and click Joint to bring up the new menu.
+Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,,Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.,Joint that works just like it sounds a spring. Right click the jointed object and click Joint to bring up the new menu.
+Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,,Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.,Joint with door hinge like connection. Can even have motors. Right click the jointed object and click Joint to bring up the new menu.
+Joints,,Joints,Joints
+Joker,,Joker,Joker
+Jokers,,Jokers,Jokers
+Joypad Emulation,,Joypad Emulation,Joypad Emulation
+Keyboard,,Keyboard,Keyboard
+Keyboard Single Digit Draw,,Keyboard Single Digit Draw,Keyboard Single Digit Draw
+Kickstarter,,Kickstarter,Kickstarter
+King,,King,King
+King Cast Iron,,King Cast Iron,King Cast Iron
+King Chrome,,King Chrome,King Chrome
+King Dark,,King Dark,King Dark
+King Light,,King Light,King Light
+King Supporters,,King Supporters,King Supporters
+Knight,,Knight,Knight
+Knight Cast Iron,,Knight Cast Iron,Knight Cast Iron
+Knight Chrome,,Knight Chrome,Knight Chrome
+Knight Dark,,Knight Dark,Knight Dark
+Knight Light,,Knight Light,Knight Light
+Knight Supporters,,Knight Supporters,Knight Supporters
+Kobold,,Kobold,Kobold
+LAN,,LAN,LAN
+LANGUAGE_BROWSE_TOOLTIP,,Find community translation mods on the Workshop.,Find community translation mods on the Workshop.
+LANGUAGE_EXPORT_TOOLTIP,,Export current translation as a .csv file so that you can mod and upload it to the Workshop.,Export current translation as a .csv file so that you can mod and upload it to the Workshop.
+LANGUAGE_HELP,,Change your language to the provided translations or create and use community created translations.,Change your language to the provided translations or create and use community created translations.
+LANGUAGE_UPLOAD_TOOLTIP,,Upload the currently loaded translation to the Workshop.,Upload the currently loaded translation to the Workshop.
+LATEST DLC NOW AVAILABLE!,,Latest DLC Now Available!,Latest DLC Now Available!
+LEFT_THEN_DOWN,,Left / Down,Left / Down
+LEFT_THEN_UP,,Left / Up,Left / Up
+LIFO,,LIFO,LIFO
+LIGHTING,,Lighting,Lighting
+LUT,,LUT,LUT
+LUT Contribution,,LUT Contribution,LUT Contribution
+Label,,Label,Label
+Language,,Language,Language
+Language Code,,EN,EN
+Laser Activation Threshold,,Laser Activation Threshold,Laser Activation Threshold
+Laser Always On,,Laser Always On,Laser Always On
+Laser Angled,,Laser Angled,Laser Angled
+Laser Beam Opacity,,Laser Beam Opacity,Laser Beam Opacity
+Laser Beam Thickness,,Laser Beam Thickness,Laser Beam Thickness
+Laser Beam Visible,,Laser Beam Visible,Laser Beam Visible
+Laser Dot Size,,Laser Dot Size,Laser Dot Size
+Last in last out or a reverse queue.,,Last in last out or a reverse queue.,Last in last out or a reverse queue.
+Layout,,Layout,Layout
+Layout Zone,,Layout Zone,Layout Zone
+Layout Zone Tags,,Layout Zone Tags,Layout Zone Tags
+LayoutZoneAllowSwapping,,"When moving an object from one full group to another, the object you drop on will be moved to the original group.","When moving an object from one full group to another, the object you drop on will be moved to the original group."
+LayoutZoneAlternateDirection,,"Objects added to a group will be aligned up or right, different from the preceding object in the group.  Used, for example, in trick-taking games to make counting easier.","Objects added to a group will be aligned up or right, different from the preceding object in the group.  Used, for example, in trick-taking games to make counting easier."
+LayoutZoneCardsPerDeck,,Sets the size of decks made by the layout zone when it combines newly added cards.,Sets the size of decks made by the layout zone when it combines newly added cards.
+LayoutZoneCombineIntoDecks,,Whether cards added to the zone should be combined into decks.  You may specify the number of cards per deck.,Whether cards added to the zone should be combined into decks.  You may specify the number of cards per deck.
+LayoutZoneComponents,,"Which components will be added to the zone, and how.","Which components will be added to the zone, and how."
+LayoutZoneDirection,,The directions the groups in the zone expand into.  This will determine the origin corner.,The directions the groups in the zone expand into.  This will determine the origin corner.
+LayoutZoneFaceDown,,Face-Down components dropped on zone will be layed out.,Face-Down components dropped on zone will be layed out.
+LayoutZoneFaceUp,,Face-Up components dropped on zone will be layed out.,Face-Up components dropped on zone will be layed out.
+LayoutZoneFacing,,Determines whether newly added objects are turned face-up or face-down.,Determines whether newly added objects are turned face-up or face-down.
+LayoutZoneGroupDirection,,The direction the objects within a group will expand into.,The direction the objects within a group will expand into.
+LayoutZoneGroupObjects,,"When new objects are added to a zone, they will be gathered into groups of this many objects.","When new objects are added to a zone, they will be gathered into groups of this many objects."
+LayoutZoneHorizontalPadding,,How much horizontal space is inserted between groups.,How much horizontal space is inserted between groups.
+LayoutZoneHorizontalSpread,,How far each object in a group is moved horizontally from the previous object.,How far each object in a group is moved horizontally from the previous object.
+LayoutZoneManualTooltip,,The zone will not automatically lay out objects: it must be triggered manually.,The zone will not automatically lay out objects: it must be triggered manually.
+LayoutZoneMaxGroupObjects,,Each group in the zone may not contain more than this number of objects.,Each group in the zone may not contain more than this number of objects.
+LayoutZoneNonCards,,Non-card components dropped on zone will be layed out.,Non-card components dropped on zone will be layed out.
+LayoutZonePadding,,How much space is inserted between groups layed out in the zone.,How much space is inserted between groups layed out in the zone.
+LayoutZoneRandomizeTooltip,,Objects will be randomized whenever they are layed out.,Objects will be randomized whenever they are layed out.
+LayoutZoneSort,,How groups are sorted internally.,How groups are sorted internally.
+LayoutZoneSortExisting,,"When enabled all groups will be sorted when layed out, rather than only newly added groups.","When enabled all groups will be sorted when layed out, rather than only newly added groups."
+LayoutZoneSplitTooltip,,Decks added to the zone will be split into their individual cards.,Decks added to the zone will be split into their individual cards.
+LayoutZoneSpread,,How far apart objects within a group are spread.,How far apart objects within a group are spread.
+LayoutZoneVerticalPadding,,How much vertical space is inserted between groups.,How much vertical space is inserted between groups.
+LayoutZoneVerticalSpread,,How far each object in a group is moved vertically from the previous object.,How far each object in a group is moved vertically from the previous object.
+"Lead, Code, Design",,"Lead, Code, Design","Lead, Code, Design"
+Learn the basics in this short tutorial.,,Learn the basics in this short tutorial.,Learn the basics in this short tutorial.
+Left,,Left,Left
+Left Pad Down,,Left Pad Down,Left Pad Down
+Left Tool Hotkeys,,Left Tool Hotkeys,Left Tool Hotkeys
+Let Game Set Theme,,Let Game Set Theme,Let Game Set Theme
+Let's get a better look!,,Let's get a better look!,Let's get a better look!
+Lets players choose which color to pass their turn to.,,Lets players choose which color to pass their turn to.,Lets players choose which color to pass their turn to.
+Lift Height,,Lift Height,Lift Height
+Light,,Light,Light
+Light Color,,Light Color,Light Color
+Light Intensity,,Light Intensity,Light Intensity
+Like this!,,Like this!,Like this!
+Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,,Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.,Limits FPS to monitor refresh rate (Hz) to eliminate screen tearing. FPS drops with vsync on will introduce stuttering and will increase input lag.
+Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,,Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.,Limits FPS to monitor refresh rate (Hz) to reduce system usage. Great for laptops.
+Line,,Line,Line
+Line Thickness,,Line Thickness,Line Thickness
+Line Tool,,Line Tool,Line Tool
+Lines,,Lines,Lines
+Liquorish,,Liquorish,Liquorish
+Living Dead,,Living Dead,Living Dead
+Lizard Warrior,,Lizard Warrior,Lizard Warrior
+Lizards,,Lizards,Lizards
+Load,,Load,Load
+Load Camera,,Load Camera,Load Camera
+Load Camera View,,Load Camera View,Load Camera View
+Loaded,,Loaded,Loaded
+Loading,,Loading,Loading
+Loading...,,Loading...,Loading...
+Local,,Local,Local
+Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,,Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.,Local: Gizmos are in selected object's rotation. Global: Gizmos are in global rotation.
+Lock,,Lock,Lock
+Lock the X and Y size together.,,Lock the X and Y size together.,Lock the X and Y size together.
+Locked,,Locked,Locked
+Locking,,Locking,Locking
+Log,,Log,Log
+Logging,,Logging,Logging
+Long press on an object to bring it up.,,Long press on an object to bring it up.,Long press on an object to bring it up.
+Look Speed,,Look Speed,Look Speed
+Looking For Players,,Looking For Players,Looking For Players
+Looping Effect,,Looping Effect,Looping Effect
+Low,,Low,Low
+Low Complexity,,Low Complexity,Low Complexity
+Lower-Multi-Grab,,Lower/Multi-Grab,Lower/Multi-Grab
+Lua scripts automatically execute on load.,,Lua scripts automatically execute on load.,Lua scripts automatically execute on load.
+Lut Name,,Lut Name,Lut Name
+MANIPULATED_THE_DECK,,manipulated the deck,manipulated the deck
+MINIMAL_COLLIDER,,Minimal Collider,Minimal Collider
+MINIMAL_COLLIDER_DESCRIPTION,,If enabled then the figurine will only collide at its center.,If enabled then the figurine will only collide at its center.
+MIRROR,,Mirror,Mirror
+MIRROR_FIGURINE_BACK,,MIrror the back of the figurine. Leaving the back texture url empty will use the front texture.,MIrror the back of the figurine. Leaving the back texture url empty will use the front texture.
+MODEL,,MODEL,MODEL
+MODIFIERS,,Modifiers,Modifiers
+MORE,,More,More
+MSAA,,MSAA,MSAA
+Mage,,Mage,Mage
+Magnify,,Magnify,Magnify
+Mahjong,,Mahjong,Mahjong
+Main,,Main,Main
+Main Menu,,Main Menu,Main Menu
+Main Menu Volume,,Main Menu Volume,Main Menu Volume
+Manticora,,Manticora,Manticora
+Manual Only,,Manual Only,Manual Only
+Map,,Map,Map
+Marbles,,Marbles,Marbles
+Mass,,Mass,Mass
+Master Volume,,Master Volume,Master Volume
+Matching Custom Object Query,,Matching Custom Object Query,Matching Custom Object Query
+Material,,Material,Material
+Mature Games,,Mature Games,Mature Games
+Max,,Max,Max
+Max Distance,,Max Distance,Max Distance
+Max Objects Per Group,,Max. Objects Per Group,Max. Objects Per Group
+Max Players,,Max Players,Max Players
+Max Players (2-8),,Max Players (2-8),Max Players (2-8)
+Measure Arrows Angle,,Measure Arrows Angle,Measure Arrows Angle
+Measure Font Size,,Measure Font Size,Measure Font Size
+Measure Movement,,Measure Movement,Measure Movement
+Measure tool will automatically be used when moving this object.,,Measure tool will automatically be used when moving this object.,Measure tool will automatically be used when moving this object.
+Medium,,Medium,Medium
+Medium Complexity,,Medium Complexity,Medium Complexity
+Memory Games,,Memory Games,Memory Games
+Menu,,Menu,Menu
+Merge Distance,,Merge Distance,Merge Distance
+Message,,Message,Message
+Metal,,Metal,Metal
+Microphone,,Microphone,Microphone
+Min,,Min,Min
+Min Distance,,Min Distance,Min Distance
+Miniature Games,,Miniature Games,Miniature Games
+Misc,,Misc,Misc
+Misc. Settings,,Misc. Settings,Misc. Settings
+Misc. Settings...,,Misc. Settings...,Misc. Settings...
+Miscellaneous,,Miscellaneous,Miscellaneous
+Missing Binding Warning,,Missing Binding Warning,Missing Binding Warning
+Mistfall,,Mistfall,Mistfall
+Mod Caching,,Mod Caching,Mod Caching
+Mod Save Location,,Mod Save Location,Mod Save Location
+Mod Threading,,Mod Threading,Mod Threading
+Modding,,Modding,Modding
+Mode,,Mode,Mode
+Model-Mesh,,Model/Mesh,Model/Mesh
+Moons,,Moons,Moons
+Moons Coin 2,,Moons Coin 2,Moons Coin 2
+Moons Coin 3,,Moons Coin 3,Moons Coin 3
+Moons Coin 4,,Moons Coin 4,Moons Coin 4
+Moons Coin 5,,Moons Coin 5,Moons Coin 5
+Moons Coin Ace,,Moons Coin Ace,Moons Coin Ace
+Moons Coin Blank,,Moons Coin Blank,Moons Coin Blank
+Moons Dice,,Moons Dice,Moons Dice
+Moons Square 2,,Moons Square 2,Moons Square 2
+Moons Square 3,,Moons Square 3,Moons Square 3
+Moons Square 4,,Moons Square 4,Moons Square 4
+Moons Square 5,,Moons Square 5,Moons Square 5
+Moons Square Ace,,Moons Square Ace,Moons Square Ace
+Moons Square Blank,,Moons Square Blank,Moons Square Blank
+Motor Force,,Motor Force,Motor Force
+Motor Free Spin,,Motor Free Spin,Motor Free Spin
+Motor Velocity,,Motor Velocity,Motor Velocity
+Mouse Shake Threshold,,Mouse Shake Threshold,Mouse Shake Threshold
+Move,,Move,Move
+Move Camera,,Move Camera,Move Camera
+Move FrictioN,,Move FrictioN,Move FrictioN
+Move With Inertia,,Move With Inertia,Move With Inertia
+Move the position of the grid to fit your layout.,,Move the position of the grid to fit your layout.,Move the position of the grid to fit your layout.
+"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.",,"Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu.","Move your camera where you want, press & a number to save its position. You can also do this in the Global Contextual Menu."
+Move {0}?,,Move {0}?,Move {0}?
+Movement Speed,,Movement Speed,Movement Speed
+"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.",,"Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around.","Moves the camera forward, backwards and side to side. Pressing and holding the middle mouse button will pan the camera around."
+Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,,Moves the position of the camera. You can also press and hold the middle mouse button to pan around.,Moves the position of the camera. You can also press and hold the middle mouse button to pan around.
+Mp3 Player,,MP3 Player,MP3 Player
+Mp3 Volume,,MP3 Volume,MP3 Volume
+Multi-Select,,Multi-Select,Multi-Select
+Multiplayer,,Multiplayer,Multiplayer
+Mummy,,Mummy,Mummy
+Museum,,Museum,Museum
+Music,,Music,Music
+Music Player,,Music Player,Music Player
+Muted,,Muted,Muted
+Mythological,,Mythological,Mythological
+NA,,NA,NA
+NAT,,NAT,NAT
+NAT Punchthrough is a way the game tries to get around manual port forwarding.,,NAT Punchthrough is a way the game tries to get around manual port forwarding.,NAT Punchthrough is a way the game tries to get around manual port forwarding.
+NORTHWARD,,Northward,Northward
+Name,,Name,Name
+Name MSG,,Name MSG,Name MSG
+Negative Typed Numbers,,Negative Typed Numbers,Negative Typed Numbers
+New Label,,New Label,New Label
+New snap points will have these tags.,,New snap points will have these tags.,New snap points will have these tags.
+Next State,,Next State,Next State
+Nice shaking! Now let's rotate the camera.,,Nice shaking! Now let's rotate the camera.,Nice shaking! Now let's rotate the camera.
+Nice! Now let's shuffle the deck of cards.,,Nice! Now let's shuffle the deck of cards.,Nice! Now let's shuffle the deck of cards.
+"Nice! Now let's spin our view. Hold ({0}) on both controllers, then move your hands as if you were turning a wheel.",,"Nice! Now let's spin our view.
+Hold <{0}> on both controllers,
+then move your hands as if you were turning a wheel.","Nice! Now let's spin our view.
+Hold <{0}> on both controllers,
+then move your hands as if you were turning a wheel."
+No,,No,No
+No Log,,No Log,No Log
+No special properties.,,No special properties.,No special properties.
+Non-Cards,,Non-Cards,Non-Cards
+Non-Convex,,Non-Convex,Non-Convex
+None,,None,None
+Normal-Bump,,Normal/Bump,Normal/Bump
+North America Proxy,,North America Proxy,North America Proxy
+Not connected to this player.,,Not connected to this player.,Not connected to this player.
+Notebook,,Notebook,Notebook
+Notecard,,Notecard,Notecard
+Notepad,,Notepad,Notepad
+Notes,,Notes,Notes
+Nudge,,Nudge,Nudge
+Nudging,,Nudging,Nudging
+Number,,Number,Number
+Number of Players,,Number of Players,Number of Players
+Number of Players:,,Number of Players:,Number of Players:
+Number of cards in the deck (2-69). Last card slot is used for the hidden card.,,Number of cards in the deck (2-69). Last card slot is used for the hidden card.,Number of cards in the deck (2-69). Last card slot is used for the hidden card.
+Number of pages to compensate for pdf page numbering being offset from actual page numbering.,,Number of pages to compensate for pdf page numbering being offset from actual page numbering.,Number of pages to compensate for pdf page numbering being offset from actual page numbering.
+Number of people currently playing Tabletop Simulator,,Number of people currently playing Tabletop Simulator,Number of people currently playing Tabletop Simulator
+Number of puzzle pieces.,,Number of puzzle pieces.,Number of puzzle pieces.
+OC,,OC,OC
+Objects,,Objects,Objects
+Objects Per Group,,Objects Per Group,Objects Per Group
+Objects are not hidden in hands.,,Objects are not hidden in hands.,Objects are not hidden in hands.
+Objects in queue.,,Objects in queue.,Objects in queue.
+Objects snap to both the lines and the center of the grid.,,Objects snap to both the lines and the center of the grid.,Objects snap to both the lines and the center of the grid.
+Objects snap to center of each grid location.,,Objects snap to center of each grid location.,Objects snap to center of each grid location.
+Objects snap to line intersections.,,Objects snap to line intersections.,Objects snap to line intersections.
+Objects will be hidden in area.,,Objects will be hidden in area.,Objects will be hidden in area.
+"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.",,"Objects will only be included in a drag selection if this is enabled, or if the player holds the key.","Objects will only be included in a drag selection if this is enabled, or if the player holds the key."
+Oceanic Proxy,,Oceanic Proxy,Oceanic Proxy
+Octagon,,Octagon,Octagon
+Off,,Off,Off
+Offset,,Offset,Offset
+Offset for the Field of View of Fog of War revealed.,,Offset for the Field of View of Fog of War revealed.,Offset for the Field of View of Fog of War revealed.
+Ogre,,Ogre,Ogre
+Ok,,Ok,Ok
+Old school way to connect with IP and Port.,,Old school way to connect with IP and Port.,Old school way to connect with IP and Port.
+On-Screen Keyboard,,On-Screen Keyboard,On-Screen Keyboard
+On-screen Keyboard Echo,,On-screen Keyboard Echo,On-screen Keyboard Echo
+On-screen Keyboard Scale,,On-screen Keyboard Scale,On-screen Keyboard Scale
+One Last Thing! Time for some mayhem! Press the 'Flip' button on the top bar!,,"One Last Thing! Time for some mayhem!
+Press the 'Flip' button on the top bar!","One Last Thing! Time for some mayhem!
+Press the 'Flip' button on the top bar!"
+Only invited people can join.,,Only invited people can join.,Only invited people can join.
+Only the hand owner can see in their hand.,,Only the hand owner can see in their hand.,Only the hand owner can see in their hand.
+Only your friends can join.,,Only your friends can join.,Only your friends can join.
+Opacity,,Opacity,Opacity
+Opacity Of Drop Indicator,,Opacity Of Drop Indicator,Opacity Of Drop Indicator
+Opacity Of Spawn Indicator,,Opacity Of Spawn Indicator,Opacity Of Spawn Indicator
+Open,,Open,Open
+Open folder in OS,,Open folder in OS,Open folder in OS
+Opposing players' pointers will be hidden in area.,,Opposing players' pointers will be hidden in area.,Opposing players' pointers will be hidden in area.
+Options,,Options,Options
+Options -) Info,,Options -> Info,Options -> Info
+Orange,,Orange,Orange
+Orc,,Orc,Orc
+Order,,Order,Order
+Orient Object Delay,,Orient Object Delay,Orient Object Delay
+Original Controls,,Original Controls,Original Controls
+Original Games,,Original Games,Original Games
+Overwrite,,Overwrite,Overwrite
+Overwrite theme {0}?,,Overwrite theme {0}?,Overwrite theme {0}?
+Overwrite {0}?,,Overwrite {0}?,Overwrite {0}?
+PDF File,,PDF File,PDF File
+PDF Viewer,,PDF Viewer,PDF Viewer
+PERMISSIONS,,Permissions,Permissions
+PM (Global),,PM (Global),PM (Global)
+PM (In Game),,PM (In Game),PM (In Game)
+Pachisi,,Pachisi,Pachisi
+Pad Icons Always On,,Pad Icons Always On,Pad Icons Always On
+Pad Up = Teleport,,Pad Up = Teleport,Pad Up = Teleport
+Padding,,Padding,Padding
+Page,,Page,Page
+Page Offset,,Page Offset,Page Offset
+Painting,,Painting,Painting
+Pan,,Pan,Pan
+Pan Camera,,Pan Camera,Pan Camera
+Particle Effects,,Particle Effects,Particle Effects
+Party Games,,Party Games,Party Games
+Pass Turns,,Pass Turns,Pass Turns
+Password,,Password,Password
+Paste,,Paste,Paste
+"Paste clipboard, replacing text.",,"Paste clipboard, replacing text.","Paste clipboard, replacing text."
+Pawn,,Pawn,Pawn
+Pawn Cast Iron,,Pawn Cast Iron,Pawn Cast Iron
+Pawn Chrome,,Pawn Chrome,Pawn Chrome
+Pawn Dark,,Pawn Dark,Pawn Dark
+Pawn Light,,Pawn Light,Pawn Light
+Pawn Supporters,,Pawn Supporters,Pawn Supporters
+Peek Cards & Objects,,Peek Cards & Objects,Peek Cards & Objects
+Peeking,,Peeking,Peeking
+Pen,,Pen,Pen
+Perfect! Now let's move the entire deck of cards.,,Perfect! Now let's move the entire deck of cards.,Perfect! Now let's move the entire deck of cards.
+Persistent,,Persistent,Persistent
+Physical UI Screen,,Physical UI Screen,Physical UI Screen
+Physics,,Physics,Physics
+Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,,Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.,Physics are slightly toned down. Objects that are at rest will no longer interact with other objects.
+Pick Up,,Pick Up,Pick Up
+Picture-in-Picture,,Picture-in-Picture,Picture-in-Picture
+Piecepack,,Piecepack,Piecepack
+Pieces,,Pieces,Pieces
+Ping to player,,Ping to player,Ping to player
+Pink,,Pink,Pink
+Pivot,,Pivot,Pivot
+Pivot Point,,Pivot Point,Pivot Point
+Pixel,,Pixel,Pixel
+Pixel Paint,,Pixel Paint,Pixel Paint
+Placeholder,,Placeholder,Placeholder
+Plastic,,Plastic,Plastic
+Play Area,,Play Area,Play Area
+Play Scripts,,Play Scripts,Play Scripts
+"Play a solo game, or create your own custom games. Great for prototyping and testing.",,"Play a solo game, or create your own custom games. Great for prototyping and testing.","Play a solo game, or create your own custom games. Great for prototyping and testing."
+"Play by yourself, great for creating games or playing solo games.",,"Play by yourself, great for creating games or playing solo games.","Play by yourself, great for creating games or playing solo games."
+Play games with people online.,,Play games with people online.,Play games with people online.
+Play on the same computer with multiple people.,,Play on the same computer with multiple people.,Play on the same computer with multiple people.
+Play with multiple people on the same computer taking turns.,,Play with multiple people on the same computer taking turns.,Play with multiple people on the same computer taking turns.
+Play with other people.,,Play with other people.,Play with other people.
+Player 1,,Player 1,Player 1
+Player 1's Turn,,Player 1's Turn,Player 1's Turn
+Player Name,,Player Name,Player Name
+Player Names,,Player Names,Player Names
+Player Pawns,,Player Pawns,Player Pawns
+Players,,Players,Players
+Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,,Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .,Players on the same team can see each others hidden info and communicate with team text chat and team voice chat .
+Playing Time,,Playing Time,Playing Time
+Playlist,,Playlist,Playlist
+Please enter password,,Please enter password,Please enter password
+Please pickup the card using ({0}) on either controller.,,Please pickup the card using <{0}> on either controller.,Please pickup the card using <{0}> on either controller.
+Please pickup the card using your finger.,,Please pickup the card using your finger.,Please pickup the card using your finger.
+Please pickup the card with (Left Mouse Button).,,Please pickup the card with <Left Mouse Button>.,Please pickup the card with <Left Mouse Button>.
+Please pickup the card with (Right Bumper).,,Please pickup the card with <Right Bumper>.,Please pickup the card with <Right Bumper>.
+Point,,Point,Point
+Pointer,,Pointer,Pointer
+Pointer - Zoom (Click) - Pan Camera (Hold),,Pointer / Zoom (Click) / Pan Camera (Hold),Pointer / Zoom (Click) / Pan Camera (Hold)
+Poker,,Poker,Poker
+Poker Chips,,Poker Chips,Poker Chips
+Pop-out,,Pop-out,Pop-out
+Port (11155 is default),,Port (11155 is default),Port (11155 is default)
+Port (Default is 11155),,Port (Default is 11155),Port (Default is 11155)
+Portraits,,Portraits,Portraits
+Position,,Position,Position
+Position of the anchor relative to the connected Rigidbody.,,Position of the anchor relative to the connected Rigidbody.,Position of the anchor relative to the connected Rigidbody.
+Post AA,,Post AA,Post AA
+Post processing sharpen effect to enhance the clarity of textures.,,Post processing sharpen effect to enhance the clarity of textures.,Post processing sharpen effect to enhance the clarity of textures.
+"Precise drawing, draw on locked objects, and change the color. +-- to scale the thickness.",,"Precise drawing, draw on locked objects, and change the color. +/- to scale the thickness.","Precise drawing, draw on locked objects, and change the color. +/- to scale the thickness."
+Preset Quality,,Preset Quality,Preset Quality
+Presets,,Presets,Presets
+Press (Space) to reset the camera.,,Press <Space> to reset the camera.,Press <Space> to reset the camera.
+Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,,Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots,Press F11 to quickly hide the UI. SHIFT + F11 for HD Screenshots
+"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.",,"Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly.","Press and hold the left mouse button to pick up objects. Grab and hold to pick up stacks and decks. To grab a single item from stacks and decks, grab and move your mouse off the deck quickly."
+Press and hold your finder on the deck for a second then drag.,,Press and hold your finder on the deck for a second then drag.,Press and hold your finder on the deck for a second then drag.
+Press or the middle mouse button to quickly zoom to where your mouse is pointing.,,Press or the middle mouse button to quickly zoom to where your mouse is pointing.,Press or the middle mouse button to quickly zoom to where your mouse is pointing.
+Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,,Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.,Press plus a number to load up a saved camera view. You can also do this in the Global Contextual Menu.
+Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,,Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.,Press the key to bring down the curtain as your blindfold. You can also bring this up in the Global Contextual Menu.
+Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,,Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.,Press the key to magnify everything on the table. You can also zoom in & out with the scroll wheel on your mouse.
+Press the key to quickly bring up the main menu.,,Press the key to quickly bring up the main menu.,Press the key to quickly bring up the main menu.
+"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.",,"Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button.","Press to lower an object you're holding or to pick up other objects. Alternatively, you can press down with the right mouse button."
+Press to talk to only those people on the same team as you.,,Press to talk to only those people on the same team as you.,Press to talk to only those people on the same team as you.
+Preview,,Preview,Preview
+Previous State,,Previous State,Previous State
+Primary,,Primary,Primary
+Private,,Private,Private
+Profanity Filter,,Profanity Filter,Profanity Filter
+Progress,,Progress,Progress
+Projection,,Projection,Projection
+Promote,,Promote,Promote
+Promoted,,Promoted,Promoted
+Props,,Props,Props
+Proxy,,Proxy,Proxy
+"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.",,"Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort.","Proxy servers will increase latency for clients, but should ensure a connection. Clients will only connect through the proxy server as a last resort."
+Public,,Public,Public
+Pure,,Pure,Pure
+Pure Mode: Floor Mist,,Pure Mode: Floor Mist,Pure Mode: Floor Mist
+Pure Mode: Hide Custom Image,,Pure Mode: Hide Custom Image,Pure Mode: Hide Custom Image
+Purple,,Purple,Purple
+Push To Talk,,Push To Talk,Push To Talk
+Puzzle Games,,Puzzle Games,Puzzle Games
+Quarter,,Quarter,Quarter
+Queen,,Queen,Queen
+Queen Cast Iron,,Queen Cast Iron,Queen Cast Iron
+Queen Chrome,,Queen Chrome,Queen Chrome
+Queen Dark,,Queen Dark,Queen Dark
+Queen Light,,Queen Light,Queen Light
+Queen Supporters,,Queen Supporters,Queen Supporters
+Quick Zoom,,Quick Zoom,Quick Zoom
+Quick tap on an object.,,Quick tap on an object.,Quick tap on an object.
+Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,,Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.,Quick way to change graphical settings without having to tweak individual options. Only use low or very low if you have FPS issues.
+Quickly drag away from the deck.,,Quickly drag away from the deck.,Quickly drag away from the deck.
+Quit playing.,,Quit playing.,Quit playing.
+REMOVE BLINDFOLD,,Remove Blindfold,Remove Blindfold
+RESET_SCALE,,Reset Scale,Reset Scale
+RIGHT_THEN_DOWN,,Right / Down,Right / Down
+RIGHT_THEN_UP,,Right / Up,Right / Up
+RIGIDBODY,,Rigidbody,Rigidbody
+ROTATIONS,,Rotations,Rotations
+RPG,,RPG,RPG
+RPG Attack,,RPG Attack,RPG Attack
+RPG Die,,RPG Die,RPG Die
+RPG Figurines - Protofactor,,RPG Figurines - Protofactor,RPG Figurines - Protofactor
+"RPG Figurines are fully animated. Use 1, 2, 3 to activate.",,"RPG Figurines are fully animated. Use 1, 2, 3 to activate.","RPG Figurines are fully animated. Use 1, 2, 3 to activate."
+RPG Kit,,RPG Kit,RPG Kit
+RPG Mode,,RPG Mode,RPG Mode
+Raise,,Raise,Raise
+Raise-Randomize,,Raise/Randomize,Raise/Randomize
+Random,,Random,Random
+Random Card,,Random Card,Random Card
+Random Domino,,Random Domino,Random Domino
+Random Mahjong,,Random Mahjong,Random Mahjong
+Randomize,,Randomize,Randomize
+Randomize - Raise,,Randomize / Raise,Randomize / Raise
+Randomize Zone Tags,,Randomize Zone Tags,Randomize Zone Tags
+Randomize all objects in this zone?,,Randomize all objects in this zone?,Randomize all objects in this zone?
+Randomizes rotation when shaken and spins when thrown.,,Randomizes rotation when shaken and spins when thrown.,Randomizes rotation when shaken and spins when thrown.
+Randomly play an audioclip from a the playlist?,,Randomly play an audioclip from a the playlist?,Randomly play an audioclip from a the playlist?
+Range of Fog of War revealed.,,Range of Fog of War revealed.,Range of Fog of War revealed.
+Ranger,,Ranger,Ranger
+ReHide Objects,,Re-Hide Objects,Re-Hide Objects
+Read more on our Knowledge Base.,,Read more on our Knowledge Base.,Read more on our Knowledge Base.
+Real,,Real,Real
+Rectangle,,Rectangle,Rectangle
+Rectangle (Rounded),,Rectangle (Rounded),Rectangle (Rounded)
+Red,,Red,Red
+Red 100,,Red 100,Red 100
+Red Square,,Red Square,Red Square
+Reflection Intensity,,Reflection Intensity,Reflection Intensity
+Refresh server list,,Refresh server list,Refresh server list
+Regal,,Regal,Regal
+Region,,Region,Region
+Remove all {0} controls?,,Remove all {0} controls?,Remove all {0} controls?
+Remove block on {0}?,,Remove block on {0}?,Remove block on {0}?
+Rename,,Rename,Rename
+Rename theme?,,Rename theme?,Rename theme?
+Render Drawing over UI,,Render Drawing Over UI,Render Drawing Over UI
+Repeat current audioclip?,,Repeat current audioclip?,Repeat current audioclip?
+Reset,,Reset,Reset
+Reset All,,Reset All,Reset All
+Reset Camera,,Reset Camera,Reset Camera
+Reset Data,,Reset Data,Reset Data
+Reset Fog,,Reset Fog,Reset Fog
+Reset View,,Reset View,Reset View
+Reset the camera!,,Reset the camera!,Reset the camera!
+Reset to Default,,Reset to Default,Reset to Default
+Reset to default Light scheme (CTRL-F12),,Reset to default Light scheme (CTRL-F12),Reset to default Light scheme (CTRL-F12)
+"Resets all saved data (General, Controls, UI, etc).",,"Resets all saved data (General, Controls, UI, etc).","Resets all saved data (General, Controls, UI, etc)."
+Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,,Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .,Resets the camera to its default position based on your seat position. This can be overridden by saving a camera view by pressing + .
+Resolution,,Resolution,Resolution
+Resume Game,,Resume Game,Resume Game
+Reveal Color,,Reveal Color,Reveal Color
+Reveal FoV,,Reveal FoV,Reveal FoV
+Reveal FoV Offset,,Reveal FoV Offset,Reveal FoV Offset
+Reveal Fog of War,,Reveal Fog of War,Reveal Fog of War
+Reveal Height,,Reveal Height,Reveal Height
+Reveal Range,,Reveal Range,Reveal Range
+Reveal to all.,,Reveal to all.,Reveal to all.
+Reveal to blue.,,Reveal to blue.,Reveal to blue.
+Reveal to brown.,,Reveal to brown.,Reveal to brown.
+Reveal to green.,,Reveal to green.,Reveal to green.
+Reveal to orange.,,Reveal to orange.,Reveal to orange.
+Reveal to pink.,,Reveal to pink.,Reveal to pink.
+Reveal to purple.,,Reveal to purple.,Reveal to purple.
+Reveal to red.,,Reveal to red.,Reveal to red.
+Reveal to teal.,,Reveal to teal.,Reveal to teal.
+Reveal to white.,,Reveal to white.,Reveal to white.
+Reveal to yellow.,,Reveal to yellow.,Reveal to yellow.
+Revealer,,Revealer,Revealer
+Reverse,,Reverse,Reverse
+Reverse Hiding,,Reverse Hiding,Reverse Hiding
+Reverse Order,,Reverse Order,Reverse Order
+Reversed,,Reversed,Reversed
+ReversedSort,,When enabled the sort order inside a group is reversed.,When enabled the sort order inside a group is reversed.
+Reverses the turn order from the default.,,Reverses the turn order from the default.,Reverses the turn order from the default.
+Reversi,,Reversi,Reversi
+Reversi Chip,,Reversi Chip,Reversi Chip
+Rewind Time,,Rewind Time,Rewind Time
+Right,,Right,Right
+Right Pad Down,,Right Pad Down,Right Pad Down
+Right Tool Hotkeys,,Right Tool Hotkeys,Right Tool Hotkeys
+Right click on an object for more options.,,"Right click on an object
+for more options.","Right click on an object
+for more options."
+Right click on non-objects for global menu options.,,"Right click on non-objects for
+global menu options.","Right click on non-objects for
+global menu options."
+Rock,,Rock,Rock
+Role-playing Games,,Role-playing Games,Role-playing Games
+Roll,,Roll,Roll
+Rook,,Rook,Rook
+Rook Cast Iron,,Rook Cast Iron,Rook Cast Iron
+Rook Chrome,,Rook Chrome,Rook Chrome
+Rook Dark,,Rook Dark,Rook Dark
+Rook Light,,Rook Light,Rook Light
+Rook Supporters,,Rook Supporters,Rook Supporters
+Rooms,,Rooms,Rooms
+Rotate,,Rotate,Rotate
+Rotate Camera,,Rotate Camera,Rotate Camera
+Rotate Camera - Reset (Click),,Rotate Camera / Reset (Click),Rotate Camera / Reset (Click)
+Rotate Left,,Rotate Left,Rotate Left
+Rotate Other Axis,,Rotate Other Axis,Rotate Other Axis
+Rotate Right,,Rotate Right,Rotate Right
+Rotate Snap,,Rotate Snap,Rotate Snap
+"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.",,"Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees.","Rotate snap points are the same as the snap points, except you can change the rotation position. So if you turned a snap point 30 degrees to the right, when you place an object on top if it, it will snap into place and also rotate 30 degrees."
+Rotation,,Rotation,Rotation
+Rotation Degrees,,Rotation Degrees,Rotation Degrees
+Rotation Value,,Rotation Value,Rotation Value
+Round,,Round,Round
+Round Glass,,Round Glass,Round Glass
+Rounded,,Rounded,Rounded
+Ruler mode,,Ruler mode,Ruler mode
+Rules,,Rules,Rules
+SAVE & EXIT,,Save & Exit,Save & Exit
+SAVE & LOAD,,Save & Load,Save & Load
+SAVE GAME,,Save Game,Save Game
+SAVED OBJECTS,,Saved Objects,Saved Objects
+SERVER,,Server,Server
+SORT_BY_ADDED,,Added Time,Added Time
+SORT_BY_DESC,,Description,Description
+SORT_BY_GM,,GM Notes,GM Notes
+SORT_BY_MEMO,,Memo,Memo
+SORT_BY_NAME,,Name,Name
+SORT_BY_VALUE,,Value,Value
+SORT_NONE,,None,None
+SOUND,,Sound,Sound
+SOUTHWARD,,Southward,Southward
+SPOTLIGHT,,Spotlight,Spotlight
+SSAO,,SSAO,SSAO
+STAR_FOLDER,,Star Folder,Star Folder
+SUBMIT,,Submit,Submit
+Sandbox,,Sandbox,Sandbox
+Saturation,,Saturation,Saturation
+Save,,Save,Save
+Save & Play,,Save & Play,Save & Play
+Save Camera,,Save Camera,Save Camera
+Save Camera View,,Save Camera View,Save Camera View
+Save Object,,Save Object,Save Object
+Save Object(s),,Save Object(s),Save Object(s)
+Save a game you have playing for a long time and load it up again when you're ready to play it again.,,Save a game you have playing for a long time and load it up again when you're ready to play it again.,Save a game you have playing for a long time and load it up again when you're ready to play it again.
+Save current theme as...,,Save current theme as...,Save current theme as...
+Save to Chest,,Save to Chest,Save to Chest
+Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,,Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.,Saves scripting changes to the last open save and reloads the game with any script changes. Any changes that were not script related will be lost.
+Saving,,Saving,Saving
+Scale,,Scale,Scale
+Scale Down,,Scale Down,Scale Down
+Scale Up,,Scale Up,Scale Up
+Scaling,,Scaling,Scaling
+"Scaling applied to card only, not to base.",,"Scaling applied to card only, not to base.","Scaling applied to card only, not to base."
+Scripting,,Scripting,Scripting
+Scripting 1,,Scripting 1,Scripting 1
+Scripting 10,,Scripting 10,Scripting 10
+Scripting 2,,Scripting 2,Scripting 2
+Scripting 3,,Scripting 3,Scripting 3
+Scripting 4,,Scripting 4,Scripting 4
+Scripting 5,,Scripting 5,Scripting 5
+Scripting 6,,Scripting 6,Scripting 6
+Scripting 7,,Scripting 7,Scripting 7
+Scripting 8,,Scripting 8,Scripting 8
+Scripting 9,,Scripting 9,Scripting 9
+Scripting Editor,,Scripting Editor,Scripting Editor
+Scripting Zone Tags,,Scripting Zone Tags,Scripting Zone Tags
+Scripting: Automated,,Scripting: Automated,Scripting: Automated
+Search,,Search,Search
+Search privately without others being able to see what's inside.,,Search privately without others being able to see what's inside.,Search privately without others being able to see what's inside.
+Search publicly with others being able to see what's inside.,,Search publicly with others being able to see what's inside.,Search publicly with others being able to see what's inside.
+Secondary,,Secondary,Secondary
+Seconds,,Seconds,Seconds
+See everyone who has contributed to Tabletop Simulator's development.,,See everyone who has contributed to Tabletop Simulator's development.,See everyone who has contributed to Tabletop Simulator's development.
+See-through,,See-through,See-through
+Select,,Select,Select
+Selection Height,,Selection Height,Selection Height
+Selection Style,,Selection Style,Selection Style
+Selects the microphone to use for Voice Chat.,,Selects the microphone to use for Voice Chat.,Selects the microphone to use for Voice Chat.
+Semi-Lock,,Semi-Lock,Semi-Lock
+Server Browser,,Server Browser,Server Browser
+Server IP,,Server IP,Server IP
+Server Name,,Server Name,Server Name
+Server Password,,Server Password,Server Password
+Server Type,,Server Type,Server Type
+Set Camera 0,,Set Camera 0,Set Camera 0
+Set UI Visibility,,Set UI Visibility,Set UI Visibility
+Sets the Radius,,Sets the Radius,Sets the Radius
+Shadow Quality,,Shadow Quality,Shadow Quality
+Shadow Technique,,Shadow Technique,Shadow Technique
+Shadow rendering technique. PCF is the Unity default. PCSS is a more computationally expensive technique that produces more realistic shadows.,,Shadow rendering technique. PCF is the Unity default. PCSS is a more computationally expensive technique that produces more realistic shadows.,Shadow rendering technique. PCF is the Unity default. PCSS is a more computationally expensive technique that produces more realistic shadows.
+Shadows,,Shadows,Shadows
+Sharpen,,Sharpen,Sharpen
+Shift,,Shift,Shift
+Should player hands hold objects?,,Should player hands hold objects?,Should player hands hold objects?
+Should the hidden area be semi-transparent when hiding?,,Should the hidden area be semi-transparent when hiding?,Should the hidden area be semi-transparent when hiding?
+Should the object cast shadows? It's a good idea to disable this for ceiling objects.,,Should the object cast shadows? It's a good idea to disable this for ceiling objects.,Should the object cast shadows? It's a good idea to disable this for ceiling objects.
+Should the object snap to any grid points?,,Should the object snap to any grid points?,Should the object snap to any grid points?
+Should the object snap to any snap points?,,Should the object snap to any snap points?,Should the object snap to any snap points?
+Should the object survive loading between saves and mods?,,Should the object survive loading between saves and mods?,Should the object survive loading between saves and mods?
+Should this object go into player hands?,,Should this object go into player hands?,Should this object go into player hands?
+Should this object receive grid lines projected onto it?,,Should this object receive grid lines projected onto it?,Should this object receive grid lines projected onto it?
+Show For Grid,,Show For Grid,Show For Grid
+Show For Snap Points,,Show For Snap Points,Show For Snap Points
+Show Hand,,Show Hand,Show Hand
+Show Lines,,Show Lines,Show Lines
+Show When Not Snapping,,Show When Not Snapping,Show When Not Snapping
+Show floating Steam Avatars where the player is seated.,,Show floating Steam Avatars where the player is seated.,Show floating Steam Avatars where the player is seated.
+Show hand to all players.,,Show hand to all players.,Show hand to all players.
+Show hand to blue.,,Show hand to blue.,Show hand to blue.
+Show hand to brown.,,Show hand to brown.,Show hand to brown.
+Show hand to chosen player.,,Show hand to chosen player.,Show hand to chosen player.
+Show hand to green.,,Show hand to green.,Show hand to green.
+Show hand to orange.,,Show hand to orange.,Show hand to orange.
+Show hand to pink.,,Show hand to pink.,Show hand to pink.
+Show hand to purple.,,Show hand to purple.,Show hand to purple.
+Show hand to red.,,Show hand to red.,Show hand to red.
+Show hand to teal.,,Show hand to teal.,Show hand to teal.
+Show hand to white.,,Show hand to white.,Show hand to white.
+Show hand to yellow.,,Show hand to yellow.,Show hand to yellow.
+Show only servers that your friends are in.,,Show only servers that your friends are in.,Show only servers that your friends are in.
+Show-Hide Note,,Show/Hide Note,Show/Hide Note
+Showing Hand,,Showing Hand,Showing Hand
+Shuffle,,Shuffle,Shuffle
+Sideways,,Sideways,Sideways
+Silver 500,,Silver 500,Silver 500
+Singleplayer,,Singleplayer,Singleplayer
+Size,,Size,Size
+Size Of Collapsed Section,,Size Of Collapsed Section,Size Of Collapsed Section
+Size of the UI.,,Size of the UI.,Size of the UI.
+"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).",,"Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5).","Size of the play area, includes the size of the invisible walls and camera zoom (Default = 0.5)."
+Skeleton Knight,,Skeleton Knight,Skeleton Knight
+Skip Empty Hands,,Skip Empty Hands,Skip Empty Hands
+Skip to the next audioclip?,,Skip to the next audioclip?,Skip to the next audioclip?
+Skip to the start or previous audioclip?,,Skip to the start or previous audioclip?,Skip to the start or previous audioclip?
+Skips players who have nothing in their hands.,,Skips players who have nothing in their hands.,Skips players who have nothing in their hands.
+Sky,,Sky,Sky
+Smooths the edges of objects to reduce jaggies. Costly performance.,,Smooths the edges of objects to reduce jaggies. Costly performance.,Smooths the edges of objects to reduce jaggies. Costly performance.
+"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)",,"Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)","Smooths the edges of objects to reduce jaggies. Less costly than MSAA, but will slightly blur textures. (Post Processing SMAA)"
+Snap,,Snap,Snap
+Snap Point Creation Tags,,Snap Point Creation Tags,Snap Point Creation Tags
+Snap Point Tags,,Snap Point Tags,Snap Point Tags
+Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,,Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.,Snap points are just basic snap points so the object snaps into place like a magnet. Delete a snap point by clicking on it.
+Snapping,,Snapping,Snapping
+Solitaire,,Solitaire,Solitaire
+Solve,,Solve,Solve
+Sort,,Sort,Sort
+Sort Existing,,Sort Existing,Sort Existing
+Sort Games:,,Sort Games:,Sort Games:
+Sounds,,Sounds,Sounds
+Space,,Space,Space
+Spades,,Spades,Spades
+Spawn,,Spawn,Spawn
+Spawn In Air,,Spawn In Air,Spawn In Air
+Spawn Snap-To-Object,,Spawn Snap-To-Object,Spawn Snap-To-Object
+Spawning Hides Components,,Spawning Hides Components,Spawning Hides Components
+Special Thanks,,Special Thanks,Special Thanks
+Specular Color,,Specular Color,Specular Color
+Specular Intensity,,Specular Intensity,Specular Intensity
+Specular Sharpness,,Specular Sharpness,Specular Sharpness
+Split,,Split,Split
+Split the deck into multiple stacks.,,Split the deck into multiple stacks.,Split the deck into multiple stacks.
+Spread,,Spread,Spread
+Spread cards out on table.,,Spread cards out on table.,Spread cards out on table.
+Spring,,Spring,Spring
+Spring Joint,,Spring Joint,Spring Joint
+Square,,Square,Square
+Stackable,,Stackable,Stackable
+Stacks like poker chips.,,Stacks like poker chips.,Stacks like poker chips.
+Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),,Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack),Stacks like poker chips. (Note: custom collider will only determine the thickness of the stack)
+Stand Up,,Stand Up,Stand Up
+Standard Deck,,Standard Deck,Standard Deck
+Start,,Start,Start
+State,,State,State
+Static,,Static,Static
+Static Friction,,Static Friction,Static Friction
+Stationary grid drawn in world space.,,Stationary grid drawn in world space.,Stationary grid drawn in world space.
+Stats Monitor,,Stats Monitor,Stats Monitor
+Steam ID,,Steam ID,Steam ID
+Sticky,,Sticky,Sticky
+Sticky Cards,,Sticky Cards,Sticky Cards
+Sticky Grab,,Sticky Grab,Sticky Grab
+StickyCardsTooltip,,"When picked up, cards above the grabbed card will also be lifted.","When picked up, cards above the grabbed card will also be lifted."
+Stop Looking For Players,,Stop Looking For Players,Stop Looking For Players
+Stop Search,,Stop Search,Stop Search
+Stop showing hand.,,Stop showing hand.,Stop showing hand.
+Stopwatch,,Stopwatch,Stopwatch
+Store,,Store,Store
+Store mod data on disk to speed up mod loading.,,Store mod data on disk to speed up mod loading.,Store mod data on disk to speed up mod loading.
+Straighten self upright when picked up.,,Straighten self upright when picked up.,Straighten self upright when picked up.
+Strategy Games,,Strategy Games,Strategy Games
+"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.",,"Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte.","Strength of the reflectiveness of the object. Higher = Shiny, Lower = Matte."
+Stretch to Aspect Ratio,,Stretch to Aspect Ratio,Stretch to Aspect Ratio
+Style,,Style,Style
+Suns,,Suns,Suns
+Suns Coin 2,,Suns Coin 2,Suns Coin 2
+Suns Coin 3,,Suns Coin 3,Suns Coin 3
+Suns Coin 4,,Suns Coin 4,Suns Coin 4
+Suns Coin 5,,Suns Coin 5,Suns Coin 5
+Suns Coin Ace,,Suns Coin Ace,Suns Coin Ace
+Suns Coin Blank,,Suns Coin Blank,Suns Coin Blank
+Suns Dice,,Suns Dice,Suns Dice
+Suns Square 2,,Suns Square 2,Suns Square 2
+Suns Square 3,,Suns Square 3,Suns Square 3
+Suns Square 4,,Suns Square 4,Suns Square 4
+Suns Square 5,,Suns Square 5,Suns Square 5
+Suns Square Ace,,Suns Square Ace,Suns Square Ace
+Suns Square Blank,,Suns Square Blank,Suns Square Blank
+Sunset,,Sunset,Sunset
+Sync Axis,,Sync Axis,Sync Axis
+System,,System,System
+System Console,,System Console,System Console
+TABLES,,Tables,Tables
+TEAMS,,Teams,Teams
+TEXT_ALIGNMENT,,Text Alignment,Text Alignment
+TIPS & HINTS,,Tips & Hints,Tips & Hints
+TRANSFORM,,Transform,Transform
+TTS-PaperUI-Atlas,,TTS-PaperUI-Atlas,TTS-PaperUI-Atlas
+Tab,,Tab,Tab
+Tab1,,Tab1,Tab1
+Table,,Table,Table
+Table Flip,,Table Flip,Table Flip
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".","Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool""."
+"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the Hands Zone Tool .",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players.
+ Seats can be customized using the ""Hands Zone Tool"". 
+  <Click to open page to knowledge base.>","Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players.
+ Seats can be customized using the ""Hands Zone Tool"". 
+  <Click to open page to knowledge base.>"
+Tablet,,Tablet,Tablet
+Tabletop Simulator VR Beta,,Tabletop Simulator VR Beta,Tabletop Simulator VR Beta
+Tags,,Tags,Tags
+"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.",,"Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas.","Tags can be used to refine whether components interact with certain game systems (for example, Snap Points). Once you have defined a tag here it becomes available to use in those areas."
+Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,,Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.,Tags change how components interact with game systems. If a system has any tags set then only components which have a matching tag will interact with it.
+Takes effect when playing,,Takes effect when playing,Takes effect when playing
+Taking Item Closes Search,,Taking Item Closes Search,Taking Item Closes Search
+Talk to other people via voice.,,Talk to other people via voice.,Talk to other people via voice.
+Tap,,Tap,Tap
+Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,,Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.,Tap to bring out the Ping Arrow to point where something should go. Hold and drag your mouse to use the Line Tool.
+Teal,,Teal,Teal
+Team,,Team,Team
+Team Voice Chat,,Team Voice Chat,Team Voice Chat
+Templates,,Templates,Templates
+Text,,Text,Text
+Text Chat,,Text Chat,Text Chat
+The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,,The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.,The Cloud Manager is the location of files you have uploaded to the Cloud. Click on a file to copy the link URL. Click the triple dot icon for more options. You can also import files into the cloud by clicking the file icon on the top left.
+The Complexity of the game you are playing (Used to search for games).,,The Complexity of the game you are playing (Used to search for games).,The Complexity of the game you are playing (Used to search for games).
+The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,,The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.,The Contextual Menu brings up a menu with many different and varying options depending on the object you clicked on.
+The Direction of the axis around which the body is constrained.,,The Direction of the axis around which the body is constrained.,The Direction of the axis around which the body is constrained.
+The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,,The Global Contextual Menu is where you can use the Camera Saves & Blindfold.,The Global Contextual Menu is where you can use the Camera Saves & Blindfold.
+"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.",,"The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects.","The Objects menu is where you can spawn all the different kinds of Objects in the games like Components, Tables, Backgrounds, and Saved Objects."
+The Position of the anchor around which the joints motion is constrained.,,The Position of the anchor around which the joints motion is constrained.,The Position of the anchor around which the joints motion is constrained.
+"The back deck image. Upload your image to a web host, then copy paste the direct link here.",,"The back deck image. Upload your image to a web host, then copy paste the direct link here.","The back deck image. Upload your image to a web host, then copy paste the direct link here."
+"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.",,"The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects.","The backgrounds not only provide the backdrop while you re playing, but are the main light sources. Custom backgrounds will give you different scenes, but you can only choose one of the included light effects."
+"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.","The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing. The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together."
+The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,,The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.,The components menu is where you can spawn basic objects. You can click to spawn or drag and drop.
+The damper force used to dampen the spring force.,,The damper force used to dampen the spring force.,The damper force used to dampen the spring force.
+The force that needs to be applied for this joint to break.,,The force that needs to be applied for this joint to break.,The force that needs to be applied for this joint to break.
+"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.",,"The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object.","The friction used when already moving. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it come to rest very quickly unless a lot of force or gravity pushes the object."
+"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.",,"The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving.","The friction used when an object is laying still on a surface. Usually a value from 0 to 1. A value of zero feels like ice, a value of 1 will make it very hard to get the object moving."
+The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,,The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.,The global chat is moderated to keep it family friendly. You can read the full list of rules on our website.
+"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.",,"The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid.","The grid can be used when you need to have proper placement in your games. You can choose from either a box or hex grid, enable object snapping, change the size and shape of the grid, and also change the position of the grid."
+The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,,The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.,The grid will be projected onto the surface of the table or any object that has grid projection turned on in it's toggle menu.
+"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).",,"The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only).","The line tool can be used for basic measuring, or click it to ping the area. You may hold the line tool key (default: TAB) to activate this while in other modes. Doing so while holding an object will measure from the pickup point (Auto mode only)."
+The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,,The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.,The mass of the object (arbitrary units). You should not make masses more or less than 100 times that of other Rigidbodies.
+The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,,The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.,The material the object is made out of. Affects the sounds and shader of the object. You can control the shader below.
+The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,,The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.,The material the object is made out of. Affects the sounds that object makes. These sounds can be overriden using the TTSAssetBundleSound script.
+The max number of players in the server.,,The max number of players in the server.,The max number of players in the server.
+The maximum distance between the bodies relative to their initial distance.,,The maximum distance between the bodies relative to their initial distance.,The maximum distance between the bodies relative to their initial distance.
+The minimum distance between the bodies relative to their initial distance.,,The minimum distance between the bodies relative to their initial distance.,The minimum distance between the bodies relative to their initial distance.
+"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.",,"The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing.","The most reduced physics mode. Objects that are at rest will no longer interact with other objects. No throwing, clumping, lowering, or pushing."
+The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,,The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.,The motor will apply a force up to a maximum force to achieve the velocity in degrees per second.
+The name for the server.,,The name for the server.,The name for the server.
+The name of the asset.,,The name of the asset.,The name of the asset.
+The name of the audio asset.,,The name of the audio asset.,The name of the audio asset.
+The name of the decal.,,The name of the decal.,The name of the decal.
+The number of pixels the game uses to render. Recommended to be the same as your monitor.,,The number of pixels the game uses to render. Recommended to be the same as your monitor.,The number of pixels the game uses to render. Recommended to be the same as your monitor.
+The object will stretch to match the aspect ratio of the supplied image.,,The object will stretch to match the aspect ratio of the supplied image.,The object will stretch to match the aspect ratio of the supplied image.
+The password for the server. Only usable for public servers.,,The password for the server. Only usable for public servers.,The password for the server. Only usable for public servers.
+The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.
+"The quality, filtering, and distance of shadows. Also affects the lighting quality.",,"The quality, filtering, and distance of shadows. Also affects the lighting quality.","The quality, filtering, and distance of shadows. Also affects the lighting quality."
+"The reflective color of the object. RGB 255, 255, 255.",,"The reflective color of the object. RGB 255, 255, 255.","The reflective color of the object. RGB 255, 255, 255."
+The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,,The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.,The saved objects menu is where you can saved and spawn any of your custom objects. You can click to spawn or drag and drop.
+The size of the decal in inches.,,The size of the decal in inches.,The size of the decal in inches.
+The spring force used to keep the two objects together.,,The spring force used to keep the two objects together.,The spring force used to keep the two objects together.
+The text tool can be used to write text on any locked object. You can change the size of the font and the color.,,The text tool can be used to write text on any locked object. You can change the size of the font and the color.,The text tool can be used to write text on any locked object. You can change the size of the font and the color.
+The thickness or depth of the mesh.,,The thickness or depth of the mesh.,The thickness or depth of the mesh.
+The torque that needs to be applied for this joint to break.,,The torque that needs to be applied for this joint to break.,The torque that needs to be applied for this joint to break.
+The type of the game you are playing (Used to search for games).,,The type of the game you are playing (Used to search for games).,The type of the game you are playing (Used to search for games).
+The zone tool is a collection of tools that deal with rectangle areas.,,The zone tool is a collection of tools that deal with rectangle areas.,The zone tool is a collection of tools that deal with rectangle areas.
+Thematic Games,,Thematic Games,Thematic Games
+Theme,,Theme,Theme
+Theme Editor,,Theme Editor,Theme Editor
+Theme:,,Theme:,Theme:
+Theme: {0},,Theme: {0},Theme: {0}
+"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.",,"There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base.","There are a lot of tips, tricks and tutorials that can really enchance your gameplay and prototyping in our Knowledge Base."
+There tags are used to filter your games.,,There tags are used to filter your games.,There tags are used to filter your games.
+Theses backgrounds provide the different lighting effects on the objects.,,Theses backgrounds provide the different lighting effects on the objects.,Theses backgrounds provide the different lighting effects on the objects.
+Thick,,Thick,Thick
+Thickness,,Thickness,Thickness
+Thief,,Thief,Thief
+Thin,,Thin,Thin
+This Menu,,This Menu,This Menu
+This determines how objects are hidden in hands.,,This determines how objects are hidden in hands.,This determines how objects are hidden in hands.
+"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.",,"This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more.","This is an advanced feature that gives you more control on how multiple objects work together. You can create moving wheels, spinners, and much more."
+This is an advanced feature which gives you control on the physics and materials of objects.,,This is an advanced feature which gives you control on the physics and materials of objects.,This is an advanced feature which gives you control on the physics and materials of objects.
+This is tags used to search in the Steam Workshop.,,This is tags used to search in the Steam Workshop.,This is tags used to search in the Steam Workshop.
+This is the amount of time the current game takes (Used to search for games).,,This is the amount of time the current game takes (Used to search for games).,This is the amount of time the current game takes (Used to search for games).
+This is the number of players the current game allows (different from the max number of players allowed on the server).,,This is the number of players the current game allows (different from the max number of players allowed on the server).,This is the number of players the current game allows (different from the max number of players allowed on the server).
+This menu is used to update an existing mod on the Workshop.,,This menu is used to update an existing mod on the Workshop.,This menu is used to update an existing mod on the Workshop.
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.","This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod."
+"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the Update Workshop tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.  <Click to open page to knowledge base.>","This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.  <Click to open page to knowledge base.>"
+This object will hold one object inside with an infinite number of them.,,This object will hold one object inside with an infinite number of them.,This object will hold one object inside with an infinite number of them.
+This object will hold others inside.,,This object will hold others inside.,This object will hold others inside.
+This only takes effect if you are using the gradient mode above.,,This only takes effect if you are using the gradient mode above.,This only takes effect if you are using the gradient mode above.
+"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.",,"This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown.","This switches you between 3 different camera modes: 3rd Person (Default), 1st Person & Topdown."
+Tile,,Tile,Tile
+Tileset,,Tileset,Tileset
+Tilt Angle,,Tilt Angle,Tilt Angle
+Tilt Mode,,Tilt Mode,Tilt Mode
+Time to move those feet!,,Time to move those feet!,Time to move those feet!
+Timer,,Timer,Timer
+Timer Seconds,,Timer Seconds,Timer Seconds
+Timestamp Game,,Timestamp Game,Timestamp Game
+Timestamp Global,,Timestamp Global,Timestamp Global
+Timestamp System,,Timestamp System,Timestamp System
+Timestamp Team,,Timestamp Team,Timestamp Team
+Timestamps,,Timestamps,Timestamps
+Title,,Title,Title
+"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.",,"To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them.","To select more than one object, hold and press the left mouse button over each object you want to select. Alternatively, you can drag a box around multiple objects to select them."
+"To use double digits, just type them quickly. There is a slight delay before the dice changes.",,"To use double digits, just type them quickly. There is a slight delay before the dice changes.","To use double digits, just type them quickly. There is a slight delay before the dice changes."
+Toggle,,Toggle,Toggle
+Toggle Lua scripting on or off.,,Toggle Lua scripting on or off.,Toggle Lua scripting on or off.
+Toggle between a thin or thick line.,,Toggle between a thin or thick line.,Toggle between a thin or thick line.
+Toggle between using the ambient light of the selected background or the gradient colors below.,,Toggle between using the ambient light of the selected background or the gradient colors below.,Toggle between using the ambient light of the selected background or the gradient colors below.
+Toggle between window or fullscreen.,,Toggle between window or fullscreen.,Toggle between window or fullscreen.
+Toggle revealing of Fog of War by this piece.,,Toggle revealing of Fog of War by this piece.,Toggle revealing of Fog of War by this piece.
+Toggles,,Toggles,Toggles
+Token,,Token,Token
+Tool,,Tool,Tool
+Tool Icon Colored,,Tool Icon Colored,Tool Icon Colored
+Tools,,Tools,Tools
+Tooltip,,Tooltip,Tooltip
+Tooltips Action Enabled,,Tooltips Action Enabled,Tooltips Action Enabled
+Tooltips Always On,,Tooltips Always On,Tooltips Always On
+Tooltips Initial Duration,,Tooltips Initial Duration,Tooltips Initial Duration
+Top Down,,Top Down,Top Down
+Top Image,,Top Image,Top Image
+Top Menu,,Top Menu,Top Menu
+Touch,,Touch,Touch
+Touch (Pad Down) on a controller while hovering over an object (with either controller).,,Touch <Pad Down> on a controller while hovering over an object (with either controller).,Touch <Pad Down> on a controller while hovering over an object (with either controller).
+Trading Card Games,,Trading Card Games,Trading Card Games
+Transform Space,,Transform Space,Transform Space
+Tree,,Tree,Tree
+Tree Ent,,Tree Ent,Tree Ent
+Trigger Effect,,Trigger Effect,Trigger Effect
+Troll,,Troll,Troll
+Tunnel,,Tunnel,Tunnel
+Turn (Click to skip),,Turn (Click to skip),Turn (Click to skip)
+Turns,,Turns,Turns
+Turns allow an easy way to keep track of who should be playing.,,Turns allow an easy way to keep track of who should be playing.,Turns allow an easy way to keep track of who should be playing.
+Tutorial,,Tutorial,Tutorial
+Tutorial Test Font,,Tutorial Test Font,Tutorial Test Font
+Type,,Type,Type
+Type determines the shape of the cards.,,Type determines the shape of the cards.,Type determines the shape of the cards.
+Type help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,,Type /help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.,Type /help in both the GLOBAL and GAME tabs to bring up all the chat commands for each tab.
+Type of server you want to have. This limits who can join.,,Type of server you want to have. This limits who can join.,Type of server you want to have. This limits who can join.
+UI Mode,,UI Mode,UI Mode
+UI Scale,,UI Scale,UI Scale
+UI Tooltip Delay,,UI Tooltip Delay,UI Tooltip Delay
+UPDATE,,Update,Update
+UPLOAD_MUSIC,,Upload Music,Upload Music
+UPLOAD_MUSIC_FOLDER,,Upload Music Folder,Upload Music Folder
+UP_THEN_LEFT,,Up / Left,Up / Left
+UP_THEN_RIGHT,,Up / Right,Up / Right
+URL,,URL,URL
+USE_GIZMO_FOR_GRID,,Use Gizmo Tool to align grid: select a component to center grid on it.  ctrl-click a second component to align grid size.,Use Gizmo Tool to align grid: select a component to center grid on it.  ctrl-click a second component to align grid size.
+Ultra,,Ultra,Ultra
+Under,,Under,Under
+Unique Backs,,Unique Backs,Unique Backs
+Units,,Units,Units
+Unknown Title,,Unknown Title,Unknown Title
+Up,,Up,Up
+Update Existing Mod,,Update Existing Mod,Update Existing Mod
+Update Workshop,,Update Workshop,Update Workshop
+Updated,,Updated,Updated
+Upload,,Upload,Upload
+Upload All Loaded Files,,Upload All Loaded Files,Upload All Loaded Files
+Upload File,,Upload File,Upload File
+Upload Local File,,Upload Local File,Upload Local File
+Upload Workshop,,Upload Workshop,Upload Workshop
+"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.","Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache."
+Upload all loaded custom files to the Steam Cloud?,,Upload all loaded custom files to the Steam Cloud?,Upload all loaded custom files to the Steam Cloud?
+Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),,Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer)
+"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material support, animations, sounds, lights, particles, and much more.",,"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.","Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more."
+"Upload your PDF File to a web host, then copy paste the direct link here.",,"Upload your PDF File to a web host, then copy paste the direct link here.","Upload your PDF File to a web host, then copy paste the direct link here."
+"Upload your audio to a web host, then copy paste the direct link here.",,"Upload your audio to a web host, then copy paste the direct link here.","Upload your audio to a web host, then copy paste the direct link here."
+"Upload your image to a web host, then copy paste the direct link here.",,"Upload your image to a web host, then copy paste the direct link here.","Upload your image to a web host, then copy paste the direct link here."
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG.","Upload your image to a web host, then copy paste the direct link here. JPG or PNG."
+"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)",,"Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)","Upload your image to a web host, then copy paste the direct link here. JPG or PNG. (256x16)"
+"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.",,"Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended.","Upload your image to a web host, then copy paste the direct link here. PNG with transparency recommended."
+"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.",,"Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated.","Upload your model to a web host, then copy paste the direct link here. Make sure it's triangulated."
+Use (Dpad) to pan the camera around.,,Use <Dpad> to pan the camera around.,Use <Dpad> to pan the camera around.
+Use (Right Trigger) or (Left Trigger) while holding an object.,,Use <Right Trigger> or <Left Trigger> while holding an object.,Use <Right Trigger> or <Left Trigger> while holding an object.
+Use (WASD) to pan the camera around.,,Use <WASD> to pan the camera around.,Use <WASD> to pan the camera around.
+Use ({0}) on an object to bring it up.,,Use <{0}> on an object to bring it up.,Use <{0}> on an object to bring it up.
+Use Gravity,,Use Gravity,Use Gravity
+Use a two finger rotate gesture on an object.,,Use a two finger rotate gesture on an object.,Use a two finger rotate gesture on an object.
+Use for main object movement like grabbing and flipping when playing a game.,,Use for main object movement like grabbing and flipping when playing a game.,Use for main object movement like grabbing and flipping when playing a game.
+Use high resolution HDRI Panorama. ((4000x2000),,Use high resolution HDRI Panorama. (<4000x2000),Use high resolution HDRI Panorama. (<4000x2000)
+Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,,Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.,Use multiple cores of your CPU to load mods faster. If you are unable to load any mods try turning this off.
+Use pinch to zoom in and out.,,Use pinch to zoom in and out.,Use pinch to zoom in and out.
+"Use the Gizmo to manipulate an object's position, rotation, and scale.",,"Use the Gizmo to manipulate an object's position, rotation, and scale.","Use the Gizmo to manipulate an object's position, rotation, and scale."
+Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,,Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.,Use the pixel paint tool for a more cartoony and pixelated look. Hold shift to draw straight lines.
+Use the scroll wheel to zoom in and out.,,Use the scroll wheel to zoom in and out.,Use the scroll wheel to zoom in and out.
+Use this to supply custom value to dice or tile sides.,,Use this to supply custom value to dice or tile sides.,Use this to supply custom value to dice or tile sides.
+Use to move an object in space. Snap move. Screen space translation.,,Use to move an object in space. Snap move. Screen space translation.,Use to move an object in space. Snap move. Screen space translation.
+Use to rotate an object. Snap rotate.,,Use to rotate an object. Snap rotate.,Use to rotate an object. Snap rotate.
+Use to scale an object by stretching its sides. Snap scaling. Scale from center.,,Use to scale an object by stretching its sides. Snap scaling. Scale from center.,Use to scale an object by stretching its sides. Snap scaling. Scale from center.
+Use to scale an object. Snap scaling. Uniform scale.,,Use to scale an object. Snap scaling. Uniform scale.,Use to scale an object. Snap scaling. Uniform scale.
+Use two fingers in a dragging motion.,,Use two fingers in a dragging motion.,Use two fingers in a dragging motion.
+Use your (Right Stick).,,Use your <Right Stick>.,Use your <Right Stick>.
+User Interfaces,,User Interfaces,User Interfaces
+Utility,,Utility,Utility
+VR Settings,,VR Settings,VR Settings
+VR Settings...,,VR Settings...,VR Settings...
+VSync,,VSync,VSync
+Value,,Value,Value
+Vampire,,Vampire,Vampire
+Velocity,,Velocity,Velocity
+Vertical,,Vertical,Vertical
+Very High,,Very High,Very High
+Very Low,,Very Low,Very Low
+Villains,,Villains,Villains
+Virtual Hand View,,Virtual Hand View,Virtual Hand View
+Visibility,,Visibility,Visibility
+Visible,,Visible,Visible
+Visual Mode,,Visual Mode,Visual Mode
+Visualize Field of View.,,Visualize Field of View.,Visualize Field of View.
+Visualize FoV,,Visualize FoV,Visualize FoV
+Voice Chat,,Voice Chat,Voice Chat
+Voice Chat Toggle,,Voice Chat Toggle,Voice Chat Toggle
+Voice From Player Position,,Voice From Player Position,Voice From Player Position
+Voice Input,,Voice Input,Voice Input
+Voice Output,,Voice Output,Voice Output
+Voice Team Chat,,Voice Team Chat,Voice Team Chat
+Volume Scale,,Volume Scale,Volume Scale
+WESTWARD,,Westward,Westward
+WORKSHOP,,Workshop,Workshop
+Waiting for players,,Waiting for players,Waiting for players
+Wall,,Wall,Wall
+"Want more actions? The contextual menu has all sorts of options. You can deal cards, name objects, color tint, and much more!",,"Want more actions? The contextual menu has all sorts of options.
+You can deal cards, name objects, color tint, and much more!","Want more actions? The contextual menu has all sorts of options.
+You can deal cards, name objects, color tint, and much more!"
+Wargames,,Wargames,Wargames
+Warrior,,Warrior,Warrior
+We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,,We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?,We could not find this Workshop item. It was likely deleted. Do you want to unsubscribe from the following Workshop item?
+Website URL,,Website URL,Website URL
+Welcome to the tutorial!,,Welcome to the tutorial!,Welcome to the tutorial!
+Werewolf,,Werewolf,Werewolf
+When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,,When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.,When Unrestricted will show the view you see. When Restricted will show the view a Grey spectator would see.
+When held object will automatically raise above other potential collisions and ignore collisions when held.,,When held object will automatically raise above other potential collisions and ignore collisions when held.,When held object will automatically raise above other potential collisions and ignore collisions when held.
+When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,,When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.,When holding an object press plus & to rotate along the other axis. You can also use + your mouse scroll wheel.
+When hovering over an object do you want to hightlight it?,,When hovering over an object do you want to hightlight it?,When hovering over an object do you want to hightlight it?
+"When hovering over tooltips will appear for this object (Name, Description, Icon).",,"When hovering over tooltips will appear for this object (Name, Description, Icon).","When hovering over tooltips will appear for this object (Name, Description, Icon)."
+When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,,When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.,When in 2D measurements will be flattened onto the horizontal plane. When in 3D height will be incorporated into the measurement.
+When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,,When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center,When measuring from an object: Edge: Measure from its nearest edge Center: Measure from its center
+When object is face down it will be hidden as a question mark.,,When object is face down it will be hidden as a question mark.,When object is face down it will be hidden as a question mark.
+When object is inside fog of war it will remain visible.,,When object is inside fog of war it will remain visible.,When object is inside fog of war it will remain visible.
+"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.",,"When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap.","When objects are dropped, they snap to the closest position on the grid. Objects must have grid enabled on their toggle menu to snap."
+When picked up objects above this one will be attached to it.,,When picked up objects above this one will be attached to it.,When picked up objects above this one will be attached to it.
+When rotating objects this is the degrees by which they will spin.,,When rotating objects this is the degrees by which they will spin.,When rotating objects this is the degrees by which they will spin.
+Whether to log all players' measurements to the chat window.,,Whether to log all players' measurements to the chat window.,Whether to log all players' measurements to the chat window.
+Whether to measure in Imperial (inches) or Metric (cm),,Whether to measure in Imperial (inches) or Metric (cm),Whether to measure in Imperial (inches) or Metric (cm)
+"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.",,"While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack.","While holding a group of objects, hold and press the right mouse button to drop the last item grabbed. This will also drop the bottom card of a deck or an item from a stack."
+"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.",,"While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button.","While holding an object, press plus to flip on the other axis. You can also use + the middle mouse button."
+"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.",,"While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object.","While holding over a card or object, press to see the backside. Players will be notified when someone is peeking with an eye icon over the object."
+While holding the deck shake it with your finger.,,While holding the deck shake it with your finger.,While holding the deck shake it with your finger.
+While holding the deck shake your hand.,,While holding the deck shake your hand.,While holding the deck shake your hand.
+While holding the deck shake your mouse.,,While holding the deck shake your mouse.,While holding the deck shake your mouse.
+While holding the deck shake your pointer.,,While holding the deck shake your pointer.,While holding the deck shake your pointer.
+While holding the die shake it with your finger.,,While holding the die shake it with your finger.,While holding the die shake it with your finger.
+While holding the die shake your mouse.,,While holding the die shake your mouse.,While holding the die shake your mouse.
+While holding the die shake your pointer.,,While holding the die shake your pointer.,While holding the die shake your pointer.
+While in VR,,While in VR,While in VR
+White,,White,White
+White Backgammon,,White Backgammon,White Backgammon
+White Bowl,,White Bowl,White Bowl
+White Piece,,White Piece,White Piece
+Width,,Width,Width
+"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.",,"With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others.","With the flick tool selected, grab and object and pull. Your pointer will change to the flick pointer. Let go to flick the object. This is useful for games like pool, golf, shuffle board and many others."
+Wolf,,Wolf,Wolf
+Wonderful spinning! Let's pick up more than one object.,,Wonderful spinning! Let's pick up more than one object.,Wonderful spinning! Let's pick up more than one object.
+Wood,,Wood,Wood
+Workshop Description:,,Workshop Description:,Workshop Description:
+Workshop ID:,,Workshop ID:,Workshop ID:
+Workshop Tags,,Workshop Tags,Workshop Tags
+Workshop Tags:,,Workshop Tags:,Workshop Tags:
+Workshop Thumbnail URL:,,Workshop Thumbnail URL:,Workshop Thumbnail URL:
+Workshop Title:,,Workshop Title:,Workshop Title:
+Workshop Upload,,Workshop Upload,Workshop Upload
+Workshop is where all the mods you subscribed to from the Steam Workshop is located.,,Workshop is where all the mods you subscribed to from the Steam Workshop is located.,Workshop is where all the mods you subscribed to from the Steam Workshop is located.
+WorkshopTitle,,Workshop Title,Workshop Title
+Would you like to play the quick Tutorial?,,Would you like to play the quick Tutorial?,Would you like to play the quick Tutorial?
+Wyvern,,Wyvern,Wyvern
+Yellow,,Yellow,Yellow
+Yes,,Yes,Yes
+You are a natural! Now let's roll some dice.,,You are a natural! Now let's roll some dice.,You are a natural! Now let's roll some dice.
+You can adjust the lighting to give directional sun light and ambient light.,,You can adjust the lighting to give directional sun light and ambient light.,You can adjust the lighting to give directional sun light and ambient light.
+You can also grab more than one object by (Left Click) dragging a box selection.,,"You can also grab more than one object by
+<Left Click> dragging a box selection.","You can also grab more than one object by
+<Left Click> dragging a box selection."
+You can also grab more than one object by (Right Bumper) dragging a box selection.,,"You can also grab more than one object by
+<Right Bumper> dragging a box selection.","You can also grab more than one object by
+<Right Bumper> dragging a box selection."
+You can also hide individual parts of the UI in the Configuration UI menu.,,You can also hide individual parts of the UI in the Configuration/UI menu.,You can also hide individual parts of the UI in the Configuration/UI menu.
+You can change the permissions for other players. These are global settings that persist between saves.,,You can change the permissions for other players. These are global settings that persist between saves.,You can change the permissions for other players. These are global settings that persist between saves.
+You can change the physic mode of the game and update the gravity and room size per game.,,You can change the physic mode of the game and update the gravity and room size per game.,You can change the physic mode of the game and update the gravity and room size per game.
+You can change the tags of the game used to search in-game and in the Steam Workshop.,,You can change the tags of the game used to search in-game and in the Steam Workshop.,You can change the tags of the game used to search in-game and in the Steam Workshop.
+You can grab more than one object by ({0}) dragging a box selection.,,"You can grab more than one object by
+<{0}> dragging a box selection.","You can grab more than one object by
+<{0}> dragging a box selection."
+You can grab more than one object by Long pressing on multiple objects in a row.,,"You can grab more than one object by
+Long pressing on multiple objects in a row.","You can grab more than one object by
+Long pressing on multiple objects in a row."
+"You can update the server name, password and max players in real time.",,"You can update the server name, password and max players in real time.","You can update the server name, password and max players in real time."
+You can use the (Right Trigger) and (Left Trigger) to zoom in and out.,,You can use the <Right Trigger> and <Left Trigger> to zoom in and out.,You can use the <Right Trigger> and <Left Trigger> to zoom in and out.
+You can use the (Scroll Wheel) or (Z) to toggle zoom.,,You can use the <Scroll Wheel> or <Z> to toggle zoom.,You can use the <Scroll Wheel> or <Z> to toggle zoom.
+"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .",,"You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + .","You can use the scroll wheel to zoom in and out and and to rotate the zoomed object. This only works on objects. To view boards, tables, etc, use the Magnify control under the Advanced section. To view the other side of an object, hold + ."
+"You must be in a game to use this. In the GAME tab, type color message to talk to someone privately. For example: blue What should I do?",,"You must be in a game to use this. In the GAME tab, type /color message to talk to someone privately. For example: /blue What should I do?","You must be in a game to use this. In the GAME tab, type /color message to talk to someone privately. For example: /blue What should I do?"
+"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type msg name message. For example: msg Kimikat Hello!",,"You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type /msg name message. For example: /msg Kimikat Hello!","You must have IRC enabled in your chat settings. In the GLOBAL tab, you can private message anyone who is connected to global chat. Type /msg name message. For example: /msg Kimikat Hello!"
+"You still need to go to your workshop page, upload some screenshots, and make the mod public.",,"You still need to go to your workshop page, upload some screenshots, and make the mod public.","You still need to go to your workshop page, upload some screenshots, and make the mod public."
+You will need to flip it with (F) so it stacks. Then drop the card on the deck.,,"You will need to flip it with <F> so it stacks.
+Then drop the card on the deck.","You will need to flip it with <F> so it stacks.
+Then drop the card on the deck."
+You will need to flip it with (Pad Up) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <Pad Up> so it stacks.
+Then drop the card on top of the deck.","You will need to flip it with <Pad Up> so it stacks.
+Then drop the card on top of the deck."
+You will need to flip it with (X) so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with <X> so it stacks.
+Then drop the card on top of the deck.","You will need to flip it with <X> so it stacks.
+Then drop the card on top of the deck."
+You will need to flip it with double tap so it stacks. Then drop the card on top of the deck.,,"You will need to flip it with double tap so it stacks.
+Then drop the card on top of the deck.","You will need to flip it with double tap so it stacks.
+Then drop the card on top of the deck."
+Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),,Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod)
+Zone,,Zone,Zone
+Zones,,Zones,Zones
+Zoom,,Zoom,Zoom
+Zoom In,,Zoom In,Zoom In
+Zoom In - Rotate Right,,Zoom In / Rotate Right,Zoom In / Rotate Right
+Zoom Object,,Zoom Object,Zoom Object
+Zoom Object (Hold) - Contextual (Click),,Zoom Object (Hold) / Contextual (Click),Zoom Object (Hold) / Contextual (Click)
+Zoom Out,,Zoom Out,Zoom Out
+Zoom Out - Rotate Left,,Zoom Out / Rotate Left,Zoom Out / Rotate Left
+Zoom Toggle,,Zoom Toggle,Zoom Toggle
+Zoom in-out,,Zoom in/out,Zoom in/out
+Zoom time!,,Zoom time!,Zoom time!
+combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.","The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together."
+decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.","The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate."
+edgecenterlong,,"When measuring from an object:
+
+Edge: Measure from its nearest edge
+
+Center: Measure from its center","When measuring from an object:
+
+Edge: Measure from its nearest edge
+
+Center: Measure from its center"
+fixedjointlong,,"Joint that locks two objects in place without creating a parent child relationship like the Attach tool.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint that locks two objects in place without creating a parent child relationship like the Attach tool.
+Right click the jointed object and click Joint to bring up the new menu. "
+gizmoslong,,"Local: Gizmos are in selected object's rotation.
+Global: Gizmos are in global rotation.","Local: Gizmos are in selected object's rotation.
+Global: Gizmos are in global rotation."
+hingejointlong,,"Joint with door hinge like connection. Can even have motors.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint with door hinge like connection. Can even have motors.
+Right click the jointed object and click Joint to bring up the new menu. "
+linelong,,"The line tool can be used for basic measuring, or click it to ping the area.  
+
+You may hold the line tool key (default: TAB)  to activate this while in other modes.  Doing so while holding an object will measure from the pickup point (Auto mode only).  ","The line tool can be used for basic measuring, or click it to ping the area.  
+
+You may hold the line tool key (default: TAB)  to activate this while in other modes.  Doing so while holding an object will measure from the pickup point (Auto mode only).  "
+localized_language,Name of current language in that language,English,English
+movelong,,"Use to move an object in space.
+<Ctrl> Snap move.
+<Shift> Screen space translation.","Use to move an object in space.
+<Ctrl> Snap move.
+<Shift> Screen space translation."
+or,,or,or
+restrictunrestrictlong,,"When Unrestricted will show the view you see. 
+
+When Restricted will show the view a Grey spectator would see.","When Unrestricted will show the view you see. 
+
+When Restricted will show the view a Grey spectator would see."
+rotatelong,,"Use to rotate an object.
+<Ctrl> Snap rotate.","Use to rotate an object.
+<Ctrl> Snap rotate."
+rulerautofree,,"Auto: Measure from objects where appropriate.  When hovering, hold CTRL to use the pointer position instead.
+
+Free: Measure using only your pointer position.","Auto: Measure from objects where appropriate.  When hovering, hold CTRL to use the pointer position instead.
+
+Free: Measure using only your pointer position."
+scalelong,,"Use to scale an object.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","Use to scale an object.
+<Ctrl> Snap scaling.
+<Shift> Scale from center."
+springjointlong,,"Joint that works just like it sounds a spring.
+Right click the jointed object and click Joint to bring up the new menu. ","Joint that works just like it sounds a spring.
+Right click the jointed object and click Joint to bring up the new menu. "
+tagslong,,Tags change how components interact with game systems.  If a system has any tags set then only components which have a matching tag will interact with it.,Tags change how components interact with game systems.  If a system has any tags set then only components which have a matching tag will interact with it.
+typing,,typing,typing
+volumescalelong,,"Use to scale an object by stretching its sides.
+<Ctrl> Snap scaling.
+<Shift> Scale from center.","Use to scale an object by stretching its sides.
+<Ctrl> Snap scaling.
+<Shift> Scale from center."
+will move your camera up and will move your camera down.,,<Space> will move your camera up and <Ctrl> will move your camera down.,<Space> will move your camera up and <Ctrl> will move your camera down.
+{0} already exists at this location. Move and overwrite?,,{0} already exists at this location. Move and overwrite?,{0} already exists at this location. Move and overwrite?
+{0} already exists. Do you want to overwrite this file?,,{0} already exists. Do you want to overwrite this file?,{0} already exists. Do you want to overwrite this file?
+{0} copied to clipboard,,{0} copied to clipboard,{0} copied to clipboard
+{0} free,"For example, ""93GB free""",{0} free,{0} free
