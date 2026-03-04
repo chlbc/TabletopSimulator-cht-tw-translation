@@ -512,6 +512,7 @@ Deal to red.,,Deal to red.,發牌至紅色玩家。
 Deal to teal.,,Deal to teal.,發牌至深青色玩家。
 Deal to white.,,Deal to white.,發牌至白色玩家。
 Deal to yellow.,,Deal to yellow.,發牌至黃色玩家。
+Debug Server,,Debug Server,偵錯伺服器
 Decal,,Decal,印花
 Decal name,,Decal name,印花名稱
 Decals,,Decals,印花
@@ -620,6 +621,7 @@ Empty Game,,Empty Game,空房間
 Enable,,Enable,啟用
 Enable collision between bodies connected with the joint.,,Enable collision between bodies connected with the joint.,啟用節點連接物體的碰撞。
 Enable or disable card hands.,,Enable or disable card hands.,啟用或停用卡片手牌區。
+Enable the Debug Adapter Protcol server. Enables Lua debugging in VSCode etc.,,Enable the Debug Adapter Protcol server. Enables Lua debugging in VSCode etc.,啟用偵錯介面卡協定伺服器。可在 VSCode 等編輯器中進行 Lua 偵錯。
 Enhanced Base Precision,,Enhanced Base Precision,增強基本精準度
 Enter,,Enter,↵ Enter
 Enter Server Password,,Enter Server Password,輸入伺服器密碼
