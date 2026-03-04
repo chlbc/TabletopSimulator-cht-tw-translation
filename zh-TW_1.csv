@@ -16,11 +16,9 @@ Open and close the menu by hitting <Back> Twice.","＜Back＞將開啟可操控�
 (Left Click) and quickly drag away from the deck.,,<Left Click> and quickly drag away from the deck.,點擊＜滑鼠左鍵＞並快速從牌堆中拖取。
 (Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,,(Optional) An additional AssetBundle that can be used for shared effects between multiple objects to avoid duplication in memory. Great for sound and particle effects.,（可選）額外的 AssetBundle 可用於多物件間的同享效果並避免重複的記憶體使用。非常適合音效及粒子效果。
 (Optional) Back image can be left blank.,,(Optional) Back image can be left blank.,（可選）背景圖可以留空。
-(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulate,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,,
 (Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). (255 triangles and triangulated.,,(Optional) Custom model will by default generate a box collider for your model. Only use if a more accurate collider is needed due to performance costs. Supports compound colliders if there are multiple meshes (convex only). <255 triangles and triangulated.,（可選）自訂模型將預設生成一個盒型碰撞體。只會因效能消耗而需要多於一個精確碰撞體時啟用。支援小於 255 三角面多網格的組合碰撞體（僅限凸狀）。
 (Optional) Game Types:,,(Optional) Game Types:,（可選）遊戲類型：
 (Optional) Number of Players:,,(Optional) Number of Players:,（可選）玩家人數
-"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied co","(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,
 "(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",,"(Optional) Only used if mesh collider is supplied. Non-convex collision only works on locked objects, but allows colliders with holes (ex, Chinese Checker Board). If you need a non-convex collider on a moving object use multiple meshes on your supplied collider with this setting off.",（可選）只在有網格碰撞體時使用。非凸碰撞僅適用於鎖定的物件，但允許孔洞碰撞體（例如：中國跳棋棋盤）。如果您需要在移動物件上使用非凸碰撞，請在碰撞體上使用多個網格並停用此設定。
 "(Optional) Upload the diffuse-image texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the diffuse/image texture for your model to a web host, then copy paste the direct link here.",（可選）上傳模型的漫反射或圖片紋理至網頁代管，然後將連結在此處複製貼上。
 "(Optional) Upload the normal-bump texture for your model to a web host, then copy paste the direct link here.",,"(Optional) Upload the normal/bump texture for your model to a web host, then copy paste the direct link here.",（可選）上傳模型的一般或凹凸貼圖至網頁代管，然後將連結在此處複製貼上。
@@ -162,10 +160,8 @@ Autofocus Search Input,,Autofocus Search Input,自動對焦搜尋輸入
 Automatic,,Automatic,自動
 Automatically arranges objects (predominantly cards),,Automatically arranges objects (predominantly cards),自動整理物件（主要針對卡片）
 Autoraise,,Autoraise,自動朝上
-Autosave Games Window Count,,,自動儲存遊戲顯示數量
 Autosave Interval,,Autosave Interval,自動儲存間隔
 Autosave Log,,Autosave Log,自動儲存記錄
-Autosave Slots,,,自動儲存欄位
 Available space on Steam Cloud. ~100 GB available total.,,Available space on Steam Cloud. ~100 GB available total.,Steam 雲端的可用空間。總計 100 GB 可用。
 Axis,,Axis,參考軸線
 BACKGROUNDS,,Backgrounds,背景
@@ -281,9 +277,6 @@ Card Games,,Card Games,卡片遊戲
 Card Hands,,Card Hands,卡片手牌區
 Card Is A Deck For Hotkeys,,Card Is A Deck For Hotkeys,快速鍵會將單張卡片視為牌堆
 Card Scale,,Card Scale,卡片尺寸
-Card Spread Cards-Per-Row,,,每行卡片展開上限
-Card Spread Distance,,,卡片展開間距
-Card Spread Next Row Distance,,,卡片展開行距
 CardBot,,CardBot,卡片機器人
 CardBots Head Deck,,CardBots Head Deck,卡片機器人 頭部牌堆
 CardBots Main Deck,,CardBots Main Deck,卡片機器人 主要牌堆
@@ -304,7 +297,6 @@ Cerberus,,Cerberus,克爾柏洛斯
 Certain object types have special properties to make them behave more naturally.,,Certain object types have special properties to make them behave more naturally.,某些物件類型具有特殊屬性，使其表現得更加自然。
 Chair,,Chair,椅子
 Change Color,,Change Color,更改顏色
-Change Name,,,更改名稱
 Change Team,,Change Team,更換小組
 "Change any settings like Graphics, Controls, UI, etc.",,"Change any settings like Graphics, Controls, UI, etc.",更改如圖像、控制、介面等設定。
 Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),,Change between Voice Chat Modes: Push To Talk (Hold the voice key) Toggle (Toggle voice on or off) Disable (Turns off voice chat),切換語音聊天模式：即按即說（按住語音鍵）；切換語音（開啟／關閉語音）；停用語音（關閉語音聊天）
@@ -408,7 +400,6 @@ UDP 4380（離埠）"
 Connecting to this player.,,Connecting to this player.,連線至此玩家。
 Connecting...,,Connecting...,連線中……
 Console Hotkey Lock,,Console Hotkey Lock,控制台鎖定快速鍵
-Container Logging,,,容器記錄
 Context Menus Can Collapse,,Context Menus Can Collapse,環境選單可摺疊
 Context Menus Show GM Notes,,Context Menus Show GM Notes,環境選單顯示遊戲主持者筆記
 Contextual,,Contextual,環境選單
@@ -519,7 +510,6 @@ Decals,,Decals,印花
 Decals are great for adding small details or for card stickers.,,Decals are great for adding small details or for card stickers.,印花很適合加入細節或製作卡片貼紙。
 Deck,,Deck,牌堆
 Deck Builder,,Deck Builder,牌堆生成器
-Deck Can Spread Facedown,,,牌堆可面朝下展開
 Deck Editor,,Deck Editor,牌堆編輯器
 Default,,Default,預設
 Delete,,Delete,刪除
@@ -582,7 +572,6 @@ Don't show servers that are full.,,Don't show servers that are full.,不顯示�
 Don't show servers that have passwords.,,Don't show servers that have passwords.,不顯示需要密碼的伺服器。
 Double-Click Container Pickup,,Double-Click Container Pickup,雙擊撿起容器
 Down,,Down,下
-Downloaded,,,下載時間
 Downtown,,Downtown,市中心
 Drag,,Drag,拖取
 Drag Selectable,,Drag Selectable,拖取可選擇物件
@@ -766,7 +755,6 @@ Grid will be projected onto the table and any object that has grid projection tu
 Griffon,,Griffon,獅鷲
 Ground,,Ground,地面
 Group,,Group,重組
-Group Into Bag First,,,自動重組至收納袋
 Grouping,,Grouping,重組
 Groups,,Groups,分組
 HINGE,,Hinge,鉸鏈
@@ -901,10 +889,8 @@ Joker,,Joker,鬼牌
 Jokers,,Jokers,鬼牌
 Joypad Emulation,,Joypad Emulation,控制器模擬器
 Keyboard,,Keyboard,鍵盤
-Keyboard Single Digit By Default,,,鍵盤預設輸入單一數字
 Keyboard Single Digit Draw,,Keyboard Single Digit Draw,鍵盤輸入單一數字以抽牌
 Kickstarter,,Kickstarter,Kickstarter
-Kimi Kat,,,奇美凱
 King,,King,國王
 King Cast Iron,,King Cast Iron,鑄鐵國王
 King Chrome,,King Chrome,鉻金屬國王
@@ -917,7 +903,6 @@ Knight Chrome,,Knight Chrome,鉻金屬騎士
 Knight Dark,,Knight Dark,深色騎士
 Knight Light,,Knight Light,淡色騎士
 Knight Supporters,,Knight Supporters,支持者限定騎士
-Knight of Knil,,,克尼爾騎士
 Kobold,,Kobold,狗頭人
 LAN,,LAN,局部區域網路
 LANGUAGE_BROWSE_TOOLTIP,,Find community translation mods on the Workshop.,在工作坊搜尋社群翻譯模組。
@@ -941,7 +926,6 @@ Laser Beam Opacity,,Laser Beam Opacity,雷射波束不透明度
 Laser Beam Thickness,,Laser Beam Thickness,雷射波束粗細
 Laser Beam Visible,,Laser Beam Visible,雷射波束可見度
 Laser Dot Size,,Laser Dot Size,雷射點尺寸
-Last Played,,,最後遊玩
 Last in last out or a reverse queue.,,Last in last out or a reverse queue.,後手後出或反轉佇列。
 Layout,,Layout,佈置區
 Layout Zone,,Layout Zone,佈置區
@@ -1035,7 +1019,6 @@ Main Menu Volume,,Main Menu Volume,主選單音量
 Manticora,,Manticora,蠍獅
 Manual Only,,Manual Only,僅手動
 Map,,Map,地圖
-Mara,,,妖魔
 Marbles,,Marbles,彈珠
 Mass,,Mass,質量
 Master Volume,,Master Volume,主持者音量
@@ -1342,7 +1325,6 @@ Random Domino,,Random Domino,隨機多米諾骨牌
 Random Mahjong,,Random Mahjong,隨機麻將牌
 Randomize,,Randomize,隨機區
 Randomize - Raise,,Randomize / Raise,隨機排列／提起
-Randomize Zone Load Prompt,,,隨機區載入提示
 Randomize Zone Tags,,Randomize Zone Tags,隨機區標籤
 Randomize all objects in this zone?,,Randomize all objects in this zone?,是否要隨機排列此區域內的所有物件呢？
 Randomizes rotation when shaken and spins when thrown.,,Randomizes rotation when shaken and spins when thrown.,搖動及拋擲旋轉時，隨機旋轉角度。
@@ -1549,7 +1531,6 @@ Shuffle,,Shuffle,洗牌
 Sideways,,Sideways,橫置
 Silver 500,,Silver 500,銀色籌碼 500
 Singleplayer,,Singleplayer,單人遊戲
-Sir Loin,,,洛伊恩爵士
 Size,,Size,大小
 Size Of Collapsed Section,,Size Of Collapsed Section,物件摺疊的尺寸
 Size of the UI.,,Size of the UI.,遊戲介面的尺寸。
@@ -1645,7 +1626,6 @@ Tab,,Tab,Tab
 Tab1,,Tab1,Tab1
 Table,,Table,桌子
 Table Flip,,Table Flip,翻桌
-"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 pla","Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,
 "Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the ""Hands Zone Tool"".",正如真實生活一樣，桌子就是您遊玩遊戲的地方。最小的是方桌，可容納四位玩家。六角桌則可容納至多六位玩家。自訂的長方桌可容納十位玩家，其他桌子可容納至多八位玩家。座位可使用「手牌區工具」進行自訂。
 "Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players. Seats can be customized using the Hands Zone Tool .",,"Tables are where you play games, just like in real life. The smallest table is the square table which sits a max of 4 players. The hexagon table seats a max of 6 players. The custom rectangle table seats 10 players and all other tables hold a max of 8 players.
  Seats can be customized using the ""Hands Zone Tool"". 
@@ -1702,7 +1682,6 @@ The name of the decal.,,The name of the decal.,此印花的名稱。
 The number of pixels the game uses to render. Recommended to be the same as your monitor.,,The number of pixels the game uses to render. Recommended to be the same as your monitor.,遊戲進行渲染的解析度。推薦使用與顯示器相同的解析度。
 The object will stretch to match the aspect ratio of the supplied image.,,The object will stretch to match the aspect ratio of the supplied image.,物件會拉伸以符合圖像的長寬比。
 The password for the server. Only usable for public servers.,,The password for the server. Only usable for public servers.,伺服器的密碼。僅適用於公開伺服器。
-The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the s,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,
 The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,,The points tool can be used to create snap points and rotate snap points to make placing objects down much easier and smoother. Clicking on an unlocked object will place the snap point right where it's place. Clicking on a locked object will attache the snap point to that object.,吸附點工具可以建立吸附點和旋轉吸附點，使物件的放置更加容易且平滑。點擊未鎖定的物件會在所在位置放置吸附點。點擊鎖定的物件會在物件上放置吸附點。
 "The quality, filtering, and distance of shadows. Also affects the lighting quality.",,"The quality, filtering, and distance of shadows. Also affects the lighting quality.",陰影的品質、過濾和距離。同樣影響光照品質。
 "The reflective color of the object. RGB 255, 255, 255.",,"The reflective color of the object. RGB 255, 255, 255.","物件的反射色。RGB 最大值分別為：255, 255, 255。"
@@ -1734,7 +1713,6 @@ This is tags used to search in the Steam Workshop.,,This is tags used to search 
 This is the amount of time the current game takes (Used to search for games).,,This is the amount of time the current game takes (Used to search for games).,目前遊戲的一般所需時間（用於搜尋遊戲）。
 This is the number of players the current game allows (different from the max number of players allowed on the server).,,This is the number of players the current game allows (different from the max number of players allowed on the server).,目前遊戲的玩家上限（不同於伺服器玩家上限）。
 This menu is used to update an existing mod on the Workshop.,,This menu is used to update an existing mod on the Workshop.,此選單用於更新工作坊已有的模組。
-"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod","This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,
 "This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.",此選單用於將目前的內容作為遊戲上傳至 Steam 工作坊。若您想要更新已上傳的模組，請確保選取「更新工作坊」標籤。若未選取，您將生成多版本模組。
 "This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the Update Workshop tab. If not, you will generate multiple versions of your mod.",,"This menu is used to upload the current state of the table to Steam Workshop as a game. If you wish to update an existing mod you have already uploaded, make sure to choose the ""Update Workshop"" tab. If not, you will generate multiple versions of your mod.  <Click to open page to knowledge base.>",此選單用於將目前的內容作為遊戲上傳至 Steam 工作坊。若您想要更新已上傳的模組，請確保選取「更新工作坊」標籤。若未選取，您將生成多版本模組。＜點擊開啟官方知識庫頁面。＞
 This object will hold one object inside with an infinite number of them.,,This object will hold one object inside with an infinite number of them.,此物件可以無限收納任一物件。
@@ -1802,7 +1780,6 @@ UP_THEN_LEFT,,Up / Left,上／左
 UP_THEN_RIGHT,,Up / Right,上／右
 URL,,URL,連結
 USE_GIZMO_FOR_GRID,,Use Gizmo Tool to align grid: select a component to center grid on it.  ctrl-click a second component to align grid size.,使用 Gizmo 工具對齊網格：選取一個元件以將網格於其上置中。按住＜Ctrl＞並點選第二個元件以對齊網格大小。
-Ui Toast Duration,,,介面吐司提示時間
 Ultra,,Ultra,極致
 Under,,Under,置底
 Unique Backs,,Unique Backs,花樣背面
@@ -1817,11 +1794,9 @@ Upload All Loaded Files,,Upload All Loaded Files,上傳所有已載入檔案
 Upload File,,Upload File,上傳檔案
 Upload Local File,,Upload Local File,上傳本機檔案
 Upload Workshop,,Upload Workshop,上傳工作坊
-"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to for","Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,
 "Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",,"Upload all currently loaded custom files to the Steam Cloud. Great for converting your local content to work in multiplayer or backing up mods with dead links to the Steam Cloud. Custom files must be cached to disk to work, so search any bags first to force a cache.",上傳所有目前載入的自訂檔案至 Steam 雲端。非常適合將本機內容轉換為多人可用或是將失效連結的模組備份至 Steam 雲端。自訂檔案必須快取至硬碟才能正常工作，因此請先搜尋任意收納袋（Bags）以強制進行快取。
 Upload all loaded custom files to the Steam Cloud?,,Upload all loaded custom files to the Steam Cloud?,是否要上傳所有載入的自訂檔案至 Steam 雲端呢？
 Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),,Upload file to the Steam Cloud or load from your local disk. (Note: Local files will not work in multiplayer),上傳檔案至 Steam 雲端或從本機硬碟載入。（提示：多人遊戲中無法載入本機檔案）
-"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material sup","Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.",,
 "Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader material support, animations, sounds, lights, particles, and much more.",,"Upload your AssetBundle to a web host, then copy paste the direct link here. This is an advanced feature for people that know how to use the Unity engine. You can find a link to the project on our Knowledge base. AssetBundles give full shader / material support, animations, sounds, lights, particles, and much more.",上傳 AssetBundle 至網頁代管，然後將連結在此處複製貼上。這是為了解 Unity 引擎的使用者提供的進階選項。您可以在官方知識庫中找到相關連結。AssetBundle 提供全面的著色和材料支援，以及動作、音效、光照、粒子等等。
 "Upload your PDF File to a web host, then copy paste the direct link here.",,"Upload your PDF File to a web host, then copy paste the direct link here.",上傳 PDF 檔案至網頁代管，然後將連結在此處複製貼上。
 "Upload your audio to a web host, then copy paste the direct link here.",,"Upload your audio to a web host, then copy paste the direct link here.",上傳音訊至網頁代管，然後將連結在此處複製貼上。
@@ -1972,8 +1947,6 @@ You will need to flip it with double tap so it stacks. Then drop the card on top
 Then drop the card on top of the deck.","您需要雙擊將其翻面。
 然後將卡片疊在牌堆頂端。"
 Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),,Your upload to Workshop was successful! Save this number to update the mod in the future. (Can also be found in the URL for your mod),已成功上傳工作坊！儲存這串數字來進行後續更新。（同樣可以在模組的連結中找到）
-Zeke Kodoku,,,傑克寇杜庫
-Zomblor,,,殭布落
 Zone,,Zone,區域
 Zones,,Zones,區域
 Zoom,,Zoom,縮放
@@ -1986,8 +1959,6 @@ Zoom Out - Rotate Left,,Zoom Out / Rotate Left,縮小／向左旋轉
 Zoom Toggle,,Zoom Toggle,切換縮放
 Zoom in-out,,Zoom in/out,放大／縮小
 Zoom time!,,Zoom time!,縮放時間！
-_Author,,,"CHLBC, original by chinming17"
-_Title,,,桌遊模擬器 繁體中文化
 combinelong,,"The combine tool is a tool where you can link objects together. To unlink objects, click on the original combined object and link to nothing.  The combine tool is great for making dials, wheels, roulette tables and even just sticking objects together.",組合工具可以將物件連結在一起。若要取消連結，請點擊已組合的原始物件，並連結至空白處。組合工具非常適合製作錶盤、車輪、輪盤桌，或者只是簡單地將物件固定在一起。
 decallong,,"The decal tool can be used to make card stickers, bullet holes, or other effects that need transparency. +/- to scale size. Q/E to rotate.",印花工具可以製作卡片貼紙、彈孔，或其他附有透明度效果的圖案。使用＜+＞或＜-＞縮放大小、＜Q＞或＜E＞進行旋轉。
 edgecenterlong,,"When measuring from an object:
